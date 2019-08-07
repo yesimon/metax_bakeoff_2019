@@ -1,0 +1,5 @@
+1270	1.00000	0.20000	species	Micrococcus luteus
+1282	1.00000	0.20000	species	Staphylococcus epidermidis
+562	1.00000	0.20000	species	Escherichia coli
+1570	1.00000	0.20000	species	Halobacillus halophilus
+294	1.00000	0.20000	species	Pseudomonas fluorescens

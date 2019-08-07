@@ -1,0 +1,59 @@
+abundance	name	rank	taxid	sample
+0.05	Bacteroides vulgatus ATCC 8482	subspecies	435590	atcc_even
+0.05	Bacteroides vulgatus	species	821	atcc_even
+0.05	Helicobacter pylori 26695	subspecies	85962	atcc_even
+0.05	Helicobacter pylori	species	210	atcc_even
+0.05	Porphyromonas gingivalis ATCC 33277	subspecies	431947	atcc_even
+0.05	Porphyromonas gingivalis	species	837	atcc_even
+0.05	Lactobacillus gasseri ATCC 33323	subspecies	324831	atcc_even
+0.05	Lactobacillus gasseri	species	1596	atcc_even
+0.05	Streptococcus mutans UA159	subspecies	210007	atcc_even
+0.05	Streptococcus mutans	species	1309	atcc_even
+0.05	Staphylococcus epidermidis ATCC 12228	subspecies	176280	atcc_even
+0.05	Staphylococcus epidermidis	species	1282	atcc_even
+0.05	Bacillus cereus ATCC 10987	subspecies	222523	atcc_even
+0.05	Bacillus cereus	species	1396	atcc_even
+0.05	Neisseria meningitidis MC58	subspecies	122586	atcc_even
+0.05	Neisseria meningitidis	species	487	atcc_even
+0.05	Acinetobacter baumannii ATCC 17978	subspecies	400667	atcc_even
+0.05	Acinetobacter baumannii	species	470	atcc_even
+0.05	Deinococcus radiodurans R1	subspecies	243230	atcc_even
+0.05	Deinococcus radiodurans	species	1299	atcc_even
+0.05	Pseudomonas aeruginosa strain ATCC 9027	subspecies	287	atcc_even
+0.05	Pseudomonas aeruginosa	species	287	atcc_even
+0.05	Clostridium beijerinckii ATCC 35702	subspecies	864803	atcc_even
+0.05	Clostridium beijerinckii	species	1520	atcc_even
+0.05	Propionibacterium acnes ATCC 11828	subspecies	1091045	atcc_even
+0.05	Cutibacterium acnes	species	1747	atcc_even
+0.05	Escherichia coli str. K-12 substr. MG1655	subspecies	511145	atcc_even
+0.05	Escherichia coli	species	562	atcc_even
+0.05	Actinomyces odontolyticus ATCC 17982	subspecies	411466	atcc_even
+0.05	Actinomyces odontolyticus	species	1660	atcc_even
+0.05	Rhodobacter sphaeroides ATCC 17029	subspecies	349101	atcc_even
+0.05	Rhodobacter sphaeroides	species	1063	atcc_even
+0.05	Streptococcus agalactiae 2603V/R	subspecies	208435	atcc_even
+0.05	Streptococcus agalactiae	species	1311	atcc_even
+0.05	Bifidobacterium adolescentis ATCC 15703	subspecies	367928	atcc_even
+0.05	Bifidobacterium adolescentis	species	1680	atcc_even
+0.05	Staphylococcus aureus subsp. aureus USA300_FPR3757	subspecies	451515	atcc_even
+0.05	Staphylococcus aureus	species	1280	atcc_even
+0.05	Enterococcus faecalis OG1RF	subspecies	474186	atcc_even
+0.05	Enterococcus faecalis	species	1351	atcc_even
+0.05	Neisseria	genus	482	atcc_even
+0.05	Porphyromonas	genus	836	atcc_even
+0.05	Enterococcus	genus	1350	atcc_even
+0.05	Escherichia	genus	561	atcc_even
+0.05	Lactobacillus	genus	1578	atcc_even
+0.05	Clostridium	genus	1485	atcc_even
+0.05	Bifidobacterium	genus	1678	atcc_even
+0.05	Bacteroides	genus	816	atcc_even
+0.05	Helicobacter	genus	209	atcc_even
+0.05	Deinococcus	genus	1298	atcc_even
+0.05	Acinetobacter	genus	469	atcc_even
+0.05	Actinomyces	genus	1654	atcc_even
+0.05	Cutibacterium	genus	1912216	atcc_even
+0.05	Rhodobacter	genus	1060	atcc_even
+0.1	Staphylococcus	genus	1279	atcc_even
+0.05	Bacillus	genus	1386	atcc_even
+0.05	Pseudomonas	genus	286	atcc_even
+0.1	Streptococcus	genus	1301	atcc_even

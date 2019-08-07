@@ -1,0 +1,12 @@
+888807	50000.00000	0.08333	subspecies	-Streptococcus sanguinis SK1 = NCTC 7863
+1408178	50000.00000	0.08333	subspecies	-Streptococcus thermophilus ASCC 1275
+1074120	50000.00000	0.08333	subspecies	-Streptococcus mutans TCI-125
+516950	50000.00000	0.08333	subspecies	-Streptococcus pneumoniae CGSP14
+404330	0.00000	0.00000	subspecies	-Streptococcus pyogenes serotype M2
+370552	50000.00000	0.08333	subspecies	--Streptococcus pyogenes MGAS10270
+119602	50000.00000	0.08333	subspecies	-Streptococcus dysgalactiae subsp. equisimilis
+40041	0.00000	0.00000	subspecies	-Streptococcus equi subsp. zooepidemicus
+1381082	50000.00000	0.08333	subspecies	--Streptococcus equi subsp. zooepidemicus Sz4is
+546268	50000.00000	0.08333	subspecies	-Neisseria subflava NJ9703
+546273	50000.00000	0.08333	subspecies	-Veillonella dispar ATCC 17748
+521005	50000.00000	0.08333	subspecies	-Haemophilus influenzae 7P49H1

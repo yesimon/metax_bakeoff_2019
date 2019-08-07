@@ -1,0 +1,9 @@
+1358	2.00000	0.20000	species	Lactococcus lactis
+34	1.00000	0.10000	species	Myxococcus xanthus
+1580	1.00000	0.10000	species	Lactobacillus brevis
+1597	1.00000	0.10000	species	Lactobacillus paracasei
+2242	1.00000	0.10000	species	Halobacterium salinarum
+4932	1.00000	0.10000	species	Saccharomyces cerevisiae
+28049	1.00000	0.10000	species	Acidothermus cellulolyticus
+1255	1.00000	0.10000	species	Pediococcus pentosaceus
+60478	1.00000	0.10000	species	Shewanella amazonensis

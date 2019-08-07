@@ -1,0 +1,44 @@
+286	75000.00000	0.06250	genus	Pseudomonas
+816	50000.00000	0.04167	genus	Bacteroides
+940557	50000.00000	0.04167	genus	Granulicella
+209	25000.00000	0.02083	genus	Helicobacter
+1573	25000.00000	0.02083	genus	Clavibacter
+1763	25000.00000	0.02083	genus	Mycobacterium
+1817	25000.00000	0.02083	genus	Nocardia
+1827	25000.00000	0.02083	genus	Rhodococcus
+1854	25000.00000	0.02083	genus	Frankia
+1883	25000.00000	0.02083	genus	Streptomyces
+2000	25000.00000	0.02083	genus	Streptosporangium
+2349	25000.00000	0.02083	genus	Haliscomenobacter
+226	25000.00000	0.02083	genus	Alteromonas
+237	25000.00000	0.02083	genus	Flavobacterium
+32008	25000.00000	0.02083	genus	Burkholderia
+34072	25000.00000	0.02083	genus	Variovorax
+39643	25000.00000	0.02083	genus	Sorangium
+40323	25000.00000	0.02083	genus	Stenotrophomonas
+68288	25000.00000	0.02083	genus	Cyclobacterium
+84567	25000.00000	0.02083	genus	Pedobacter
+379	25000.00000	0.02083	genus	Rhizobium
+104264	25000.00000	0.02083	genus	Cellulophaga
+561	25000.00000	0.02083	genus	Escherichia
+120831	25000.00000	0.02083	genus	Dyadobacter
+32	25000.00000	0.02083	genus	Myxococcus
+146918	25000.00000	0.02083	genus	Salinibacter
+590	25000.00000	0.02083	genus	Salmonella
+768	25000.00000	0.02083	genus	Anaplasma
+127	25000.00000	0.02083	genus	Isosphaera
+265488	25000.00000	0.02083	genus	Rhodopirellula
+332162	25000.00000	0.02083	genus	Candidatus Solibacter
+375288	25000.00000	0.02083	genus	Parabacteroides
+414878	25000.00000	0.02083	genus	Catenulispora
+417127	25000.00000	0.02083	genus	Zunongwangia
+466152	25000.00000	0.02083	genus	Singulisphaera
+658061	25000.00000	0.02083	genus	Candidatus Koribacter
+767891	25000.00000	0.02083	genus	Candidatus Puniceispirillum
+838	25000.00000	0.02083	genus	Prevotella
+75	25000.00000	0.02083	genus	Caulobacter
+991903	25000.00000	0.02083	genus	Polymorphum
+1649480	25000.00000	0.02083	genus	Planctopirus
+1649482	25000.00000	0.02083	genus	Pseudopedobacter
+1649490	25000.00000	0.02083	genus	Rubinisphaera
+1073	25000.00000	0.02083	genus	Rhodopseudomonas

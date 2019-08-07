@@ -1,0 +1,53 @@
+783	1.00000	0.01887	species	Rickettsia rickettsii
+803	1.00000	0.01887	species	Bartonella quintana
+821	1.00000	0.01887	species	Bacteroides vulgatus
+1092	1.00000	0.01887	species	Chlorobium limicola
+731	1.00000	0.01887	species	Histophilus somni
+666	1.00000	0.01887	species	Vibrio cholerae
+1280	1.00000	0.01887	species	Staphylococcus aureus
+1314	1.00000	0.01887	species	Streptococcus pyogenes
+1520	1.00000	0.01887	species	Clostridium beijerinckii
+1624	1.00000	0.01887	species	Lactobacillus salivarius
+1643	1.00000	0.01887	species	Listeria welshimeri
+1680	1.00000	0.01887	species	Bifidobacterium adolescentis
+1718	1.00000	0.01887	species	Corynebacterium glutamicum
+632	1.00000	0.01887	species	Yersinia pestis
+2097	1.00000	0.01887	species	Mycoplasma genitalium
+2214	1.00000	0.01887	species	Methanosarcina acetivorans
+2261	1.00000	0.01887	species	Pyrococcus furiosus
+2337	1.00000	0.01887	species	Thermotoga neapolitana
+28110	1.00000	0.01887	species	Francisella philomiragia
+624	1.00000	0.01887	species	Shigella sonnei
+521	1.00000	0.01887	species	Bordetella avium
+31998	1.00000	0.01887	species	Methylobacterium radiotolerans
+33903	1.00000	0.01887	species	Streptomyces avermitilis
+35779	1.00000	0.01887	species	Aster yellows phytoplasma
+42879	1.00000	0.01887	species	Methanococcus aeolicus
+43080	1.00000	0.01887	species	Sulfolobus islandicus
+43663	1.00000	0.01887	species	Paenarthrobacter aurescens
+43989	1.00000	0.01887	species	Cyanothece sp. ATCC 51142
+57975	1.00000	0.01887	species	Burkholderia thailandensis
+61435	1.00000	0.01887	species	Dehalococcoides mccartyi
+64471	1.00000	0.01887	species	Synechococcus sp. CC9311
+66084	1.00000	0.01887	species	Wolbachia sp. wRi
+346	1.00000	0.01887	species	Xanthomonas citri
+83557	1.00000	0.01887	species	Chlamydia caviae
+779	1.00000	0.01887	species	Ehrlichia ruminantium
+294	1.00000	0.01887	species	Pseudomonas fluorescens
+106370	1.00000	0.01887	species	Frankia sp. CcI3
+114615	1.00000	0.01887	species	Bradyrhizobium sp. ORS 278
+235	1.00000	0.01887	species	Brucella abortus
+164757	1.00000	0.01887	species	Mycobacterium sp. JLS
+181486	1.00000	0.01887	species	Pyrobaculum calidifontis
+212	1.00000	0.01887	species	Helicobacter acinonychis
+192073	1.00000	0.01887	species	Shewanella denitrificans
+200	1.00000	0.01887	species	Campylobacter curvus
+174	1.00000	0.01887	species	Leptospira borgpetersenii
+248026	1.00000	0.01887	species	Cupriavidus pinatubonensis
+334543	1.00000	0.01887	species	Psychrobacter arcticus
+404589	1.00000	0.01887	species	Anaeromyxobacter sp. Fw109-5
+480224	1.00000	0.01887	species	Chloroflexus sp. Y-400-fl
+492670	1.00000	0.01887	species	Bacillus velezensis
+664662	1.00000	0.01887	species	Borreliella bavariensis
+911092	1.00000	0.01887	species	Caldanaerobacter subterraneus
+1203471	1.00000	0.01887	species	Geobacter daltonii

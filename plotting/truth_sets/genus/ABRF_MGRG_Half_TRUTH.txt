@@ -1,0 +1,5 @@
+1269	1.00000	0.20000	genus	Micrococcus
+1279	1.00000	0.20000	genus	Staphylococcus
+45667	1.00000	0.20000	genus	Halobacillus
+561	1.00000	0.20000	genus	Escherichia
+286	1.00000	0.20000	genus	Pseudomonas

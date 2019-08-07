@@ -1,0 +1,12 @@
+1305	50000.00000	0.08333	species	Streptococcus sanguinis
+1308	50000.00000	0.08333	species	Streptococcus thermophilus
+1309	50000.00000	0.08333	species	Streptococcus mutans
+1313	50000.00000	0.08333	species	Streptococcus pneumoniae
+1314	50000.00000	0.08333	species	Streptococcus pyogenes
+1334	50000.00000	0.08333	species	Streptococcus dysgalactiae
+1336	50000.00000	0.08333	species	Streptococcus equi
+28449	50000.00000	0.08333	species	Neisseria subflava
+727	50000.00000	0.08333	species	Haemophilus influenzae
+729	50000.00000	0.08333	species	Haemophilus parainfluenzae
+1304	50000.00000	0.08333	species	Streptococcus salivarius
+39778	50000.00000	0.08333	species	Veillonella dispar

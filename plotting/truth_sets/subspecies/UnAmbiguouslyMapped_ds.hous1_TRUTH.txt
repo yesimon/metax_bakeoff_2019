@@ -1,0 +1,35 @@
+525330	25000.00000	0.03333	subspecies	-Lactobacillus johnsonii ATCC 33200
+391595	25000.00000	0.03333	subspecies	-Roseobacter litoralis Och 149
+1203258	25000.00000	0.03333	subspecies	-Lactobacillus rhamnosus LRHMDP2
+883092	25000.00000	0.03333	subspecies	-Lactobacillus crispatus FB077-07
+383629	25000.00000	0.03333	subspecies	-Phaeobacter gallaeciensis 2.10
+394221	25000.00000	0.03333	subspecies	-Maricaulis maris MCS10
+398580	25000.00000	0.03333	subspecies	-Dinoroseobacter shibae DFL 12 = DSM 16493
+208964	2103.00000	0.00280	subspecies	-Pseudomonas aeruginosa PAO1
+208963	22897.00000	0.03053	subspecies	-Pseudomonas aeruginosa UCBPP-PA14
+1033837	25000.00000	0.03333	subspecies	-Lactobacillus kefiranofaciens ZW3
+564420	25000.00000	0.03333	subspecies	-Pseudomonas fluorescens NZ011
+399739	25000.00000	0.03333	subspecies	-Pseudomonas mendocina ymp
+1193499	25000.00000	0.03333	subspecies	-Pseudomonas putida SJTE-1
+1210443	25000.00000	0.03333	subspecies	-Pseudomonas stutzeri T13
+220664	25000.00000	0.03333	subspecies	-Pseudomonas protegens Pf-5
+264449	0.00000	0.00000	subspecies	-Pseudomonas syringae group pathovars incertae sedis
+103796	0.00000	0.00000	subspecies	--Pseudomonas syringae pv. actinidiae
+1094177	25000.00000	0.03333	subspecies	---Pseudomonas syringae pv. actinidiae KW41
+322710	25000.00000	0.03333	subspecies	-Azotobacter vinelandii DJ
+272942	25000.00000	0.03333	subspecies	-Rhodobacter capsulatus SB 1003
+272943	25000.00000	0.03333	subspecies	-Rhodobacter sphaeroides 2.4.1
+1421011	25000.00000	0.03333	subspecies	-Lactobacillus acidophilus CFH
+525318	14815.00000	0.01975	subspecies	-Lactobacillus buchneri ATCC 11577
+511437	10185.00000	0.01358	subspecies	-Lactobacillus buchneri NRRL B-30929
+29397	0.00000	0.00000	subspecies	-Lactobacillus delbrueckii subsp. lactis
+1269760	25000.00000	0.03333	subspecies	--Lactobacillus delbrueckii subsp. lactis CRL581
+1226336	25000.00000	0.03333	subspecies	-Lactobacillus helveticus CIRM-BIA 101
+1327988	25000.00000	0.03333	subspecies	-Lactobacillus plantarum 16
+1273150	0.00000	0.00000	subspecies	-Lactobacillus reuteri 1063
+927703	25000.00000	0.03333	subspecies	--Lactobacillus reuteri ATCC 53608
+1408443	25000.00000	0.03333	subspecies	-Lactobacillus fermentum NB-22
+525362	25000.00000	0.03333	subspecies	-Lactobacillus ruminis ATCC 25644
+391626	25000.00000	0.03333	subspecies	-Octadecabacter antarcticus 307
+318	0.00000	0.00000	subspecies	-Pseudomonas savastanoi pv. glycinea
+875329	25000.00000	0.03333	subspecies	--Pseudomonas savastanoi pv. glycinea str. B076

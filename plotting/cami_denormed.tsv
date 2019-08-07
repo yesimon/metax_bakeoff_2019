@@ -1,0 +1,1118 @@
+sample	taxid	num_reads	rank	name	abundance
+RL_S001__insert_270	266	2037585	species	Paracoccus denitrificans	0.0835019318979687
+RL_S001__insert_270	2088	3001127	species	Anaeroplasma bactoclasticum	0.12298868629831645
+RL_S001__insert_270	2371	107568	species	Xylella fastidiosa	0.004408226312227808
+RL_S001__insert_270	29580	6146574	genus	Janthinobacterium	0.9971889555007454
+RL_S001__insert_270	75309	17327	genus	Rhodanobacter	0.0028110444992546116
+RL_S001__insert_270	173053	5653969	species	Tetrasphaera duodecadis	0.2317043629547853
+RL_S001__insert_270	328515	41609	species	Nonlabens dokdonensis	0.0017051715066328914
+RL_S001__insert_270	404881	1346963	species	Defluviimonas denitrificans	0.05519966661272223
+RL_S001__insert_270	644383	4418897	species	Thermosporothrix hazakensis	0.18109008279808608
+RL_S001__insert_270	990712	150629	species	Albidovulum xiamenense	0.006172901989295724
+RL_S001__insert_270	1004304	7245436	species	Hydrotalea sandarakina	0.29692400731409524
+RM2_S001__insert_270	16	230290	genus	Methylophilus	0.040156174720250314
+RM2_S001__insert_270	192	2179891	species	Azospirillum brasilense	0.1051267527929307
+RM2_S001__insert_270	280	69182	species	Xanthobacter autotrophicus	0.0033363498503918457
+RM2_S001__insert_270	354	2895	species	Azotobacter vinelandii	0.00013961337944674038
+RM2_S001__insert_270	379	16055	genus	Rhizobium	0.0027995457255357106
+RM2_S001__insert_270	382	7054444	species	Sinorhizobium meliloti	0.3402054462721178
+RM2_S001__insert_270	466	95474	species	Legionella maceachernii	0.004604299754507113
+RM2_S001__insert_270	915	4627	species	Nitrosomonas europaea	0.00022314027865287316
+RM2_S001__insert_270	1061	279459	species	Rhodobacter capsulatus	0.013477103767463427
+RM2_S001__insert_270	1082	1337632	species	Phaeospirillum fulvum	0.06450822935271235
+RM2_S001__insert_270	1513	122130	species	Clostridium tetani	0.005889803810649535
+RM2_S001__insert_270	1516	255085	species	Thermoanaerobacter thermohydrosulfuricus	0.0123016507413374
+RM2_S001__insert_270	1525	844110	species	Moorella thermoacetica	0.04070778919681797
+RM2_S001__insert_270	1707	1615413	genus	Cellulomonas	0.28168312420584357
+RM2_S001__insert_270	1763	113089	genus	Mycobacterium	0.019719578109941325
+RM2_S001__insert_270	1817	40990	genus	Nocardia	0.0071475166172350535
+RM2_S001__insert_270	1827	94767	genus	Rhodococcus	0.01652473059930506
+RM2_S001__insert_270	2030	666245	species	Kibdelosporangium aridum	0.032130126421241294
+RM2_S001__insert_270	2062	2565668	family	Streptomycetaceae	0.17760524749510276
+RM2_S001__insert_270	2242	8581	species	Halobacterium salinarum	0.0004138246663324626
+RM2_S001__insert_270	13687	413272	genus	Sphingomonas	0.07206314924220455
+RM2_S001__insert_270	28136	767	species	Prevotella oulorum	3.69891060572193e-05
+RM2_S001__insert_270	34038	3000	species	Rahnella aquatilis	0.00014467707714688123
+RM2_S001__insert_270	35623	4895	species	Acholeplasma oculi	0.00023606476421132787
+RM2_S001__insert_270	39498	11354	species	[Eubacterium] yurii	0.0005475545113085632
+RM2_S001__insert_270	53458	13946	species	Janibacter limosus	0.0006725555059634685
+RM2_S001__insert_270	59732	6256	genus	Chryseobacterium	0.0010908725044504145
+RM2_S001__insert_270	68170	91094	species	Lechevalieria aerocolonigenes	0.004393071221872666
+RM2_S001__insert_270	69278	1390834	genus	Aquamicrobium	0.24252278913919242
+RM2_S001__insert_270	80864	5232007	family	Comamonadaceae	0.36217932255112906
+RM2_S001__insert_270	82367	119407	species	Paracoccus pantotrophus	0.0057584852502925495
+RM2_S001__insert_270	84567	1092	genus	Pedobacter	0.0001904144461093115
+RM2_S001__insert_270	85023	10347	family	Microbacteriaceae	0.0007162584932391207
+RM2_S001__insert_270	85413	1355635	genus	Bosea	0.2363850619518283
+RM2_S001__insert_270	92511	81761	species	Curtobacterium sp. B20	0.003942980834868719
+RM2_S001__insert_270	103732	220611	species	Lechevalieria flava	0.010639118222150206
+RM2_S001__insert_270	121821	9970	species	Roseinatronobacter thiooxidans	0.0004808101530514686
+RM2_S001__insert_270	162491	151790	genus	Oerskovia	0.026467956753601092
+RM2_S001__insert_270	169973	2563068	species	uncultured Massilia sp.	0.12360572892290086
+RM2_S001__insert_270	255475	6637880	family	Aurantimonadaceae	0.4594991714605291
+RM2_S001__insert_270	257003	220067	species	Sphingomonas phyllosphaerae	0.010612883445494237
+RM2_S001__insert_270	299255	16532	species	Ferrimonas marina	0.0007972671464640802
+RM2_S001__insert_270	311234	34814	species	Cellulomonas terrae	0.0016789292545971743
+RM2_S001__insert_270	367298	305376	genus	Phycicoccus	0.05324908598450284
+RM2_S001__insert_270	393921	15857	species	Porphyromonas crevioricanis	0.0007647148041060319
+RM2_S001__insert_270	441209	29036	species	Rhodobaca barguzinensis	0.0014002812040122812
+RM2_S001__insert_270	454586	223776	species	Pedobacter agri	0.010791752538540166
+RM2_S001__insert_270	460257	1392130	species	Aeromicrobium ponti	0.06713643313616259
+RM2_S001__insert_270	561061	197363	species	Sphingobacterium psychroaquaticum	0.00951796732564664
+RM2_S001__insert_270	570520	245024	species	Formosa spongicola	0.011816452050279142
+RM2_S001__insert_270	629679	411166	species	Promicromonospora umidemergens	0.01982876503405819
+RM2_S001__insert_270	639310	4734	species	Olleya aquimaris	0.0002283004277377786
+RM2_S001__insert_270	688867	23912	species	Ohtaekwangia koreensis	0.001153172756245408
+RM2_S001__insert_270	688913	10321	species	Ohtaekwangia kribbensis	0.0004977373710776537
+RM2_S001__insert_270	745369	1082206	species	Acetoanaerobium noterae	0.052190133650272585
+RM2_S001__insert_270	759851	293699	species	Sporosarcina newyorkensis	0.01416383762698729
+RM2_S001__insert_270	1143711	19038	species	Paenibacillus frigoriresistens	0.0009181207315741083
+RM2_S001__insert_270	1513896	48814	species	Sphingobacterium nematocida	0.0023540889479492866
+RM2_S002__insert_270	16	187753	genus	Methylophilus	0.012673223833029046
+RM2_S002__insert_270	192	1517639	species	Azospirillum brasilense	0.06754678783354097
+RM2_S002__insert_270	280	111118	species	Xanthobacter autotrophicus	0.004945618800312463
+RM2_S002__insert_270	354	1074716	species	Azotobacter vinelandii	0.04783325522954524
+RM2_S002__insert_270	379	12137	genus	Rhizobium	0.0008192407986102674
+RM2_S002__insert_270	382	1174985	species	Sinorhizobium meliloti	0.05229600880222051
+RM2_S002__insert_270	466	308549	species	Legionella maceachernii	0.013732840180867276
+RM2_S002__insert_270	915	188206	species	Nitrosomonas europaea	0.00837663683590064
+RM2_S002__insert_270	1061	1013261	species	Rhodobacter capsulatus	0.04509802778328809
+RM2_S002__insert_270	1082	380769	species	Phaeospirillum fulvum	0.016947194198745262
+RM2_S002__insert_270	1513	4663	species	Clostridium tetani	0.00020753991671787662
+RM2_S002__insert_270	1516	264758	species	Thermoanaerobacter thermohydrosulfuricus	0.011783798685479643
+RM2_S002__insert_270	1525	5366220	species	Moorella thermoacetica	0.23883869866819726
+RM2_S002__insert_270	1707	2555847	genus	Cellulomonas	0.17251826130062256
+RM2_S002__insert_270	1763	117591	genus	Mycobacterium	0.007937327572660456
+RM2_S002__insert_270	1817	588404	genus	Nocardia	0.03971694511538896
+RM2_S002__insert_270	1827	6850886	genus	Rhodococcus	0.4624310223142375
+RM2_S002__insert_270	2030	56973	species	Kibdelosporangium aridum	0.0025357434430983454
+RM2_S002__insert_270	2062	596867	family	Streptomycetaceae	0.20483075905162473
+RM2_S002__insert_270	2242	823778	species	Halobacterium salinarum	0.03666455447437679
+RM2_S002__insert_270	13687	902848	genus	Sphingomonas	0.060941741496554555
+RM2_S002__insert_270	28136	1552	species	Prevotella oulorum	6.907612068328212e-05
+RM2_S002__insert_270	34038	1271784	species	Rahnella aquatilis	0.056604320275172204
+RM2_S002__insert_270	35623	113816	species	Acholeplasma oculi	0.005065700870933271
+RM2_S002__insert_270	39498	69572	species	[Eubacterium] yurii	0.003096497337743108
+RM2_S002__insert_270	53458	1098784	species	Janibacter limosus	0.04890446919385274
+RM2_S002__insert_270	59732	40065	genus	Chryseobacterium	0.0027043653782912055
+RM2_S002__insert_270	68170	39408	species	Lechevalieria aerocolonigenes	0.0017539637653909675
+RM2_S002__insert_270	69278	47615	genus	Aquamicrobium	0.0032139862095928056
+RM2_S002__insert_270	80864	1251621	family	Comamonadaceae	0.4295269791678106
+RM2_S002__insert_270	82367	302642	species	Paracoccus pantotrophus	0.01346993254885945
+RM2_S002__insert_270	84567	371599	genus	Pedobacter	0.025082727323290494
+RM2_S002__insert_270	85023	733845	family	Microbacteriaceae	0.25183839678896563
+RM2_S002__insert_270	85413	454037	genus	Bosea	0.030647246805521132
+RM2_S002__insert_270	92511	83559	species	Curtobacterium sp. B20	0.0037190280722773006
+RM2_S002__insert_270	103732	307769	species	Lechevalieria flava	0.013698124089286761
+RM2_S002__insert_270	121821	30295	species	Roseinatronobacter thiooxidans	0.001348364095425278
+RM2_S002__insert_270	162491	2413941	genus	Oerskovia	0.16293968465337955
+RM2_S002__insert_270	169973	281319	species	uncultured Massilia sp.	0.012520892522229536
+RM2_S002__insert_270	255475	331619	family	Aurantimonadaceae	0.11380386499159904
+RM2_S002__insert_270	257003	437228	species	Sphingomonas phyllosphaerae	0.019460060627648244
+RM2_S002__insert_270	299255	2430586	species	Ferrimonas marina	0.10818005919271646
+RM2_S002__insert_270	311234	17948	species	Cellulomonas terrae	0.0007988261688296052
+RM2_S002__insert_270	367298	272213	genus	Phycicoccus	0.018374227198821515
+RM2_S002__insert_270	393921	83455	species	Porphyromonas crevioricanis	0.003714399260066565
+RM2_S002__insert_270	441209	28613	species	Rhodobaca barguzinensis	0.0012735019594785767
+RM2_S002__insert_270	454586	3104	species	Pedobacter agri	0.00013815224136656424
+RM2_S002__insert_270	460257	134023	species	Aeromicrobium ponti	0.005965070181917216
+RM2_S002__insert_270	561061	46649	species	Sphingobacterium psychroaquaticum	0.00207624481556342
+RM2_S002__insert_270	570520	992177	species	Formosa spongicola	0.044159625123180925
+RM2_S002__insert_270	629679	54584	species	Promicromonospora umidemergens	0.002429414285680587
+RM2_S002__insert_270	639310	1097701	species	Olleya aquimaris	0.04885626723592749
+RM2_S002__insert_270	688867	100983	species	Ohtaekwangia koreensis	0.004494532148814354
+RM2_S002__insert_270	688913	60951	species	Ohtaekwangia kribbensis	0.002712795510158974
+RM2_S002__insert_270	745369	525875	species	Acetoanaerobium noterae	0.023405544435773827
+RM2_S002__insert_270	759851	99844	species	Sporosarcina newyorkensis	0.0044438377535448575
+RM2_S002__insert_270	1143711	52386	species	Paenibacillus frigoriresistens	0.002331586119919083
+RM2_S002__insert_270	1513896	12441	species	Sphingobacterium nematocida	0.0005537216607092221
+RH_S001__insert_270	68	431597	genus	Lysobacter	0.019876332980813035
+RH_S001__insert_270	75	429179	genus	Caulobacter	0.019764976847319045
+RH_S001__insert_270	237	646035	genus	Flavobacterium	0.02975184437625736
+RH_S001__insert_270	286	1312001	genus	Pseudomonas	0.06042157092648856
+RH_S001__insert_270	338	64516	genus	Xanthomonas	0.002971154800867786
+RH_S001__insert_270	374	38855	genus	Bradyrhizobium	0.0017893889854875972
+RH_S001__insert_270	379	1247854	genus	Rhizobium	0.05746740967949144
+RH_S001__insert_270	407	2818463	genus	Methylobacterium	0.1297986526368377
+RH_S001__insert_270	469	397943	genus	Acinetobacter	0.018326465604218013
+RH_S001__insert_270	506	182557	family	Alcaligenaceae	0.0985122017158975
+RH_S001__insert_270	543	67254	family	Enterobacteriaceae	0.036291895759685854
+RH_S001__insert_270	876	276728	species	Desulfovibrio desulfuricans	0.015719143963076304
+RH_S001__insert_270	990	35733	species	Cytophaga xylanolytica	0.002029762695616654
+RH_S001__insert_270	1004	38933	species	Chitinophaga sancti	0.0022115341848835306
+RH_S001__insert_270	1028	10615	species	Marivirga sericea	0.0006029701120524666
+RH_S001__insert_270	1080	10593	species	Afifella marina	0.0006017204330637568
+RH_S001__insert_270	1386	634227	genus	Bacillus	0.02920805065239589
+RH_S001__insert_270	1663	1240947	genus	Arthrobacter	0.05714932166706671
+RH_S001__insert_270	1763	436643	genus	Mycobacterium	0.020108716376020096
+RH_S001__insert_270	1827	200260	genus	Rhodococcus	0.009222572081681797
+RH_S001__insert_270	1839	259543	genus	Nocardioides	0.011952731577928385
+RH_S001__insert_270	1843	219492	species	Nocardioides jensenii	0.012467933663176636
+RH_S001__insert_270	1883	573534	genus	Streptomyces	0.0264129564381069
+RH_S001__insert_270	1933	118493	species	Streptoalloteichus tenebrarius	0.006730827836781245
+RH_S001__insert_270	2034	10702	genus	Curtobacterium	0.0004928591152409796
+RH_S001__insert_270	2040	182650	genus	Aeromicrobium	0.008411578901024569
+RH_S001__insert_270	2063	81845	genus	Kitasatospora	0.0037692070909080525
+RH_S001__insert_270	2242	65404	species	Halobacterium salinarum	0.0037151820262533697
+RH_S001__insert_270	12916	160356	genus	Acidovorax	0.007384873508090313
+RH_S001__insert_270	13687	1832044	genus	Sphingomonas	0.08437110679522943
+RH_S001__insert_270	28122	6477	species	Fibrobacter intestinalis	0.000367916854994237
+RH_S001__insert_270	28898	11107	species	Campylobacter helveticus	0.0006309174785272488
+RH_S001__insert_270	29524	38479	species	Porphyromonas circumdentaria	0.0021857453548437926
+RH_S001__insert_270	29580	167096	genus	Janthinobacterium	0.007695270670931296
+RH_S001__insert_270	31988	19463	genus	Aminobacter	0.0008963293739427385
+RH_S001__insert_270	32033	27677	family	Xanthomonadaceae	0.01493518302169128
+RH_S001__insert_270	33877	325365	genus	Agromyces	0.014984031585720552
+RH_S001__insert_270	33882	492070	genus	Microbacterium	0.02266129553696775
+RH_S001__insert_270	33886	217116	genus	Rathayibacter	0.009998841306733371
+RH_S001__insert_270	33922	16862	species	Mycoplasma agassizii	0.0009578221412556468
+RH_S001__insert_270	34072	38703	genus	Variovorax	0.0017823889307766432
+RH_S001__insert_270	36874	6144	species	Porphyromonas cangingivalis	0.0003490012593924027
+RH_S001__insert_270	40323	193633	genus	Stenotrophomonas	0.008917378906882508
+RH_S001__insert_270	40571	75483	species	Lentzea albidocapillata	0.004287705413853635
+RH_S001__insert_270	41275	94540	genus	Brevundimonas	0.004353849818247263
+RH_S001__insert_270	41985	50316	species	Agromyces fucosus	0.0028581294543600475
+RH_S001__insert_270	42197	632850	species	Actinosynnema pretiosum	0.0359481521820446
+RH_S001__insert_270	42322	15118	species	Eubacterium ruminantium	0.0008587566796051992
+RH_S001__insert_270	44249	195510	genus	Paenibacillus	0.009003820371964486
+RH_S001__insert_270	46913	583578	genus	Devosia	0.02687551268492809
+RH_S001__insert_270	48464	45787	species	Prosthecobacter fusiformis	0.0026008659934570215
+RH_S001__insert_270	48467	448136	species	Prosthecobacter debontii	0.025455733785656538
+RH_S001__insert_270	49280	383649	species	Gelidibacter algens	0.021792640651796206
+RH_S001__insert_270	53254	59377	species	Bosea thiooxidans	0.0033728267869372872
+RH_S001__insert_270	53335	84926	genus	Pantoea	0.003911096357779428
+RH_S001__insert_270	53355	36425	genus	Terrabacter	0.0016774802160953732
+RH_S001__insert_270	55080	43558	genus	Brevibacillus	0.002005976204603494
+RH_S001__insert_270	57028	31122	species	Algoriphagus ratkowskyi	0.0017678413403011647
+RH_S001__insert_270	59732	60873	genus	Chryseobacterium	0.0028033837527624886
+RH_S001__insert_270	60919	66835	genus	Sanguibacter	0.0030779516882013525
+RH_S001__insert_270	64969	114608	species	Oceanospirillum multiglobuliferum	0.006510145888093178
+RH_S001__insert_270	68287	1043565	genus	Mesorhizobium	0.04805929009497785
+RH_S001__insert_270	72806	212743	species	Williamsia maris	0.012084566231594714
+RH_S001__insert_270	75309	329714	genus	Rhodanobacter	0.015184316045838569
+RH_S001__insert_270	75654	157386	genus	Duganella	0.0072480961232775955
+RH_S001__insert_270	76595	63702	species	Cellulophaga fucicola	0.00361850231539955
+RH_S001__insert_270	80864	1243861	family	Comamonadaceae	0.6712176785252714
+RH_S001__insert_270	83618	8815	genus	Pseudoxanthomonas	0.0004059571202438082
+RH_S001__insert_270	85023	289136	family	Microbacteriaceae	0.15602482487840916
+RH_S001__insert_270	85413	1070509	genus	Bosea	0.04930014189847747
+RH_S001__insert_270	86796	47877	species	Marmoricola aurantiacus	0.00271958549738445
+RH_S001__insert_270	91360	87333	species	Desulforhopalus singaporensis	0.004960827960045036
+RH_S001__insert_270	92487	30355	species	Thiothrix eikelboomii	0.0017242729864675103
+RH_S001__insert_270	96492	568197	genus	Frigoribacterium	0.02616717162236768
+RH_S001__insert_270	103728	53102	species	Actinokineospora diospyrosa	0.003016384257203022
+RH_S001__insert_270	103729	75806	species	Actinokineospora globicatena	0.00430605297355151
+RH_S001__insert_270	104662	35534	species	Chitinophaga japonensis	0.0020184587811278706
+RH_S001__insert_270	106591	1379033	genus	Ensifer	0.06350859505401923
+RH_S001__insert_270	110932	648649	genus	Leifsonia	0.029872226896089163
+RH_S001__insert_270	114707	36930	species	uncultured Pseudomonas sp.	0.002097756593320545
+RH_S001__insert_270	115783	30631	species	Geobacter thiogenes	0.0017399507774167784
+RH_S001__insert_270	116849	25222	species	Azomonas agilis	0.0014327001569653614
+RH_S001__insert_270	129578	20726	species	Oceanimonas baumannii	0.0011773112145454
+RH_S001__insert_270	130788	21224	species	Sedimentibacter saalensis	0.0012055994025625576
+RH_S001__insert_270	136099	45191	genus	Knoellia	0.002081180739754729
+RH_S001__insert_270	142842	29113	species	Selenihalanaerobacter shriftii	0.001653722927195804
+RH_S001__insert_270	143223	108097	species	Salegentibacter salegens	0.00614029771102548
+RH_S001__insert_270	149698	253489	genus	Massilia	0.011673926767269733
+RH_S001__insert_270	158751	115409	species	uncultured Acidovorax sp.	0.006555645564000293
+RH_S001__insert_270	158754	28688	species	uncultured Sphingomonas sp.	0.0016295814012775467
+RH_S001__insert_270	160236	43644	species	uncultured Herbaspirillum sp.	0.00247913589923861
+RH_S001__insert_270	160791	384486	species	Sphingomonas wittichii	0.021840185256957575
+RH_S001__insert_270	165695	23309	genus	Sphingobium	0.0010734491793264805
+RH_S001__insert_270	165697	115207	genus	Sphingopyxis	0.0053056269939794004
+RH_S001__insert_270	170623	359042	species	Azotobacter beijerinckii	0.020394874702924323
+RH_S001__insert_270	171291	20020	species	Mycoplasma verecundum	0.0011372078797258953
+RH_S001__insert_270	172045	109854	species	Elizabethkingia miricola	0.006240101619351074
+RH_S001__insert_270	174951	37529	genus	Ramlibacter	0.001728322718732828
+RH_S001__insert_270	176898	22253	species	Prauserella alba	0.0012640502970799375
+RH_S001__insert_270	180163	5322	species	Cetobacterium ceti	0.0003023087080869738
+RH_S001__insert_270	182367	43798	species	Rhizobium sp. DCP1	0.0024878836521595787
+RH_S001__insert_270	185641	50610	species	Prauserella halophila	0.002874829709936442
+RH_S001__insert_270	188872	26053	species	Arenibacter troitsensis	0.0014799039405843533
+RH_S001__insert_270	188932	347053	species	Pedobacter cryoconitis	0.01971385645766789
+RH_S001__insert_270	190323	83679	genus	Plantibacter	0.003853668277354694
+RH_S001__insert_270	191564	46422	species	Nonlabens xylanidelens	0.0026369362733584174
+RH_S001__insert_270	196587	74975	species	Albidovulum inexpectatum	0.004258849189932518
+RH_S001__insert_270	198092	127415	species	Roseomonas rosea	0.007237629470293455
+RH_S001__insert_270	198312	46014	species	Porphyrobacter sanguineus	0.002613760408476891
+RH_S001__insert_270	213248	74555	species	Mesonia algae	0.00423499168196624
+RH_S001__insert_270	213588	14820	species	Thermomonas hydrothermalis	0.0008418292096672213
+RH_S001__insert_270	223904	15708	species	Nocardioides sp. NS/27	0.0008922707979387795
+RH_S001__insert_270	225004	66283	species	Treponema berlinense	0.0037651123822113647
+RH_S001__insert_270	227322	387229	species	uncultured Paenibacillus sp.	0.021995997505413523
+RH_S001__insert_270	237019	87266	species	Algoriphagus chordae	0.004957022119488511
+RH_S001__insert_270	241145	26941	species	Salegentibacter holothuriorum	0.0015303455288559116
+RH_S001__insert_270	244584	4892	species	Mycoplasma testudineum	0.0002778831642167373
+RH_S001__insert_270	245876	126432	genus	Nitratireductor	0.005822571823785044
+RH_S001__insert_270	255475	42656	family	Aurantimonadaceae	0.02301821609904481
+RH_S001__insert_270	261392	94580	species	Treponema porcinum	0.005372483579644116
+RH_S001__insert_270	263852	26319	species	Pilibacter termitis	0.0014950136956296625
+RH_S001__insert_270	266809	55968	species	Thalassobacter stenotrophicus	0.003179183347277668
+RH_S001__insert_270	270918	11689	species	Salegentibacter mishustinae	0.0006639771681376619
+RH_S001__insert_270	279824	143057	species	Algoriphagus alkaliphilus	0.008126151231266105
+RH_S001__insert_270	291403	148187	species	Algoriphagus yeomjeoni	0.008417553649997066
+RH_S001__insert_270	292407	138891	species	Dyadobacter crusticola	0.007889507473676791
+RH_S001__insert_270	293890	400403	species	Agromyces subbeticus	0.022744328005289097
+RH_S001__insert_270	321325	6443	species	Williamsia deligens	0.00036598553292077645
+RH_S001__insert_270	330227	4840	species	Microbacterium sp. Bt 07	0.00027492937751615054
+RH_S001__insert_270	331697	33290	species	Chitinophaga skermanii	0.0018909915242794734
+RH_S001__insert_270	334858	399746	species	Goodfellowiella coeruleoviolacea	0.02270700804639899
+RH_S001__insert_270	349095	52439	species	Megasphaera paucivorans	0.002978723476770541
+RH_S001__insert_270	349273	71841	species	uncultured Phenylobacterium sp.	0.004080826737631771
+RH_S001__insert_270	351343	18924	species	Pedobacter aquatilis	0.0010749511446519902
+RH_S001__insert_270	355930	38726	species	Yonghaparkia alkaliphila	0.00219977584167158
+RH_S001__insert_270	361177	18953	genus	Altererythrobacter	0.0008728423482678272
+RH_S001__insert_270	366349	142432	species	Rhizobium sp. CHNTR26	0.008090648987268668
+RH_S001__insert_270	387889	138219	species	Prauserella salsuginis	0.007851335460930746
+RH_S001__insert_270	387890	104829	species	Prauserella aidingensis	0.005954663577611683
+RH_S001__insert_270	391736	98656	species	Williamsia serinedens	0.005604015014097799
+RH_S001__insert_270	393003	53453	species	Chitinophaga ginsengisegetis	0.0030363223174319823
+RH_S001__insert_270	402884	42175	species	Gemmobacter changlensis	0.0023956914249470347
+RH_S001__insert_270	414371	39957	genus	Aureimonas	0.001840139382142013
+RH_S001__insert_270	424797	337806	species	Nocardioides terrigena	0.019188593657277014
+RH_S001__insert_270	428988	60778	species	Flavobacterium lindanitolerans	0.0034524086170819417
+RH_S001__insert_270	429344	94252	species	Maribacter polysiphoniae	0.005353852001994261
+RH_S001__insert_270	435906	458420	species	Salegentibacter salarius	0.02603990190928796
+RH_S001__insert_270	438851	278998	species	Lentzea californiensis	0.015848088113274993
+RH_S001__insert_270	440515	9296	species	Arenibacter echinorum	0.0005280461763202759
+RH_S001__insert_270	443157	283878	species	Nocardioides hankookensis	0.01612528963440698
+RH_S001__insert_270	447422	55426	species	Salegentibacter salinarum	0.0031483958012830907
+RH_S001__insert_270	454048	40008	species	Bacillus sp. M5-3	0.0022725980445591223
+RH_S001__insert_270	468058	90511	species	Mucilaginibacter oryzae	0.005141349770323203
+RH_S001__insert_270	490570	180774	species	Phycicoccus ginsenosidimutans	0.010268612250228223
+RH_S001__insert_270	504486	50788	species	Cellulophaga tyrosinoxydans	0.002884940749026912
+RH_S001__insert_270	509094	14094	species	Brevundimonas sp. HINF004	0.0008005898030397987
+RH_S001__insert_270	526729	8419	species	Promicromonospora flava	0.0004782294275430726
+RH_S001__insert_270	554335	178772	species	Rhizobium sp. CpLB236	0.010154891462255632
+RH_S001__insert_270	561088	25798	species	Aquamicrobium aerolatum	0.001465419025033399
+RH_S001__insert_270	561184	501836	species	Mameliella alba	0.028506086589916307
+RH_S001__insert_270	561365	41934	species	Maribacter arcticus	0.0023820017596616234
+RH_S001__insert_270	563996	23000	species	Sphingomonas hankookensis	0.001306482579105674
+RH_S001__insert_270	568105	62720	species	Hwanghaeicola aestuarii	0.0035627211896307773
+RH_S001__insert_270	572036	102793	species	Pedobacter luteus	0.005839011467565633
+RH_S001__insert_270	575302	61254	species	Burkholderia sp. IMER-A1-17	0.0034794471261103896
+RH_S001__insert_270	576117	94099	species	Celeribacter halophilus	0.005345161052663688
+RH_S001__insert_270	577679	119738	species	Prauserella flava	0.006801548306824139
+RH_S001__insert_270	591202	77881	species	Arcicella aurantiaca	0.004423920423623
+RH_S001__insert_270	619730	149585	species	Terrabacter carboxydivorans	0.008496965069370532
+RH_S001__insert_270	619805	88735	species	Soonwooa buanensis	0.005040466593780086
+RH_S001__insert_270	623280	12132	species	Parapedobacter luteus	0.0006891411586830451
+RH_S001__insert_270	643671	243709	species	Larkinella arboricola	0.013843546211794119
+RH_S001__insert_270	651661	292522	species	Dyadobacter psychrophilus	0.01661629986978913
+RH_S001__insert_270	654838	3458	species	Fontibacter flavus	0.0001964268155890183
+RH_S001__insert_270	684063	600599	species	Paenibacillus algorifonticola	0.03411617958818647
+RH_S001__insert_270	696762	20360	species	Planktotalea frisia	0.001156521100460501
+RH_S001__insert_270	745368	30239	species	Gemmiger formicilis	0.0017176837699815859
+RH_S001__insert_270	747294	63170	genus	Pseudorhodoferax	0.0029091674742826278
+RH_S001__insert_270	756689	245824	species	Nocardia amikacinitolerans	0.013963685805481444
+RH_S001__insert_270	765201	296919	species	Promicromonospora thailandica	0.016866065256759898
+RH_S001__insert_270	875239	110875	species	Modestobacter sp. R-36506	0.006298098085145288
+RH_S001__insert_270	889453	16866	species	Alkalitalea saponilacus	0.0009580493556172304
+RH_S001__insert_270	906888	109504	species	Nonlabens ulvanivorans	0.0062202203627125105
+RH_S001__insert_270	908626	82447	genus	Angustibacter	0.003796930991802752
+RH_S001__insert_270	1037355	113617	species	Parabacteroides chartae	0.006453853530010842
+RH_S001__insert_270	1071583	126738	species	Microbacterium sp. C23(2011)	0.007199173439595431
+RH_S001__insert_270	1150508	76481	species	Leifsonia sp. MN6-25	0.004344395397068742
+RH_S001__insert_270	1167741	919307	species	Pelomonas sp. JGI 001013-K11	0.0522199382760826
+RH_S001__insert_270	1172533	218713	species	Rhodococcus sp. I_48-J6PC12A	0.01242368366625823
+RH_S001__insert_270	1189325	12319	species	Oceanicella actignis	0.0006997634300870782
+RH_S001__insert_270	1243042	72737	species	Paenibacillus sp. AMB_13	0.004131722754626496
+RH_S001__insert_270	1255265	116336	species	Nitrobacter sp. NS5-5	0.006608302492297291
+RH_S001__insert_270	1256701	527413	species	Rhizobium sp. BA-57-09	0.02995895202147221
+RH_S001__insert_270	1259470	727908	species	Nocardioides sp. RHLT1-14	0.04134778787789795
+RH_S001__insert_270	1278652	73392	species	Chryseobacterium sp. T85L.09.P.BNT.GC.H.Gill.D.M	0.00416892910633581
+RH_S001__insert_270	1294566	13882	species	Devosia sp. R41	0.0007885474418758682
+RH_S001__insert_270	1387244	140360	species	Rhizobium sp. Ia8	0.007972951947968366
+RH_S001__insert_270	1456769	233245	species	Phycicoccus sp. THG-a14	0.013249153441891433
+RH_S002__insert_270	68	535519	genus	Lysobacter	0.025329313139279365
+RH_S002__insert_270	75	374701	genus	Caulobacter	0.017722842630422297
+RH_S002__insert_270	237	388307	genus	Flavobacterium	0.018366387741936614
+RH_S002__insert_270	286	1428387	genus	Pseudomonas	0.06756074314277521
+RH_S002__insert_270	338	70316	genus	Xanthomonas	0.003325850217642265
+RH_S002__insert_270	374	40243	genus	Bradyrhizobium	0.0019034386243326933
+RH_S002__insert_270	379	1323517	genus	Rhizobium	0.06260053618668919
+RH_S002__insert_270	407	2428368	genus	Methylobacterium	0.11485847092149029
+RH_S002__insert_270	469	292313	genus	Acinetobacter	0.013826003394244031
+RH_S002__insert_270	506	424876	family	Alcaligenaceae	0.21406273616751142
+RH_S002__insert_270	543	84902	family	Enterobacteriaceae	0.042775667314920246
+RH_S002__insert_270	876	1009626	species	Desulfovibrio desulfuricans	0.05832423244172998
+RH_S002__insert_270	990	34317	species	Cytophaga xylanolytica	0.0019824298153007626
+RH_S002__insert_270	1004	87207	species	Chitinophaga sancti	0.0050377875951549845
+RH_S002__insert_270	1028	173697	species	Marivirga sericea	0.010034155422335768
+RH_S002__insert_270	1080	19892	species	Afifella marina	0.001149124162542261
+RH_S002__insert_270	1386	1190426	genus	Bacillus	0.056305514693483855
+RH_S002__insert_270	1663	865512	genus	Arthrobacter	0.040937528778258035
+RH_S002__insert_270	1763	280288	genus	Mycobacterium	0.013257237411151304
+RH_S002__insert_270	1827	113784	genus	Rhodococcus	0.00538182691228465
+RH_S002__insert_270	1839	212274	genus	Nocardioides	0.010040268631602966
+RH_S002__insert_270	1843	433417	species	Nocardioides jensenii	0.02503770094292073
+RH_S002__insert_270	1883	614183	genus	Streptomyces	0.029050012290548082
+RH_S002__insert_270	1933	99664	species	Streptoalloteichus tenebrarius	0.005757405516570073
+RH_S002__insert_270	2034	8791	genus	Curtobacterium	0.00041580222514496203
+RH_S002__insert_270	2040	168615	genus	Aeromicrobium	0.00797525789930813
+RH_S002__insert_270	2063	164422	genus	Kitasatospora	0.007776934758592304
+RH_S002__insert_270	2242	84672	species	Halobacterium salinarum	0.0048913453192629365
+RH_S002__insert_270	12916	244404	genus	Acidovorax	0.011559973499525571
+RH_S002__insert_270	13687	1684385	genus	Sphingomonas	0.07966909691739243
+RH_S002__insert_270	28122	15105	species	Fibrobacter intestinalis	0.0008725879989543964
+RH_S002__insert_270	28898	15919	species	Campylobacter helveticus	0.0009196112780771291
+RH_S002__insert_270	29524	52378	species	Porphyromonas circumdentaria	0.00302578048389496
+RH_S002__insert_270	29580	86560	genus	Janthinobacterium	0.004094169105738586
+RH_S002__insert_270	31988	40012	genus	Aminobacter	0.0018925126416221385
+RH_S002__insert_270	32033	17507	family	Xanthomonadaceae	0.00882044719420401
+RH_S002__insert_270	33877	291912	genus	Agromyces	0.013807036645036531
+RH_S002__insert_270	33882	744816	genus	Microbacterium	0.03522877375993289
+RH_S002__insert_270	33886	172610	genus	Rathayibacter	0.008164215911986338
+RH_S002__insert_270	33922	18190	species	Mycoplasma agassizii	0.0010508027607401833
+RH_S002__insert_270	34072	40438	genus	Variovorax	0.0019126618564909536
+RH_S002__insert_270	36874	5786	species	Porphyromonas cangingivalis	0.0003342465516021276
+RH_S002__insert_270	40323	140862	genus	Stenotrophomonas	0.006662579119368631
+RH_S002__insert_270	40571	689228	species	Lentzea albidocapillata	0.03981543074103547
+RH_S002__insert_270	41275	109401	genus	Brevundimonas	0.005174517032542827
+RH_S002__insert_270	41985	116532	species	Agromyces fucosus	0.006731838774852944
+RH_S002__insert_270	42197	389373	species	Actinosynnema pretiosum	0.02249336027255016
+RH_S002__insert_270	42322	19336	species	Eubacterium ruminantium	0.0011170050677115
+RH_S002__insert_270	44249	146940	genus	Paenibacillus	0.0069500601709476416
+RH_S002__insert_270	46913	572860	genus	Devosia	0.027095491149646562
+RH_S002__insert_270	48464	42892	species	Prosthecobacter fusiformis	0.002477791754462229
+RH_S002__insert_270	48467	234683	species	Prosthecobacter debontii	0.01355720419454582
+RH_S002__insert_270	49280	227481	species	Gelidibacter algens	0.013141157933806357
+RH_S002__insert_270	53254	38837	species	Bosea thiooxidans	0.0022435418811911217
+RH_S002__insert_270	53335	44737	genus	Pantoea	0.002115998651610757
+RH_S002__insert_270	53355	167838	genus	Terrabacter	0.007938506866554446
+RH_S002__insert_270	55080	45495	genus	Brevibacillus	0.0021518510104618412
+RH_S002__insert_270	57028	61156	species	Algoriphagus ratkowskyi	0.0035328693587590243
+RH_S002__insert_270	59732	207709	genus	Chryseobacterium	0.009824350401846765
+RH_S002__insert_270	60919	97787	genus	Sanguibacter	0.004625190784922125
+RH_S002__insert_270	64969	67416	species	Oceanospirillum multiglobuliferum	0.0038944980163859375
+RH_S002__insert_270	68287	699030	genus	Mesorhizobium	0.03306315884917334
+RH_S002__insert_270	72806	128599	species	Williamsia maris	0.007428927115361563
+RH_S002__insert_270	75309	203819	genus	Rhodanobacter	0.009640358744946082
+RH_S002__insert_270	75654	89063	genus	Duganella	0.0042125575677494885
+RH_S002__insert_270	76595	71614	species	Cellulophaga fucicola	0.004137008735989417
+RH_S002__insert_270	80864	1129423	family	Comamonadaceae	0.569030441047551
+RH_S002__insert_270	83618	10282	genus	Pseudoxanthomonas	0.00048632447718581495
+RH_S002__insert_270	85023	279122	family	Microbacteriaceae	0.1406283693231628
+RH_S002__insert_270	85413	718787	genus	Bosea	0.0339976378119977
+RH_S002__insert_270	86796	38655	species	Marmoricola aurantiacus	0.002233028076768103
+RH_S002__insert_270	91360	91736	species	Desulforhopalus singaporensis	0.005299419574450877
+RH_S002__insert_270	92487	54885	species	Thiothrix eikelboomii	0.0031706052514142366
+RH_S002__insert_270	96492	596601	genus	Frigoribacterium	0.02821840784025816
+RH_S002__insert_270	103728	104978	species	Actinokineospora diospyrosa	0.006064385498459756
+RH_S002__insert_270	103729	90904	species	Actinokineospora globicatena	0.005251356468517077
+RH_S002__insert_270	104662	34283	species	Chitinophaga japonensis	0.001980465697990968
+RH_S002__insert_270	106591	1704168	genus	Ensifer	0.08060480564450456
+RH_S002__insert_270	110932	455328	genus	Leifsonia	0.0215363889854175
+RH_S002__insert_270	114707	47101	species	uncultured Pseudomonas sp.	0.002720937923783583
+RH_S002__insert_270	115783	33428	species	Geobacter thiogenes	0.0019310739244652474
+RH_S002__insert_270	116849	29334	species	Azomonas agilis	0.0016945710931034932
+RH_S002__insert_270	129578	25599	species	Oceanimonas baumannii	0.0014788070298069245
+RH_S002__insert_270	130788	13579	species	Sedimentibacter saalensis	0.000784433792638315
+RH_S002__insert_270	136099	44722	genus	Knoellia	0.0021152891722139677
+RH_S002__insert_270	142842	29377	species	Selenihalanaerobacter shriftii	0.0016970551238188218
+RH_S002__insert_270	143223	112445	species	Salegentibacter salegens	0.006495740320584383
+RH_S002__insert_270	149698	588400	genus	Massilia	0.02783051180472024
+RH_S002__insert_270	158751	90407	species	uncultured Acidovorax sp.	0.005222645694900371
+RH_S002__insert_270	158754	51415	species	uncultured Sphingomonas sp.	0.0029701497495028327
+RH_S002__insert_270	160236	25559	species	uncultured Herbaspirillum sp.	0.001476496303560107
+RH_S002__insert_270	160791	253803	species	Sphingomonas wittichii	0.014661731340524505
+RH_S002__insert_270	165695	34723	genus	Sphingobium	0.0016423502063142436
+RH_S002__insert_270	165697	116795	genus	Sphingopyxis	0.005524243076533482
+RH_S002__insert_270	170623	348982	species	Azotobacter beijerinckii	0.020160046676670186
+RH_S002__insert_270	171291	21286	species	Mycoplasma verecundum	0.0012296529722438452
+RH_S002__insert_270	172045	67545	species	Elizabethkingia miricola	0.0039019501085319234
+RH_S002__insert_270	174951	43308	genus	Ramlibacter	0.0020484089144099664
+RH_S002__insert_270	176898	25231	species	Prauserella alba	0.0014575483483362048
+RH_S002__insert_270	180163	6358	species	Cetobacterium ceti	0.0003672899369316155
+RH_S002__insert_270	182367	48305	species	Rhizobium sp. DCP1	0.002790490783812785
+RH_S002__insert_270	185641	64241	species	Prauserella halophila	0.0037110841205448115
+RH_S002__insert_270	188872	20009	species	Arenibacter troitsensis	0.0011558830368142018
+RH_S002__insert_270	188932	178880	species	Pedobacter cryoconitis	0.010333567775767124
+RH_S002__insert_270	190323	94592	genus	Plantibacter	0.004474071673406011
+RH_S002__insert_270	191564	40978	species	Nonlabens xylanidelens	0.0023672235035520194
+RH_S002__insert_270	196587	105327	species	Albidovulum inexpectatum	0.006084546584963238
+RH_S002__insert_270	198092	77311	species	Roseomonas rosea	0.004466113921692376
+RH_S002__insert_270	198312	39789	species	Porphyrobacter sanguineus	0.002298537165865374
+RH_S002__insert_270	213248	99100	species	Mesonia algae	0.005724824276489949
+RH_S002__insert_270	213588	12550	species	Thermomonas hydrothermalis	0.000724990359938939
+RH_S002__insert_270	223904	41337	species	Nocardioides sp. NS/27	0.0023879622716172053
+RH_S002__insert_270	225004	45032	species	Treponema berlinense	0.0026014156086669564
+RH_S002__insert_270	227322	239838	species	uncultured Paenibacillus sp.	0.013854999039604403
+RH_S002__insert_270	237019	80569	species	Algoriphagus chordae	0.004654322574495648
+RH_S002__insert_270	241145	32929	species	Salegentibacter holothuriorum	0.0019022476145362011
+RH_S002__insert_270	244584	7246	species	Mycoplasma testudineum	0.00041858805961096033
+RH_S002__insert_270	245876	215049	genus	Nitratireductor	0.01017152232000898
+RH_S002__insert_270	255475	48990	family	Aurantimonadaceae	0.02468233895265062
+RH_S002__insert_270	261392	53739	species	Treponema porcinum	0.00310440294444292
+RH_S002__insert_270	263852	37231	species	Pilibacter termitis	0.0021507662223814055
+RH_S002__insert_270	266809	52875	species	Thalassobacter stenotrophicus	0.0030544912575116655
+RH_S002__insert_270	270918	25869	species	Salegentibacter mishustinae	0.0014944044319729413
+RH_S002__insert_270	279824	116830	species	Algoriphagus alkaliphilus	0.0067490536853917335
+RH_S002__insert_270	291403	98300	species	Algoriphagus yeomjeoni	0.005678609751553603
+RH_S002__insert_270	292407	94025	species	Dyadobacter crusticola	0.005431650883925
+RH_S002__insert_270	293890	408227	species	Agromyces subbeticus	0.02358252108898751
+RH_S002__insert_270	321325	12043	species	Williamsia deligens	0.0006957019047605294
+RH_S002__insert_270	330227	18875	species	Microbacterium sp. Bt 07	0.0010903739477169303
+RH_S002__insert_270	331697	40248	species	Chitinophaga skermanii	0.002325052749547603
+RH_S002__insert_270	334858	238489	species	Goodfellowiella coeruleoviolacea	0.01377706979693049
+RH_S002__insert_270	349095	94933	species	Megasphaera paucivorans	0.005484104369727753
+RH_S002__insert_270	349273	132256	species	uncultured Phenylobacterium sp.	0.007640185262476839
+RH_S002__insert_270	351343	115817	species	Pedobacter aquatilis	0.006690534543191084
+RH_S002__insert_270	355930	39994	species	Yonghaparkia alkaliphila	0.0023103796378803132
+RH_S002__insert_270	361177	20976	genus	Altererythrobacter	0.0009921359884701084
+RH_S002__insert_270	366349	126970	species	Rhizobium sp. CHNTR26	0.007334822788959927
+RH_S002__insert_270	387889	80718	species	Prauserella salsuginis	0.004662930029765043
+RH_S002__insert_270	387890	103670	species	Prauserella aidingensis	0.00598882475018883
+RH_S002__insert_270	391736	77531	species	Williamsia serinedens	0.004478822916049871
+RH_S002__insert_270	393003	204681	species	Chitinophaga ginsengisegetis	0.011824043973120478
+RH_S002__insert_270	402884	125481	species	Gemmobacter changlensis	0.007248806004422153
+RH_S002__insert_270	414371	22894	genus	Aureimonas	0.001082854754006229
+RH_S002__insert_270	424797	180255	species	Nocardioides terrigena	0.01041299899050147
+RH_S002__insert_270	428988	85194	species	Flavobacterium lindanitolerans	0.004921500296783903
+RH_S002__insert_270	429344	164252	species	Maribacter polysiphoniae	0.009488535187306026
+RH_S002__insert_270	435906	245555	species	Salegentibacter salarius	0.014185259588430772
+RH_S002__insert_270	438851	145958	species	Lentzea californiensis	0.008431724538324118
+RH_S002__insert_270	440515	46980	species	Arenibacter echinorum	0.0027139479768869606
+RH_S002__insert_270	443157	278519	species	Nocardioides hankookensis	0.016089529088432936
+RH_S002__insert_270	447422	38614	species	Salegentibacter salinarum	0.0022306595823651148
+RH_S002__insert_270	454048	78878	species	Bacillus sp. M5-3	0.004556636622411445
+RH_S002__insert_270	468058	64338	species	Mucilaginibacter oryzae	0.0037166876316933437
+RH_S002__insert_270	490570	115083	species	Phycicoccus ginsenosidimutans	0.006648132716561986
+RH_S002__insert_270	504486	80939	species	Cellulophaga tyrosinoxydans	0.004675696792278708
+RH_S002__insert_270	509094	24164	species	Brevundimonas sp. HINF004	0.0013959097257023525
+RH_S002__insert_270	526729	20254	species	Promicromonospora flava	0.001170036235075958
+RH_S002__insert_270	554335	111802	species	Rhizobium sp. CpLB236	0.006458595396166794
+RH_S002__insert_270	561088	40759	species	Aquamicrobium aerolatum	0.0023545722773506946
+RH_S002__insert_270	561184	449615	species	Mameliella alba	0.02597342953656941
+RH_S002__insert_270	561365	43637	species	Maribacter arcticus	0.002520829030809202
+RH_S002__insert_270	563996	14045	species	Sphingomonas hankookensis	0.000811353753413737
+RH_S002__insert_270	568105	41795	species	Hwanghaeicola aestuarii	0.0024144200871432635
+RH_S002__insert_270	572036	66220	species	Pedobacter luteus	0.0038254073016060993
+RH_S002__insert_270	575302	62668	species	Burkholderia sp. IMER-A1-17	0.00362021481088872
+RH_S002__insert_270	576117	59173	species	Celeribacter halophilus	0.003418315105073055
+RH_S002__insert_270	577679	76116	species	Prauserella flava	0.004397080975068708
+RH_S002__insert_270	591202	49463	species	Arcicella aurantiaca	0.0028573863086581467
+RH_S002__insert_270	619730	338866	species	Terrabacter carboxydivorans	0.01957566400885008
+RH_S002__insert_270	619805	57219	species	Soonwooa buanensis	0.003305436127916028
+RH_S002__insert_270	623280	19305	species	Parapedobacter luteus	0.0011152142548702165
+RH_S002__insert_270	643671	130998	species	Larkinella arboricola	0.007567512922014434
+RH_S002__insert_270	651661	173600	species	Dyadobacter psychrophilus	0.010028551911187237
+RH_S002__insert_270	654838	16600	species	Fontibacter flavus	0.0009589513924291943
+RH_S002__insert_270	684063	394827	species	Paenibacillus algorifonticola	0.022808427796303706
+RH_S002__insert_270	696762	98786	species	Planktotalea frisia	0.005706685075452433
+RH_S002__insert_270	745368	30906	species	Gemmiger formicilis	0.0017853826346034144
+RH_S002__insert_270	747294	94875	genus	Pseudorhodoferax	0.004487457184692102
+RH_S002__insert_270	756689	399456	species	Nocardia amikacinitolerans	0.02307583659121664
+RH_S002__insert_270	765201	177875	species	Promicromonospora thailandica	0.01027551077881584
+RH_S002__insert_270	875239	96348	species	Modestobacter sp. R-36506	0.005565846310708916
+RH_S002__insert_270	889453	84041	species	Alkalitalea saponilacus	0.0048548936127193925
+RH_S002__insert_270	906888	98117	species	Nonlabens ulvanivorans	0.005668038178974413
+RH_S002__insert_270	908626	50119	genus	Angustibacter	0.0023705598591787455
+RH_S002__insert_270	1037355	126627	species	Parabacteroides chartae	0.007315008311393469
+RH_S002__insert_270	1071583	108698	species	Microbacterium sp. C23(2011)	0.006279283039413768
+RH_S002__insert_270	1150508	50001	species	Leifsonia sp. MN6-25	0.00288846557667784
+RH_S002__insert_270	1167741	1243635	species	Pelomonas sp. JGI 001013-K11	0.07184250089901693
+RH_S002__insert_270	1172533	139256	species	Rhodococcus sp. I_48-J6PC12A	0.008044562355669872
+RH_S002__insert_270	1189325	16985	species	Oceanicella actignis	0.0009811921325548112
+RH_S002__insert_270	1243042	43924	species	Paenibacillus sp. AMB_13	0.002537408491630116
+RH_S002__insert_270	1255265	172655	species	Nitrobacter sp. NS5-5	0.009973961003606178
+RH_S002__insert_270	1256701	310272	species	Rhizobium sp. BA-57-09	0.017923841351312707
+RH_S002__insert_270	1259470	507264	species	Nocardioides sp. RHLT1-14	0.029303705971638724
+RH_S002__insert_270	1278652	46950	species	Chryseobacterium sp. T85L.09.P.BNT.GC.H.Gill.D.M	0.0027122149322018475
+RH_S002__insert_270	1294566	25872	species	Devosia sp. R41	0.0014945777364414527
+RH_S002__insert_270	1387244	91652	species	Rhizobium sp. Ia8	0.0052945670493325615
+RH_S002__insert_270	1456769	136560	species	Phycicoccus sp. THG-a14	0.007888819406634384
+RH_S003__insert_270	68	616040	genus	Lysobacter	0.02854223557277883
+RH_S003__insert_270	75	423072	genus	Caulobacter	0.019601682826190972
+RH_S003__insert_270	237	399345	genus	Flavobacterium	0.01850236845791079
+RH_S003__insert_270	286	1088873	genus	Pseudomonas	0.05044943457379132
+RH_S003__insert_270	338	202661	genus	Xanthomonas	0.009389646781726723
+RH_S003__insert_270	374	83748	genus	Bradyrhizobium	0.003880194702858713
+RH_S003__insert_270	379	1553563	genus	Rhizobium	0.07197935381331245
+RH_S003__insert_270	407	2513874	genus	Methylobacterium	0.1164722808718327
+RH_S003__insert_270	469	152941	genus	Acinetobacter	0.007086030210272656
+RH_S003__insert_270	506	392586	family	Alcaligenaceae	0.21258095258723386
+RH_S003__insert_270	543	162382	family	Enterobacteriaceae	0.08792804695791548
+RH_S003__insert_270	876	810711	species	Desulfovibrio desulfuricans	0.047920263937946024
+RH_S003__insert_270	990	54681	species	Cytophaga xylanolytica	0.003232135683851368
+RH_S003__insert_270	1004	180572	species	Chitinophaga sancti	0.010673418640924805
+RH_S003__insert_270	1028	136926	species	Marivirga sericea	0.008093550056638182
+RH_S003__insert_270	1080	21018	species	Afifella marina	0.0012423515993341024
+RH_S003__insert_270	1386	780924	genus	Bacillus	0.03618160634445285
+RH_S003__insert_270	1663	981328	genus	Arthrobacter	0.045466682277390924
+RH_S003__insert_270	1763	590661	genus	Mycobacterium	0.027366381088327247
+RH_S003__insert_270	1827	145805	genus	Rhodococcus	0.006755406560757447
+RH_S003__insert_270	1839	517528	genus	Nocardioides	0.0239779983304803
+RH_S003__insert_270	1843	298730	species	Nocardioides jensenii	0.017657612202354
+RH_S003__insert_270	1883	852138	genus	Streptomyces	0.03948107839834525
+RH_S003__insert_270	1933	114625	species	Streptoalloteichus tenebrarius	0.006775361693485179
+RH_S003__insert_270	2034	46263	genus	Curtobacterium	0.0021434475753254125
+RH_S003__insert_270	2040	117510	genus	Aeromicrobium	0.005444448578269659
+RH_S003__insert_270	2063	218225	genus	Kitasatospora	0.010110754752726544
+RH_S003__insert_270	2242	133542	species	Halobacterium salinarum	0.007893525420034004
+RH_S003__insert_270	12916	432860	genus	Acidovorax	0.020055178381327584
+RH_S003__insert_270	13687	1774365	genus	Sphingomonas	0.08220950558745165
+RH_S003__insert_270	28122	28750	species	Fibrobacter intestinalis	0.0016993818860431746
+RH_S003__insert_270	28898	15650	species	Campylobacter helveticus	0.0009250548353591542
+RH_S003__insert_270	29524	35081	species	Porphyromonas circumdentaria	0.0020736005545836734
+RH_S003__insert_270	29580	63978	genus	Janthinobacterium	0.0029642152254321865
+RH_S003__insert_270	31988	53210	genus	Aminobacter	0.002465314516634572
+RH_S003__insert_270	32033	30347	family	Xanthomonadaceae	0.01643256297515649
+RH_S003__insert_270	33877	190654	genus	Agromyces	0.008833340985800558
+RH_S003__insert_270	33882	858920	genus	Microbacterium	0.03979530059439516
+RH_S003__insert_270	33886	213995	genus	Rathayibacter	0.009914771283353038
+RH_S003__insert_270	33922	9661	species	Mycoplasma agassizii	0.0005710514226456734
+RH_S003__insert_270	34072	32424	genus	Variovorax	0.0015022619411268437
+RH_S003__insert_270	36874	11747	species	Porphyromonas cangingivalis	0.0006943526614034494
+RH_S003__insert_270	40323	111915	genus	Stenotrophomonas	0.005185222216296901
+RH_S003__insert_270	40571	375890	species	Lentzea albidocapillata	0.02221845763981805
+RH_S003__insert_270	41275	148222	genus	Brevundimonas	0.0068673904958581
+RH_S003__insert_270	41985	113267	species	Agromyces fucosus	0.006695091759528774
+RH_S003__insert_270	42197	247433	species	Actinosynnema pretiosum	0.01462550115510681
+RH_S003__insert_270	42322	12843	species	Eubacterium ruminantium	0.0007591360543461736
+RH_S003__insert_270	44249	623780	genus	Paenibacillus	0.02890084362312184
+RH_S003__insert_270	46913	497920	genus	Devosia	0.02306952460294467
+RH_S003__insert_270	48464	98098	species	Prosthecobacter fusiformis	0.005798468321984811
+RH_S003__insert_270	48467	136031	species	Prosthecobacter debontii	0.008040647559663968
+RH_S003__insert_270	49280	272223	species	Gelidibacter algens	0.016090811657889777
+RH_S003__insert_270	53254	43145	species	Bosea thiooxidans	0.0025502550077680965
+RH_S003__insert_270	53335	45819	genus	Pantoea	0.002122876260809612
+RH_S003__insert_270	53355	125029	genus	Terrabacter	0.0057928173031442185
+RH_S003__insert_270	55080	35933	genus	Brevibacillus	0.0016648401903068986
+RH_S003__insert_270	57028	86287	species	Algoriphagus ratkowskyi	0.005100332688730692
+RH_S003__insert_270	59732	132141	genus	Chryseobacterium	0.0061223289897126285
+RH_S003__insert_270	60919	130944	genus	Sanguibacter	0.006066869837740977
+RH_S003__insert_270	64969	49025	species	Oceanospirillum multiglobuliferum	0.002897815546548405
+RH_S003__insert_270	68287	478724	genus	Mesorhizobium	0.022180139572662447
+RH_S003__insert_270	72806	131672	species	Williamsia maris	0.007782991711272239
+RH_S003__insert_270	75309	117483	genus	Rhodanobacter	0.005443197619954509
+RH_S003__insert_270	75654	88535	genus	Duganella	0.00410198497895587
+RH_S003__insert_270	76595	55986	species	Cellulophaga fucicola	0.0033092728442439363
+RH_S003__insert_270	80864	878449	family	Comamonadaceae	0.47567036323073925
+RH_S003__insert_270	83618	15009	genus	Pseudoxanthomonas	0.0006953938278550703
+RH_S003__insert_270	85023	311328	family	Microbacteriaceae	0.1685806493534623
+RH_S003__insert_270	85413	438205	genus	Bosea	0.020302821795937842
+RH_S003__insert_270	86796	89862	species	Marmoricola aurantiacus	0.0053116471319517135
+RH_S003__insert_270	91360	61231	species	Desulforhopalus singaporensis	0.003619299209193378
+RH_S003__insert_270	92487	41579	species	Thiothrix eikelboomii	0.002457690415297014
+RH_S003__insert_270	96492	523586	genus	Frigoribacterium	0.024258676310968407
+RH_S003__insert_270	103728	78226	species	Actinokineospora diospyrosa	0.00462385556235177
+RH_S003__insert_270	103729	58474	species	Actinokineospora globicatena	0.0034563358749387335
+RH_S003__insert_270	104662	44476	species	Chitinophaga japonensis	0.0026289290004749993
+RH_S003__insert_270	106591	1565673	genus	Ensifer	0.07254043178355196
+RH_S003__insert_270	110932	328193	genus	Leifsonia	0.015205768974964293
+RH_S003__insert_270	114707	35653	species	uncultured Pseudomonas sp.	0.0021074108654990367
+RH_S003__insert_270	115783	28855	species	Geobacter thiogenes	0.00170558832423568
+RH_S003__insert_270	116849	41337	species	Azomonas agilis	0.002443386052986668
+RH_S003__insert_270	129578	26556	species	Oceanimonas baumannii	0.0015696968822873929
+RH_S003__insert_270	130788	15955	species	Sedimentibacter saalensis	0.0009430830605850035
+RH_S003__insert_270	136099	50242	genus	Knoellia	0.002327801765546968
+RH_S003__insert_270	142842	23703	species	Selenihalanaerobacter shriftii	0.0014010590902567431
+RH_S003__insert_270	143223	110044	species	Salegentibacter salegens	0.006504583661486438
+RH_S003__insert_270	149698	415918	genus	Massilia	0.01927022520446566
+RH_S003__insert_270	158751	59683	species	uncultured Acidovorax sp.	0.003527798577555297
+RH_S003__insert_270	158754	38324	species	uncultured Sphingomonas sp.	0.0022652908313293436
+RH_S003__insert_270	160236	39713	species	uncultured Herbaspirillum sp.	0.0023473931422759164
+RH_S003__insert_270	160791	358762	species	Sphingomonas wittichii	0.021206039798282485
+RH_S003__insert_270	165695	126359	genus	Sphingobium	0.0058544385831127204
+RH_S003__insert_270	165697	199357	genus	Sphingopyxis	0.009236566549383918
+RH_S003__insert_270	170623	340682	species	Azotobacter beijerinckii	0.020137350250468204
+RH_S003__insert_270	171291	14015	species	Mycoplasma verecundum	0.0008284117263615684
+RH_S003__insert_270	172045	78379	species	Elizabethkingia miricola	0.004632899229432277
+RH_S003__insert_270	174951	54004	genus	Ramlibacter	0.002502101957457873
+RH_S003__insert_270	176898	80549	species	Prauserella alba	0.004761165618744058
+RH_S003__insert_270	180163	10453	species	Cetobacterium ceti	0.0006178656992977149
+RH_S003__insert_270	182367	44559	species	Rhizobium sp. DCP1	0.0026338350420938373
+RH_S003__insert_270	185641	287953	species	Prauserella halophila	0.01702059520806227
+RH_S003__insert_270	188872	21841	species	Arenibacter troitsensis	0.0012909982529763122
+RH_S003__insert_270	188932	222152	species	Pedobacter cryoconitis	0.013131168165156986
+RH_S003__insert_270	190323	63346	genus	Plantibacter	0.0029349335344997854
+RH_S003__insert_270	191564	47999	species	Nonlabens xylanidelens	0.002837169779067351
+RH_S003__insert_270	196587	206356	species	Albidovulum inexpectatum	0.01219748342526349
+RH_S003__insert_270	198092	227000	species	Roseomonas rosea	0.013417728282845239
+RH_S003__insert_270	198312	49215	species	Porphyrobacter sanguineus	0.0029090462442300812
+RH_S003__insert_270	213248	140464	species	Mesonia algae	0.008302677469258033
+RH_S003__insert_270	213588	9920	species	Thermomonas hydrothermalis	0.0005863606368538536
+RH_S003__insert_270	223904	30549	species	Nocardioides sp. NS/27	0.0018057188604081022
+RH_S003__insert_270	225004	59086	species	Treponema berlinense	0.0034925105432607657
+RH_S003__insert_270	227322	217398	species	uncultured Paenibacillus sp.	0.012850164287374403
+RH_S003__insert_270	237019	78230	species	Algoriphagus chordae	0.004624091998092436
+RH_S003__insert_270	241145	43317	species	Salegentibacter holothuriorum	0.002560421744616772
+RH_S003__insert_270	244584	7681	species	Mycoplasma testudineum	0.0004540157310155695
+RH_S003__insert_270	245876	145508	genus	Nitratireductor	0.006741646019290797
+RH_S003__insert_270	255475	71668	family	Aurantimonadaceae	0.038807424895492645
+RH_S003__insert_270	261392	33859	species	Treponema porcinum	0.0020013694358099426
+RH_S003__insert_270	263852	34177	species	Pilibacter termitis	0.0020201660771929594
+RH_S003__insert_270	266809	49702	species	Thalassobacter stenotrophicus	0.0029378322956562734
+RH_S003__insert_270	270918	57023	species	Salegentibacter mishustinae	0.003370568810011824
+RH_S003__insert_270	279824	81012	species	Algoriphagus alkaliphilus	0.004788533055726249
+RH_S003__insert_270	291403	62343	species	Algoriphagus yeomjeoni	0.00368502834509877
+RH_S003__insert_270	292407	110978	species	Dyadobacter crusticola	0.006559791406932154
+RH_S003__insert_270	293890	397914	species	Agromyces subbeticus	0.02352027282792987
+RH_S003__insert_270	321325	46440	species	Williamsia deligens	0.0027450189491424358
+RH_S003__insert_270	330227	29530	species	Microbacterium sp. Bt 07	0.0017454868554732156
+RH_S003__insert_270	331697	82426	species	Chitinophaga skermanii	0.00487211309005199
+RH_S003__insert_270	334858	141116	species	Goodfellowiella coeruleoviolacea	0.008341216494986734
+RH_S003__insert_270	349095	118338	species	Megasphaera paucivorans	0.0069948331697592065
+RH_S003__insert_270	349273	175328	species	uncultured Phenylobacterium sp.	0.01036345138491053
+RH_S003__insert_270	351343	62366	species	Pedobacter aquatilis	0.0036863878506076045
+RH_S003__insert_270	355930	100785	species	Yonghaparkia alkaliphila	0.005957294030777786
+RH_S003__insert_270	361177	21787	genus	Altererythrobacter	0.0010094306967471794
+RH_S003__insert_270	366349	195297	species	Rhizobium sp. CHNTR26	0.011543797711254742
+RH_S003__insert_270	387889	49338	species	Prauserella salsuginis	0.0029163166432555876
+RH_S003__insert_270	387890	62401	species	Prauserella aidingensis	0.0036884566633384394
+RH_S003__insert_270	391736	46176	species	Williamsia serinedens	0.0027294141902584217
+RH_S003__insert_270	393003	169567	species	Chitinophaga ginsengisegetis	0.01002292480941506
+RH_S003__insert_270	402884	86100	species	Gemmobacter changlensis	0.005089279317854516
+RH_S003__insert_270	414371	21153	genus	Aureimonas	0.0009800563422358785
+RH_S003__insert_270	424797	127213	species	Nocardioides terrigena	0.007519424969363839
+RH_S003__insert_270	428988	73776	species	Flavobacterium lindanitolerans	0.004360820800859869
+RH_S003__insert_270	429344	124313	species	Maribacter polysiphoniae	0.007348009057380353
+RH_S003__insert_270	435906	161490	species	Salegentibacter salarius	0.00954550194007347
+RH_S003__insert_270	438851	163392	species	Lentzea californiensis	0.00965792713476057
+RH_S003__insert_270	440515	79599	species	Arenibacter echinorum	0.004705012130335675
+RH_S003__insert_270	443157	180809	species	Nocardioides hankookensis	0.010687427458559317
+RH_S003__insert_270	447422	53150	species	Salegentibacter salinarum	0.003141639904111121
+RH_S003__insert_270	454048	47283	species	Bacillus sp. M5-3	0.00279484778148798
+RH_S003__insert_270	468058	144374	species	Mucilaginibacter oryzae	0.008533793405759906
+RH_S003__insert_270	490570	78719	species	Phycicoccus ginsenosidimutans	0.004652996267388962
+RH_S003__insert_270	504486	66785	species	Cellulophaga tyrosinoxydans	0.0039475902351093365
+RH_S003__insert_270	509094	14865	species	Brevundimonas sp. HINF004	0.0008786543212532797
+RH_S003__insert_270	526729	28978	species	Promicromonospora flava	0.0017128587232611864
+RH_S003__insert_270	554335	105895	species	Rhizobium sp. CpLB236	0.006259340689479721
+RH_S003__insert_270	561088	24345	species	Aquamicrobium aerolatum	0.001439007026633777
+RH_S003__insert_270	561184	469831	species	Mameliella alba	0.02777121011831481
+RH_S003__insert_270	561365	83652	species	Maribacter arcticus	0.004944580644566388
+RH_S003__insert_270	563996	315302	species	Sphingomonas hankookensis	0.01863716547593687
+RH_S003__insert_270	568105	46192	species	Hwanghaeicola aestuarii	0.0027303599332210893
+RH_S003__insert_270	572036	76943	species	Pedobacter luteus	0.004548018798532869
+RH_S003__insert_270	575302	39559	species	Burkholderia sp. IMER-A1-17	0.0023382903662602416
+RH_S003__insert_270	576117	37299	species	Celeribacter halophilus	0.0022047041727834564
+RH_S003__insert_270	577679	82513	species	Prauserella flava	0.004877255567411494
+RH_S003__insert_270	591202	204922	species	Arcicella aurantiaca	0.012112721212234414
+RH_S003__insert_270	619730	270351	species	Terrabacter carboxydivorans	0.01598015973125768
+RH_S003__insert_270	619805	45193	species	Soonwooa buanensis	0.002671310106989537
+RH_S003__insert_270	623280	88885	species	Parapedobacter luteus	0.0052538977022938286
+RH_S003__insert_270	643671	135295	species	Larkinella arboricola	0.007997143383381262
+RH_S003__insert_270	651661	116029	species	Dyadobacter psychrophilus	0.0068583506384592525
+RH_S003__insert_270	654838	35593	species	Fontibacter flavus	0.0021038643293890334
+RH_S003__insert_270	684063	240209	species	Paenibacillus algorifonticola	0.014198498207462431
+RH_S003__insert_270	696762	64497	species	Planktotalea frisia	0.0038123489914478827
+RH_S003__insert_270	745368	35818	species	Gemmiger formicilis	0.002117163839801545
+RH_S003__insert_270	747294	118845	genus	Pseudorhodoferax	0.005506301517185411
+RH_S003__insert_270	756689	419738	species	Nocardia amikacinitolerans	0.024810266229008348
+RH_S003__insert_270	765201	223625	species	Promicromonospora thailandica	0.013218235626657563
+RH_S003__insert_270	875239	66435	species	Modestobacter sp. R-36506	0.003926902107800985
+RH_S003__insert_270	889453	66712	species	Alkalitalea saponilacus	0.003943275282842166
+RH_S003__insert_270	906888	64613	species	Nonlabens ulvanivorans	0.0038192056279272224
+RH_S003__insert_270	908626	54918	genus	Angustibacter	0.0025444492130151744
+RH_S003__insert_270	1037355	128944	species	Parabacteroides chartae	0.0076217425361374295
+RH_S003__insert_270	1071583	172773	species	Microbacterium sp. C23(2011)	0.010212428055559561
+RH_S003__insert_270	1150508	65652	species	Leifsonia sp. MN6-25	0.0038806198115654434
+RH_S003__insert_270	1167741	879174	species	Pelomonas sp. JGI 001013-K11	0.05196703896626511
+RH_S003__insert_270	1172533	107143	species	Rhodococcus sp. I_48-J6PC12A	0.006333108640567786
+RH_S003__insert_270	1189325	16152	species	Oceanicella actignis	0.0009547275208128471
+RH_S003__insert_270	1243042	93357	species	Paenibacillus sp. AMB_13	0.005518232860359396
+RH_S003__insert_270	1255265	197647	species	Nitrobacter sp. NS5-5	0.011682703708896533
+RH_S003__insert_270	1256701	347079	species	Rhizobium sp. BA-57-09	0.020515470108729703
+RH_S003__insert_270	1259470	369002	species	Nocardioides sp. RHLT1-14	0.021811315294389687
+RH_S003__insert_270	1278652	102290	species	Chryseobacterium sp. T85L.09.P.BNT.GC.H.Gill.D.M	0.006046252978203698
+RH_S003__insert_270	1294566	43808	species	Devosia sp. R41	0.002589444231783631
+RH_S003__insert_270	1387244	132330	species	Rhizobium sp. Ia8	0.007821885390611941
+RH_S003__insert_270	1456769	119616	species	Phycicoccus sp. THG-a14	0.007070374388902274
+RH_S004__insert_270	68	568047	genus	Lysobacter	0.027373102196249482
+RH_S004__insert_270	75	331254	genus	Caulobacter	0.015962498868784494
+RH_S004__insert_270	237	522213	genus	Flavobacterium	0.025164449098771812
+RH_S004__insert_270	286	937729	genus	Pseudomonas	0.0451873731388192
+RH_S004__insert_270	338	370007	genus	Xanthomonas	0.017829932073099027
+RH_S004__insert_270	374	101555	genus	Bradyrhizobium	0.00489374187970382
+RH_S004__insert_270	379	1687313	genus	Rhizobium	0.08130839734398791
+RH_S004__insert_270	407	2757808	genus	Methylobacterium	0.13289351096235769
+RH_S004__insert_270	469	86709	genus	Acinetobacter	0.004178341437125091
+RH_S004__insert_270	506	426039	family	Alcaligenaceae	0.25363147981016293
+RH_S004__insert_270	543	90606	family	Enterobacteriaceae	0.05393997699665904
+RH_S004__insert_270	876	572320	species	Desulfovibrio desulfuricans	0.03153079149933563
+RH_S004__insert_270	990	71280	species	Cytophaga xylanolytica	0.0039270247729812765
+RH_S004__insert_270	1004	175152	species	Chitinophaga sancti	0.009649638650914933
+RH_S004__insert_270	1028	97866	species	Marivirga sericea	0.0053917256794694945
+RH_S004__insert_270	1080	35763	species	Afifella marina	0.0019702888181275164
+RH_S004__insert_270	1386	689104	genus	Bacillus	0.033206608283899576
+RH_S004__insert_270	1663	1220618	genus	Arthrobacter	0.05881925484437318
+RH_S004__insert_270	1763	396962	genus	Mycobacterium	0.019128842145152754
+RH_S004__insert_270	1827	268950	genus	Rhodococcus	0.012960187864175497
+RH_S004__insert_270	1839	333601	genus	Nocardioides	0.016075596325253058
+RH_S004__insert_270	1843	239806	species	Nocardioides jensenii	0.013211617602546969
+RH_S004__insert_270	1883	849366	genus	Streptomyces	0.040929328594323425
+RH_S004__insert_270	1933	106395	species	Streptoalloteichus tenebrarius	0.005861613365899872
+RH_S004__insert_270	2034	29644	genus	Curtobacterium	0.0014284878566485162
+RH_S004__insert_270	2040	124665	genus	Aeromicrobium	0.006007368730572367
+RH_S004__insert_270	2063	201279	genus	Kitasatospora	0.009699251359410225
+RH_S004__insert_270	2242	157302	species	Halobacterium salinarum	0.008666229669465498
+RH_S004__insert_270	12916	439865	genus	Acidovorax	0.02119625593930305
+RH_S004__insert_270	13687	1565954	genus	Sphingomonas	0.07546033845196905
+RH_S004__insert_270	28122	21219	species	Fibrobacter intestinalis	0.001169017096771741
+RH_S004__insert_270	28898	12405	species	Campylobacter helveticus	0.000683427922402255
+RH_S004__insert_270	29524	20654	species	Porphyromonas circumdentaria	0.0011378895855942098
+RH_S004__insert_270	29580	43904	genus	Janthinobacterium	0.0021156500761805577
+RH_S004__insert_270	31988	47382	genus	Aminobacter	0.0022832482668911076
+RH_S004__insert_270	32033	35500	family	Xanthomonadaceae	0.02113402184603002
+RH_S004__insert_270	33877	116157	genus	Agromyces	0.005597384427362086
+RH_S004__insert_270	33882	1118114	genus	Microbacterium	0.05387978246352378
+RH_S004__insert_270	33886	166489	genus	Rathayibacter	0.008022787571365363
+RH_S004__insert_270	33922	7328	species	Mycoplasma agassizii	0.00040372106532557227
+RH_S004__insert_270	34072	170655	genus	Variovorax	0.008223539170704106
+RH_S004__insert_270	36874	21126	species	Porphyromonas cangingivalis	0.0011638934533389792
+RH_S004__insert_270	40323	122762	genus	Stenotrophomonas	0.005915666787811535
+RH_S004__insert_270	40571	205372	species	Lentzea albidocapillata	0.011314547301861821
+RH_S004__insert_270	41275	146602	genus	Brevundimonas	0.007064470947253602
+RH_S004__insert_270	41985	263803	species	Agromyces fucosus	0.014533682887019917
+RH_S004__insert_270	42197	153165	species	Actinosynnema pretiosum	0.008438310176117805
+RH_S004__insert_270	42322	15725	species	Eubacterium ruminantium	0.0008663364836578362
+RH_S004__insert_270	44249	495918	genus	Paenibacillus	0.023897343168716056
+RH_S004__insert_270	46913	402508	genus	Devosia	0.019396093314123633
+RH_S004__insert_270	48464	54717	species	Prosthecobacter fusiformis	0.0030145204054884468
+RH_S004__insert_270	48467	141489	species	Prosthecobacter debontii	0.007795045007075586
+RH_S004__insert_270	49280	286724	species	Gelidibacter algens	0.01579646816790521
+RH_S004__insert_270	53254	40393	species	Bosea thiooxidans	0.0022253691309628604
+RH_S004__insert_270	53335	51077	genus	Pantoea	0.0024613032739858407
+RH_S004__insert_270	53355	92214	genus	Terrabacter	0.004443616894244578
+RH_S004__insert_270	55080	31491	genus	Brevibacillus	0.0015174912661489145
+RH_S004__insert_270	57028	45069	species	Algoriphagus ratkowskyi	0.0024829837190445164
+RH_S004__insert_270	59732	76524	genus	Chryseobacterium	0.003687545700383587
+RH_S004__insert_270	60919	82332	genus	Sanguibacter	0.003967422149965782
+RH_S004__insert_270	64969	81350	species	Oceanospirillum multiglobuliferum	0.004481810680163115
+RH_S004__insert_270	68287	386968	genus	Mesorhizobium	0.01864725033435309
+RH_S004__insert_270	72806	69123	species	Williamsia maris	0.0038081893011052857
+RH_S004__insert_270	75309	79667	genus	Rhodanobacter	0.0038390008796254666
+RH_S004__insert_270	75654	121913	genus	Duganella	0.005874755096059592
+RH_S004__insert_270	76595	72445	species	Cellulophaga fucicola	0.0039912080482411415
+RH_S004__insert_270	80864	814933	family	Comamonadaceae	0.4851496288746699
+RH_S004__insert_270	83618	81067	genus	Pseudoxanthomonas	0.003906464211136326
+RH_S004__insert_270	85023	273975	family	Microbacteriaceae	0.16310404606383308
+RH_S004__insert_270	85413	251140	genus	Bosea	0.012101957911169489
+RH_S004__insert_270	86796	57183	species	Marmoricola aurantiacus	0.0031503795958668394
+RH_S004__insert_270	91360	101488	species	Desulforhopalus singaporensis	0.005591272308646518
+RH_S004__insert_270	92487	47921	species	Thiothrix eikelboomii	0.0026401087843158774
+RH_S004__insert_270	96492	384088	genus	Frigoribacterium	0.018508468623816464
+RH_S004__insert_270	103728	259929	species	Actinokineospora diospyrosa	0.014320252836928313
+RH_S004__insert_270	103729	181206	species	Actinokineospora globicatena	0.009983171310505684
+RH_S004__insert_270	104662	41086	species	Chitinophaga japonensis	0.002263548538477956
+RH_S004__insert_270	106591	1364602	genus	Ensifer	0.06575756936170148
+RH_S004__insert_270	110932	345289	genus	Leifsonia	0.016638818767180864
+RH_S004__insert_270	114707	60817	species	uncultured Pseudomonas sp.	0.003350587340325509
+RH_S004__insert_270	115783	19203	species	Geobacter thiogenes	0.0010579497294550988
+RH_S004__insert_270	116849	39538	species	Azomonas agilis	0.0021782646671455346
+RH_S004__insert_270	129578	32092	species	Oceanimonas baumannii	0.00176804263488377
+RH_S004__insert_270	130788	27202	species	Sedimentibacter saalensis	0.001498638157612748
+RH_S004__insert_270	136099	31423	genus	Knoellia	0.0015142144757612443
+RH_S004__insert_270	142842	47226	species	Selenihalanaerobacter shriftii	0.0026018191909205073
+RH_S004__insert_270	143223	69361	species	Salegentibacter salegens	0.003821301420857945
+RH_S004__insert_270	149698	334270	genus	Massilia	0.016107834160096462
+RH_S004__insert_270	158751	39999	species	uncultured Acidovorax sp.	0.0022036625125487945
+RH_S004__insert_270	158754	30816	species	uncultured Sphingomonas sp.	0.0016977440432686729
+RH_S004__insert_270	160236	63272	species	uncultured Herbaspirillum sp.	0.003485840508362392
+RH_S004__insert_270	160791	398012	species	Sphingomonas wittichii	0.021927651289896516
+RH_S004__insert_270	165695	69639	genus	Sphingobium	0.0033557706736319667
+RH_S004__insert_270	165697	144469	genus	Sphingopyxis	0.0069616857428874135
+RH_S004__insert_270	170623	694375	species	Azotobacter beijerinckii	0.038255160307784426
+RH_S004__insert_270	171291	8860	species	Mycoplasma verecundum	0.00048812344961579834
+RH_S004__insert_270	172045	45567	species	Elizabethkingia miricola	0.002510420003232854
+RH_S004__insert_270	174951	73774	genus	Ramlibacter	0.003555028442058684
+RH_S004__insert_270	176898	90929	species	Prauserella alba	0.0050095459537375766
+RH_S004__insert_270	180163	12386	species	Cetobacterium ceti	0.0006823811565396477
+RH_S004__insert_270	182367	69983	species	Rhizobium sp. DCP1	0.0038555692296232975
+RH_S004__insert_270	185641	160427	species	Prauserella halophila	0.008838395107394321
+RH_S004__insert_270	188872	52675	species	Arenibacter troitsensis	0.002902020621728237
+RH_S004__insert_270	188932	161252	species	Pedobacter cryoconitis	0.00888384678300753
+RH_S004__insert_270	190323	53632	genus	Plantibacter	0.0025844238539931594
+RH_S004__insert_270	191564	207748	species	Nonlabens xylanidelens	0.011445448127627864
+RH_S004__insert_270	196587	150768	species	Albidovulum inexpectatum	0.00830625239860888
+RH_S004__insert_270	198092	160271	species	Roseomonas rosea	0.008829800608732914
+RH_S004__insert_270	198312	48964	species	Porphyrobacter sanguineus	0.0026975707208790013
+RH_S004__insert_270	213248	147253	species	Mesonia algae	0.008112600714026542
+RH_S004__insert_270	213588	26193	species	Thermomonas hydrothermalis	0.0014430493810142896
+RH_S004__insert_270	223904	30171	species	Nocardioides sp. NS/27	0.0016622090968801638
+RH_S004__insert_270	225004	32222	species	Treponema berlinense	0.0017752047171016088
+RH_S004__insert_270	227322	448985	species	uncultured Paenibacillus sp.	0.0247359037275112
+RH_S004__insert_270	237019	70454	species	Algoriphagus chordae	0.00388151800442793
+RH_S004__insert_270	241145	30070	species	Salegentibacter holothuriorum	0.0016566447099263045
+RH_S004__insert_270	244584	5324	species	Mycoplasma testudineum	0.0002933148132905768
+RH_S004__insert_270	245876	97928	genus	Nitratireductor	0.004718963662996758
+RH_S004__insert_270	255475	38703	family	Aurantimonadaceae	0.023040846408645066
+RH_S004__insert_270	261392	29349	species	Treponema porcinum	0.0016169227000873664
+RH_S004__insert_270	263852	24189	species	Pilibacter termitis	0.0013326431289792942
+RH_S004__insert_270	266809	52569	species	Thalassobacter stenotrophicus	0.0028961807700736914
+RH_S004__insert_270	270918	80099	species	Salegentibacter mishustinae	0.004412889412051448
+RH_S004__insert_270	279824	67898	species	Algoriphagus alkaliphilus	0.003740700449437187
+RH_S004__insert_270	291403	76227	species	Algoriphagus yeomjeoni	0.00419956954784012
+RH_S004__insert_270	292407	119027	species	Dyadobacter crusticola	0.006557547385713277
+RH_S004__insert_270	293890	367511	species	Agromyces subbeticus	0.02024726152277107
+RH_S004__insert_270	321325	52622	species	Williamsia deligens	0.002899100695900964
+RH_S004__insert_270	330227	17887	species	Microbacterium sp. Bt 07	0.000985447420234513
+RH_S004__insert_270	331697	57934	species	Chitinophaga skermanii	0.003191754393909894
+RH_S004__insert_270	334858	126109	species	Goodfellowiella coeruleoviolacea	0.006947715587765092
+RH_S004__insert_270	349095	62967	species	Megasphaera paucivorans	0.003469037161620539
+RH_S004__insert_270	349273	277327	species	uncultured Phenylobacterium sp.	0.015278759809435724
+RH_S004__insert_270	351343	124678	species	Pedobacter aquatilis	0.006868877590428726
+RH_S004__insert_270	355930	61147	species	Yonghaparkia alkaliphila	0.003368768010570793
+RH_S004__insert_270	361177	27306	genus	Altererythrobacter	0.0013158240930253805
+RH_S004__insert_270	366349	222629	species	Rhizobium sp. CHNTR26	0.012265286169809883
+RH_S004__insert_270	387889	52681	species	Prauserella salsuginis	0.00290235117936906
+RH_S004__insert_270	387890	57073	species	Prauserella aidingensis	0.003144319372451745
+RH_S004__insert_270	391736	37596	species	Williamsia serinedens	0.002071274177399047
+RH_S004__insert_270	393003	132611	species	Chitinophaga ginsengisegetis	0.007305929884537318
+RH_S004__insert_270	402884	64923	species	Gemmobacter changlensis	0.0035767989525289476
+RH_S004__insert_270	414371	28338	genus	Aureimonas	0.0013655542059676715
+RH_S004__insert_270	424797	99623	species	Nocardioides terrigena	0.005488523975290596
+RH_S004__insert_270	428988	45231	species	Flavobacterium lindanitolerans	0.0024919087753467466
+RH_S004__insert_270	429344	64897	species	Maribacter polysiphoniae	0.00357536653608538
+RH_S004__insert_270	435906	99122	species	Salegentibacter salarius	0.005460922412281847
+RH_S004__insert_270	438851	97118	species	Lentzea californiensis	0.005350516160246852
+RH_S004__insert_270	440515	60290	species	Arenibacter echinorum	0.003321553360873192
+RH_S004__insert_270	443157	566409	species	Nocardioides hankookensis	0.031205137130184506
+RH_S004__insert_270	447422	73832	species	Salegentibacter salinarum	0.00406762195621147
+RH_S004__insert_270	454048	35595	species	Bacillus sp. M5-3	0.0019610332041844632
+RH_S004__insert_270	468058	83146	species	Mucilaginibacter oryzae	0.004580757600649568
+RH_S004__insert_270	490570	49024	species	Phycicoccus ginsenosidimutans	0.002700876297287235
+RH_S004__insert_270	504486	45885	species	Cellulophaga tyrosinoxydans	0.0025279395581964906
+RH_S004__insert_270	509094	17503	species	Brevundimonas sp. HINF004	0.0009642917312218192
+RH_S004__insert_270	526729	33348	species	Promicromonospora flava	0.0018372393676961223
+RH_S004__insert_270	554335	184765	species	Rhizobium sp. CpLB236	0.01017924708445406
+RH_S004__insert_270	561088	17882	species	Aquamicrobium aerolatum	0.000985171955533827
+RH_S004__insert_270	561184	362503	species	Mameliella alba	0.019971356078563856
+RH_S004__insert_270	561365	63680	species	Maribacter arcticus	0.003508318427938379
+RH_S004__insert_270	563996	162629	species	Sphingomonas hankookensis	0.008959709761576487
+RH_S004__insert_270	568105	355188	species	Hwanghaeicola aestuarii	0.019568351221460067
+RH_S004__insert_270	572036	74539	species	Pedobacter luteus	0.004106572664888487
+RH_S004__insert_270	575302	31412	species	Burkholderia sp. IMER-A1-17	0.0017305794355904581
+RH_S004__insert_270	576117	342990	species	Celeribacter halophilus	0.018896327537666218
+RH_S004__insert_270	577679	64889	species	Prauserella flava	0.003574925792564282
+RH_S004__insert_270	591202	115278	species	Arcicella aurantiaca	0.006351003953138827
+RH_S004__insert_270	619730	156216	species	Terrabacter carboxydivorans	0.008606398736476473
+RH_S004__insert_270	619805	27053	species	Soonwooa buanensis	0.0014904293095323016
+RH_S004__insert_270	623280	71766	species	Parapedobacter luteus	0.003953799941887967
+RH_S004__insert_270	643671	98921	species	Larkinella arboricola	0.005449848731314265
+RH_S004__insert_270	651661	146745	species	Dyadobacter psychrophilus	0.008084613500436832
+RH_S004__insert_270	654838	49545	species	Fontibacter flavus	0.002729579719098728
+RH_S004__insert_270	684063	399570	species	Paenibacillus algorifonticola	0.02201348609063031
+RH_S004__insert_270	696762	63983	species	Planktotalea frisia	0.0035250115887999578
+RH_S004__insert_270	745368	80117	species	Gemmiger formicilis	0.004413881084973918
+RH_S004__insert_270	747294	191498	genus	Pseudorhodoferax	0.009227923612618996
+RH_S004__insert_270	756689	338870	species	Nocardia amikacinitolerans	0.01866934462430086
+RH_S004__insert_270	765201	142602	species	Promicromonospora thailandica	0.007856363449448315
+RH_S004__insert_270	875239	57808	species	Modestobacter sp. R-36506	0.003184812683452604
+RH_S004__insert_270	889453	49265	species	Alkalitalea saponilacus	0.0027141536958603055
+RH_S004__insert_270	906888	55286	species	Nonlabens ulvanivorans	0.0030458682884265268
+RH_S004__insert_270	908626	38231	genus	Angustibacter	0.0018422790192797673
+RH_S004__insert_270	1037355	108070	species	Parabacteroides chartae	0.005953894040629721
+RH_S004__insert_270	1071583	260374	species	Microbacterium sp. C23(2011)	0.014344769195289377
+RH_S004__insert_270	1150508	75831	species	Leifsonia sp. MN6-25	0.0041777527435457795
+RH_S004__insert_270	1167741	809638	species	Pelomonas sp. JGI 001013-K11	0.04460533786682119
+RH_S004__insert_270	1172533	63905	species	Rhodococcus sp. I_48-J6PC12A	0.0035207143394692547
+RH_S004__insert_270	1189325	99865	species	Oceanicella actignis	0.005501856466803804
+RH_S004__insert_270	1243042	92977	species	Paenibacillus sp. AMB_13	0.00512237629513861
+RH_S004__insert_270	1255265	168829	species	Nitrobacter sp. NS5-5	0.00930128599042727
+RH_S004__insert_270	1256701	200955	species	Rhizobium sp. BA-57-09	0.011071201785275707
+RH_S004__insert_270	1259470	363503	species	Nocardioides sp. RHLT1-14	0.020026449018701077
+RH_S004__insert_270	1278652	68524	species	Chryseobacterium sp. T85L.09.P.BNT.GC.H.Gill.D.M	0.0037751886299630887
+RH_S004__insert_270	1294566	29593	species	Devosia sp. R41	0.0016303653774808488
+RH_S004__insert_270	1387244	1056231	species	Rhizobium sp. Ia8	0.05819087125407949
+RH_S004__insert_270	1456769	183316	species	Phycicoccus sp. THG-a14	0.010099417414195224
+RH_S005__insert_270	68	561340	genus	Lysobacter	0.024931400231184175
+RH_S005__insert_270	75	431166	genus	Caulobacter	0.019149841650476992
+RH_S005__insert_270	237	374840	genus	Flavobacterium	0.016648174123805672
+RH_S005__insert_270	286	876090	genus	Pseudomonas	0.0389107322274168
+RH_S005__insert_270	338	308291	genus	Xanthomonas	0.013692461447023196
+RH_S005__insert_270	374	101611	genus	Bradyrhizobium	0.0045129591849696355
+RH_S005__insert_270	379	1798729	genus	Rhizobium	0.07988889551152185
+RH_S005__insert_270	407	2995419	genus	Methylobacterium	0.13303878210904882
+RH_S005__insert_270	469	64308	genus	Acinetobacter	0.002856180721250921
+RH_S005__insert_270	506	354016	family	Alcaligenaceae	0.18140712272610812
+RH_S005__insert_270	543	86194	family	Enterobacteriaceae	0.04416807583909813
+RH_S005__insert_270	876	601152	species	Desulfovibrio desulfuricans	0.0358242661562195
+RH_S005__insert_270	990	53827	species	Cytophaga xylanolytica	0.003207695847956635
+RH_S005__insert_270	1004	122176	species	Chitinophaga sancti	0.007280796773365595
+RH_S005__insert_270	1028	107805	species	Marivirga sericea	0.0064243901924492365
+RH_S005__insert_270	1080	70686	species	Afifella marina	0.004212369047293416
+RH_S005__insert_270	1386	785690	genus	Bacillus	0.034895699304590966
+RH_S005__insert_270	1663	1124633	genus	Arthrobacter	0.04994954116257055
+RH_S005__insert_270	1763	273459	genus	Mycobacterium	0.01214543017746712
+RH_S005__insert_270	1827	899994	genus	Rhodococcus	0.039972406419753394
+RH_S005__insert_270	1839	335960	genus	Nocardioides	0.01492135465434253
+RH_S005__insert_270	1843	273117	species	Nocardioides jensenii	0.016275777340486602
+RH_S005__insert_270	1883	1001688	genus	Streptomyces	0.04448905197344642
+RH_S005__insert_270	1933	95641	species	Streptoalloteichus tenebrarius	0.0056995046834194835
+RH_S005__insert_270	2034	24668	genus	Curtobacterium	0.0010956065502241979
+RH_S005__insert_270	2040	186942	genus	Aeromicrobium	0.008302857131182584
+RH_S005__insert_270	2063	156843	genus	Kitasatospora	0.006966037707021804
+RH_S005__insert_270	2242	178176	species	Halobacterium salinarum	0.010617987541670934
+RH_S005__insert_270	12916	397210	genus	Acidovorax	0.017641717115881046
+RH_S005__insert_270	13687	1986549	genus	Sphingomonas	0.08823074820582658
+RH_S005__insert_270	28122	32397	species	Fibrobacter intestinalis	0.0019306244521569307
+RH_S005__insert_270	28898	20919	species	Campylobacter helveticus	0.0012466195300389182
+RH_S005__insert_270	29524	24804	species	Porphyromonas circumdentaria	0.0014781371395901012
+RH_S005__insert_270	29580	60987	genus	Janthinobacterium	0.0027086815582342775
+RH_S005__insert_270	31988	51595	genus	Aminobacter	0.0022915445094380364
+RH_S005__insert_270	32033	69218	family	Xanthomonadaceae	0.03546912631309249
+RH_S005__insert_270	33877	209705	genus	Agromyces	0.009313854857092808
+RH_S005__insert_270	33882	981981	genus	Microbacterium	0.04361378367908659
+RH_S005__insert_270	33886	125333	genus	Rathayibacter	0.005566550014563377
+RH_S005__insert_270	33922	7328	species	Mycoplasma agassizii	0.0004366952491096703
+RH_S005__insert_270	34072	172246	genus	Variovorax	0.00765014779673736
+RH_S005__insert_270	36874	14824	species	Porphyromonas cangingivalis	0.0008834020705242566
+RH_S005__insert_270	40323	170518	genus	Stenotrophomonas	0.00757340026476122
+RH_S005__insert_270	40571	143388	species	Lentzea albidocapillata	0.008544876962245825
+RH_S005__insert_270	41275	243761	genus	Brevundimonas	0.010826420799789228
+RH_S005__insert_270	41985	155590	species	Agromyces fucosus	0.009272026993582642
+RH_S005__insert_270	42197	128395	species	Actinosynnema pretiosum	0.007651403726724361
+RH_S005__insert_270	42322	11758	species	Eubacterium ruminantium	0.0007006908759595392
+RH_S005__insert_270	44249	490196	genus	Paenibacillus	0.02177160485218505
+RH_S005__insert_270	46913	370694	genus	Devosia	0.01646403334396014
+RH_S005__insert_270	48464	39455	species	Prosthecobacter fusiformis	0.002351229674347986
+RH_S005__insert_270	48467	109581	species	Prosthecobacter debontii	0.006530226813958349
+RH_S005__insert_270	49280	320129	species	Gelidibacter algens	0.019077348990478936
+RH_S005__insert_270	53254	102411	species	Bosea thiooxidans	0.006102947210230683
+RH_S005__insert_270	53335	53539	genus	Pantoea	0.002377885482911194
+RH_S005__insert_270	53355	72623	genus	Terrabacter	0.0032254838048050884
+RH_S005__insert_270	55080	49806	genus	Brevibacillus	0.0022120877185206095
+RH_S005__insert_270	57028	30176	species	Algoriphagus ratkowskyi	0.0017982690825782493
+RH_S005__insert_270	59732	50085	genus	Chryseobacterium	0.0022244792471209237
+RH_S005__insert_270	60919	70092	genus	Sanguibacter	0.0031130717657821662
+RH_S005__insert_270	64969	50190	species	Oceanospirillum multiglobuliferum	0.0029909572260936614
+RH_S005__insert_270	68287	512046	genus	Mesorhizobium	0.022742052522137977
+RH_S005__insert_270	72806	40724	species	Williamsia maris	0.0024268528008654765
+RH_S005__insert_270	75309	105962	genus	Rhodanobacter	0.004706204851421131
+RH_S005__insert_270	75654	164725	genus	Duganella	0.007316109493500932
+RH_S005__insert_270	76595	44344	species	Cellulophaga fucicola	0.0026425783469595002
+RH_S005__insert_270	80864	1097498	family	Comamonadaceae	0.5623868818857289
+RH_S005__insert_270	83618	54270	genus	Pseudoxanthomonas	0.0024103521761256372
+RH_S005__insert_270	85023	323082	family	Microbacteriaceae	0.16555572636433513
+RH_S005__insert_270	85413	180652	genus	Bosea	0.008023492561662956
+RH_S005__insert_270	86796	34008	species	Marmoricola aurantiacus	0.0020266282794380005
+RH_S005__insert_270	91360	71926	species	Desulforhopalus singaporensis	0.004286263985734463
+RH_S005__insert_270	92487	47390	species	Thiothrix eikelboomii	0.0028240976876783945
+RH_S005__insert_270	96492	385239	genus	Frigoribacterium	0.017110036152173658
+RH_S005__insert_270	103728	155031	species	Actinokineospora diospyrosa	0.00923871467859188
+RH_S005__insert_270	103729	105413	species	Actinokineospora globicatena	0.006281844472488765
+RH_S005__insert_270	104662	153524	species	Chitinophaga japonensis	0.009148908491309091
+RH_S005__insert_270	106591	1662054	genus	Ensifer	0.07381860099020306
+RH_S005__insert_270	110932	405087	genus	Leifsonia	0.01799156683195515
+RH_S005__insert_270	114707	58542	species	uncultured Pseudomonas sp.	0.0034886753921094865
+RH_S005__insert_270	115783	23180	species	Geobacter thiogenes	0.0013813586073092464
+RH_S005__insert_270	116849	35792	species	Azomonas agilis	0.0021329416424854418
+RH_S005__insert_270	129578	25500	species	Oceanimonas baumannii	0.0015196136534247533
+RH_S005__insert_270	130788	21380	species	Sedimentibacter saalensis	0.0012740917611851461
+RH_S005__insert_270	136099	47414	genus	Knoellia	0.002105849236757342
+RH_S005__insert_270	142842	63456	species	Selenihalanaerobacter shriftii	0.00378151388202828
+RH_S005__insert_270	143223	124973	species	Salegentibacter salegens	0.007447477533703988
+RH_S005__insert_270	149698	377330	genus	Massilia	0.0167587651855074
+RH_S005__insert_270	158751	59869	species	uncultured Acidovorax sp.	0.003567754894779865
+RH_S005__insert_270	158754	48906	species	uncultured Sphingomonas sp.	0.002914440209191803
+RH_S005__insert_270	160236	59633	species	uncultured Herbaspirillum sp.	0.0035536910193991497
+RH_S005__insert_270	160791	392933	species	Sphingomonas wittichii	0.02341593536004504
+RH_S005__insert_270	165695	115877	genus	Sphingobium	0.005146570464582835
+RH_S005__insert_270	165697	169023	genus	Sphingopyxis	0.007507001213659177
+RH_S005__insert_270	170623	527697	species	Azotobacter beijerinckii	0.031446884943971846
+RH_S005__insert_270	171291	29872	species	Mycoplasma verecundum	0.0017801529041217344
+RH_S005__insert_270	172045	62494	species	Elizabethkingia miricola	0.0037241857120441776
+RH_S005__insert_270	174951	50376	genus	Ramlibacter	0.0022374037446932947
+RH_S005__insert_270	176898	85791	species	Prauserella alba	0.005112516664351491
+RH_S005__insert_270	180163	14425	species	Cetobacterium ceti	0.000859624586300081
+RH_S005__insert_270	182367	72097	species	Rhizobium sp. DCP1	0.004296454336116253
+RH_S005__insert_270	185641	90054	species	Prauserella halophila	0.005366560311588734
+RH_S005__insert_270	188872	67816	species	Arenibacter troitsensis	0.0040413380204177675
+RH_S005__insert_270	188932	99790	species	Pedobacter cryoconitis	0.005946754763735534
+RH_S005__insert_270	190323	53870	genus	Plantibacter	0.002392586543723753
+RH_S005__insert_270	191564	155270	species	Nonlabens xylanidelens	0.009252957332049469
+RH_S005__insert_270	196587	134253	species	Albidovulum inexpectatum	0.008000497718166015
+RH_S005__insert_270	198092	135358	species	Roseomonas rosea	0.008066347643147755
+RH_S005__insert_270	198312	30223	species	Porphyrobacter sanguineus	0.001801069939115934
+RH_S005__insert_270	213248	204448	species	Mesonia algae	0.01218360675354447
+RH_S005__insert_270	213588	21835	species	Thermomonas hydrothermalis	0.001301206436177627
+RH_S005__insert_270	223904	62719	species	Nocardioides sp. NS/27	0.00373759406780969
+RH_S005__insert_270	225004	42478	species	Treponema berlinense	0.002531378383144183
+RH_S005__insert_270	227322	490511	species	uncultured Paenibacillus sp.	0.029230871088432517
+RH_S005__insert_270	237019	87037	species	Algoriphagus chordae	0.005186769158946284
+RH_S005__insert_270	241145	26014	species	Salegentibacter holothuriorum	0.001550244297262413
+RH_S005__insert_270	244584	5642	species	Mycoplasma testudineum	0.0003362219699067631
+RH_S005__insert_270	245876	66918	genus	Nitratireductor	0.0029721014726732152
+RH_S005__insert_270	255475	21492	family	Aurantimonadaceae	0.011013066871637202
+RH_S005__insert_270	261392	18112	species	Treponema porcinum	0.001079342842777613
+RH_S005__insert_270	263852	20973	species	Pilibacter termitis	0.0012498375354226413
+RH_S005__insert_270	266809	53199	species	Thalassobacter stenotrophicus	0.0031702716371977825
+RH_S005__insert_270	270918	109214	species	Salegentibacter mishustinae	0.006508356295887491
+RH_S005__insert_270	279824	139081	species	Algoriphagus alkaliphilus	0.00828821123654777
+RH_S005__insert_270	291403	55831	species	Algoriphagus yeomjeoni	0.0033271196033081334
+RH_S005__insert_270	292407	72830	species	Dyadobacter crusticola	0.004340135779565678
+RH_S005__insert_270	293890	349491	species	Agromyces subbeticus	0.020827109621532176
+RH_S005__insert_270	321325	35894	species	Williamsia deligens	0.002139020097099141
+RH_S005__insert_270	330227	26213	species	Microbacterium sp. Bt 07	0.0015621032430283553
+RH_S005__insert_270	331697	92768	species	Chitinophaga skermanii	0.005528294878466961
+RH_S005__insert_270	334858	278536	species	Goodfellowiella coeruleoviolacea	0.016598710140012435
+RH_S005__insert_270	349095	51327	species	Megasphaera paucivorans	0.003058714117228718
+RH_S005__insert_270	349273	377508	species	uncultured Phenylobacterium sp.	0.022496718081453794
+RH_S005__insert_270	351343	93825	species	Pedobacter aquatilis	0.005591284354218725
+RH_S005__insert_270	355930	40064	species	Yonghaparkia alkaliphila	0.0023875216239533066
+RH_S005__insert_270	361177	23371	genus	Altererythrobacter	0.0010380014871610884
+RH_S005__insert_270	366349	248572	species	Rhizobium sp. CHNTR26	0.014813074708199913
+RH_S005__insert_270	387889	62843	species	Prauserella salsuginis	0.003744983561653795
+RH_S005__insert_270	387890	108829	species	Prauserella aidingensis	0.006485413109355391
+RH_S005__insert_270	391736	101242	species	Williamsia serinedens	0.006033283352942309
+RH_S005__insert_270	393003	125960	species	Chitinophaga ginsengisegetis	0.00750629552099537
+RH_S005__insert_270	402884	66747	species	Gemmobacter changlensis	0.0039776334323585105
+RH_S005__insert_270	414371	20706	genus	Aureimonas	0.0009196379612835349
+RH_S005__insert_270	424797	103126	species	Nocardioides terrigena	0.006145555985218867
+RH_S005__insert_270	428988	37824	species	Flavobacterium lindanitolerans	0.002254033993221093
+RH_S005__insert_270	429344	39737	species	Maribacter polysiphoniae	0.002368034813574095
+RH_S005__insert_270	435906	117949	species	Salegentibacter salarius	0.0070288984630508325
+RH_S005__insert_270	438851	164509	species	Lentzea californiensis	0.009803534216127558
+RH_S005__insert_270	440515	81786	species	Arenibacter echinorum	0.004873847931725368
+RH_S005__insert_270	443157	341847	species	Nocardioides hankookensis	0.020371583081658495
+RH_S005__insert_270	447422	54229	species	Salegentibacter salinarum	0.0032316521102576843
+RH_S005__insert_270	454048	259850	species	Bacillus sp. M5-3	0.015485161091859692
+RH_S005__insert_270	468058	65546	species	Mucilaginibacter oryzae	0.003906062608916819
+RH_S005__insert_270	490570	46565	species	Phycicoccus ginsenosidimutans	0.002774933716538182
+RH_S005__insert_270	504486	66947	species	Cellulophaga tyrosinoxydans	0.003989551970816744
+RH_S005__insert_270	509094	97228	species	Brevundimonas sp. HINF004	0.005794078286085565
+RH_S005__insert_270	526729	52286	species	Promicromonospora flava	0.003115863509135947
+RH_S005__insert_270	554335	113725	species	Rhizobium sp. CpLB236	0.006777178930812944
+RH_S005__insert_270	561088	42660	species	Aquamicrobium aerolatum	0.0025422242531411756
+RH_S005__insert_270	561184	298255	species	Mameliella alba	0.017773818439301953
+RH_S005__insert_270	561365	39299	species	Maribacter arcticus	0.002341933214350564
+RH_S005__insert_270	563996	94104	species	Sphingomonas hankookensis	0.00560791071536796
+RH_S005__insert_270	568105	205144	species	Hwanghaeicola aestuarii	0.012225083267379122
+RH_S005__insert_270	572036	61599	species	Pedobacter luteus	0.0036708502524435836
+RH_S005__insert_270	575302	42099	species	Burkholderia sp. IMER-A1-17	0.002508792752765831
+RH_S005__insert_270	576117	192725	species	Celeribacter halophilus	0.01148500162181512
+RH_S005__insert_270	577679	100716	species	Prauserella flava	0.006001937596797155
+RH_S005__insert_270	591202	65135	species	Arcicella aurantiaca	0.0038815700123851493
+RH_S005__insert_270	619730	172617	species	Terrabacter carboxydivorans	0.01028671176522434
+RH_S005__insert_270	619805	208305	species	Soonwooa buanensis	0.012413455767711499
+RH_S005__insert_270	623280	101157	species	Parapedobacter luteus	0.006028217974097559
+RH_S005__insert_270	643671	86941	species	Larkinella arboricola	0.005181048260486333
+RH_S005__insert_270	651661	112699	species	Dyadobacter psychrophilus	0.0067160368285222065
+RH_S005__insert_270	654838	52081	species	Fontibacter flavus	0.0031036470072162577
+RH_S005__insert_270	684063	235649	species	Paenibacillus algorifonticola	0.014042958345721165
+RH_S005__insert_270	696762	55348	species	Planktotalea frisia	0.0032983363329315
+RH_S005__insert_270	745368	54069	species	Gemmiger formicilis	0.0032221172794910974
+RH_S005__insert_270	747294	231576	genus	Pseudorhodoferax	0.010285235222746832
+RH_S005__insert_270	756689	436684	species	Nocardia amikacinitolerans	0.02602317524047588
+RH_S005__insert_270	765201	133002	species	Promicromonospora thailandica	0.007925947260109766
+RH_S005__insert_270	875239	53796	species	Modestobacter sp. R-36506	0.003205848474495609
+RH_S005__insert_270	889453	43412	species	Alkalitalea saponilacus	0.002587037957744133
+RH_S005__insert_270	906888	53530	species	Nonlabens ulvanivorans	0.0031899968183461587
+RH_S005__insert_270	908626	30295	genus	Angustibacter	0.0013455245840377037
+RH_S005__insert_270	1037355	89097	species	Parabacteroides chartae	0.005309530105066088
+RH_S005__insert_270	1071583	271100	species	Microbacterium sp. C23(2011)	0.01615557888013532
+RH_S005__insert_270	1150508	79785	species	Leifsonia sp. MN6-25	0.0047546029544507425
+RH_S005__insert_270	1167741	538950	species	Pelomonas sp. JGI 001013-K11	0.03211748151032434
+RH_S005__insert_270	1172533	85398	species	Rhodococcus sp. I_48-J6PC12A	0.005089096736281062
+RH_S005__insert_270	1189325	61708	species	Oceanicella actignis	0.0036773458559033207
+RH_S005__insert_270	1243042	58165	species	Paenibacillus sp. AMB_13	0.0034662089471157167
+RH_S005__insert_270	1255265	119442	species	Nitrobacter sp. NS5-5	0.0071178703526415445
+RH_S005__insert_270	1256701	146252	species	Rhizobium sp. BA-57-09	0.008715550432967727
+RH_S005__insert_270	1259470	222580	species	Nocardioides sp. RHLT1-14	0.013264141450167905
+RH_S005__insert_270	1278652	46814	species	Chryseobacterium sp. T85L.09.P.BNT.GC.H.Gill.D.M	0.002789772296918682
+RH_S005__insert_270	1294566	89503	species	Devosia sp. R41	0.005333724738136302
+RH_S005__insert_270	1387244	607956	species	Rhizobium sp. Ia8	0.0362297348345686
+RH_S005__insert_270	1456769	136317	species	Phycicoccus sp. THG-a14	0.008123497035054984

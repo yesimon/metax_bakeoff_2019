@@ -1,0 +1,26 @@
+273036	25000.00000	0.05000	subspecies	-Staphylococcus aureus RF122
+1074120	25000.00000	0.05000	subspecies	-Streptococcus mutans TCI-125
+565659	25000.00000	0.05000	subspecies	-Enterococcus faecium 1,141,733
+260799	16627.00000	0.03325	subspecies	-Bacillus anthracis str. Sterne
+198094	8373.00000	0.01675	subspecies	-Bacillus anthracis str. Ames
+526973	25000.00000	0.05000	subspecies	-Bacillus cereus m1293
+318	0.00000	0.00000	subspecies	-Pseudomonas savastanoi pv. glycinea
+875329	25000.00000	0.05000	subspecies	--Pseudomonas savastanoi pv. glycinea str. B076
+565652	25000.00000	0.05000	subspecies	-Enterococcus casseliflavus EC30
+1235458	25000.00000	0.05000	subspecies	-Stenotrophomonas maltophilia AU12-09
+318167	25000.00000	0.05000	subspecies	-Shewanella frigidimarina NCIMB 400
+640513	25000.00000	0.05000	subspecies	-Enterobacter asburiae LF7a
+319224	25000.00000	0.05000	subspecies	-Shewanella putrefaciens CN-32
+1333511	25000.00000	0.05000	subspecies	-Pseudoalteromonas haloplanktis TAB23
+208964	25000.00000	0.05000	subspecies	-Pseudomonas aeruginosa PAO1
+1210443	25000.00000	0.05000	subspecies	-Pseudomonas stutzeri T13
+335284	25000.00000	0.05000	subspecies	-Psychrobacter cryohalolentis K5
+220664	25000.00000	0.05000	subspecies	-Pseudomonas protegens Pf-5
+1400139	25000.00000	0.05000	subspecies	-Enterobacter aerogenes UCI 16
+69219	0.00000	0.00000	subspecies	-Enterobacter cloacae subsp. dissolvens
+1104326	25000.00000	0.05000	subspecies	--Enterobacter cloacae subsp. dissolvens SDM
+168927	0.00000	0.00000	subspecies	-Escherichia coli O111:H-
+585396	16528.00000	0.03306	subspecies	--Escherichia coli O111:H- str. 11128
+83333	0.00000	0.00000	subspecies	-Escherichia coli K-12
+511145	8472.00000	0.01694	subspecies	--Escherichia coli str. K-12 substr. MG1655
+187410	25000.00000	0.05000	subspecies	-Yersinia pestis KIM10+

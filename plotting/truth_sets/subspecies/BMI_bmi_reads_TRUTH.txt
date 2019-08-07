@@ -1,0 +1,11 @@
+927666	1.00000	0.10000	subspecies	-Streptococcus oralis Uo5
+762948	1.00000	0.10000	subspecies	-Rothia dentocariosa ATCC 17931
+722438	1.00000	0.10000	subspecies	-Mycoplasma pneumoniae FH
+365659	1.00000	0.10000	subspecies	-Streptococcus mitis B6
+553174	1.00000	0.10000	subspecies	-Prevotella melaninogenica ATCC 25845
+479436	1.00000	0.10000	subspecies	-Veillonella parvula DSM 2008
+596315	1.00000	0.10000	subspecies	-Peptostreptococcus stomatis DSM 17678
+242619	1.00000	0.10000	subspecies	-Porphyromonas gingivalis W83
+76856	0.00000	0.00000	subspecies	-Fusobacterium nucleatum subsp. nucleatum
+190304	1.00000	0.10000	subspecies	--Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+596329	1.00000	0.10000	subspecies	-Peptostreptococcus anaerobius 653-L

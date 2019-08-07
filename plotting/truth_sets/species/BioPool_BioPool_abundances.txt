@@ -1,0 +1,11 @@
+taxid_genus	taxid_species	taxid_strain	match	query	Abundance	GenomeLength	Ploidy
+286	287		Pseudomonas aeruginosa	Pseudomonas aeruginosa	12.00	6770000	1
+561	562		Escherichia coli	Escherichia coli	12.00	5470000	1
+590	28901		Salmonella enterica	Salmonella enterica	12.00	4830000	1
+1578	1613		Lactobacillus fermentum	Lactobacillus fermentum	12.00	2080000	1
+1350	1351		Enterococcus faecalis	Enterococcus faecalis	12.00	3010000	1	
+1279	1280		Staphylococcus aureus	Staphylococcus aureus	12.00	2930000	1
+1637	1639		Listeria monocytogenes	Listeria monocytogenes	12.00	2950000	1
+55087	1423		Bacillus subtilis	Bacillus subtilis	12.00	3980000	1
+4930	4932		Saccharomyces cerevisiae	Saccharomyces cerevisiae	2.00	13300000	2
+5206	5207		Cryptococcus neoformans	Cryptococcus neoformans	2.00	18900000	2

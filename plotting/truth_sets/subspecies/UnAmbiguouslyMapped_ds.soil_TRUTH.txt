@@ -1,0 +1,52 @@
+326424	50000.00000	0.02000	subspecies	-Frankia alni ACN14a
+479432	50000.00000	0.02000	subspecies	-Streptosporangium roseum DSM 43021
+760192	50000.00000	0.02000	subspecies	-Haliscomenobacter hydrossis DSM 1100
+529120	50000.00000	0.02000	subspecies	-Alteromonas macleodii ATCC 27126
+553174	50000.00000	0.02000	subspecies	-Prevotella melaninogenica ATCC 25845
+33013	0.00000	0.00000	subspecies	-Clavibacter michiganensis subsp. michiganensis
+443906	50000.00000	0.02000	subspecies	--Clavibacter michiganensis subsp. michiganensis NCPPB 382
+59201	0.00000	0.00000	subspecies	-Salmonella enterica subsp. enterica
+57045	0.00000	0.00000	subspecies	--Salmonella enterica subsp. enterica serovar Paratyphi B
+1016998	50000.00000	0.02000	subspecies	---Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7
+1133849	50000.00000	0.02000	subspecies	-Nocardia brasiliensis ATCC 700358
+632772	50000.00000	0.02000	subspecies	-Rhodococcus opacus B4
+1235458	50000.00000	0.02000	subspecies	-Stenotrophomonas maltophilia AU12-09
+653045	50000.00000	0.02000	subspecies	-Streptomyces violaceusniger Tu 4113
+509190	50000.00000	0.02000	subspecies	-Caulobacter segnis ATCC 21756
+471854	50000.00000	0.02000	subspecies	-Dyadobacter fermentans DSM 18053
+1167689	50000.00000	0.02000	subspecies	-Burkholderia cenocepacia PT15
+452637	50000.00000	0.02000	subspecies	-Opitutus terrae PB90-1
+309807	50000.00000	0.02000	subspecies	-Salinibacter ruber DSM 13855
+762903	50000.00000	0.02000	subspecies	-Pseudopedobacter saltans DSM 12145
+483219	50000.00000	0.02000	subspecies	-Myxococcus fulvus HW-1
+479433	50000.00000	0.02000	subspecies	-Catenulispora acidiphila DSM 44928
+448385	50000.00000	0.02000	subspecies	-Sorangium cellulosum So ce56
+234267	50000.00000	0.02000	subspecies	-Candidatus Solibacter usitatus Ellin6076
+749414	50000.00000	0.02000	subspecies	-Streptomyces bingchenggensis BCW-1
+926556	50000.00000	0.02000	subspecies	-Echinicola vietnamensis DSM 17526
+926566	50000.00000	0.02000	subspecies	-Terriglobus roseus DSM 18391
+583355	50000.00000	0.02000	subspecies	-Coraliomargarita akajimensis DSM 45221
+655815	50000.00000	0.02000	subspecies	-Zunongwangia profunda SM-A87
+880070	50000.00000	0.02000	subspecies	-Cyclobacterium marinum DSM 745
+637913	50000.00000	0.02000	subspecies	-Helicobacter pylori v225d
+983918	50000.00000	0.02000	subspecies	-Pseudomonas aeruginosa HB13
+564420	50000.00000	0.02000	subspecies	-Pseudomonas fluorescens NZ011
+1193499	50000.00000	0.02000	subspecies	-Pseudomonas putida SJTE-1
+387	0.00000	0.00000	subspecies	-Rhizobium leguminosarum bv. viciae
+935554	50000.00000	0.02000	subspecies	--Rhizobium leguminosarum bv. viciae WSM1481
+481448	50000.00000	0.02000	subspecies	-Methylacidiphilum infernorum V4
+168927	0.00000	0.00000	subspecies	-Escherichia coli O111:H-
+585396	50000.00000	0.02000	subspecies	--Escherichia coli O111:H- str. 11128
+574556	50000.00000	0.02000	subspecies	-Anaplasma centrale str. Israel
+1166018	50000.00000	0.02000	subspecies	-Fibrella aestuarina BUZ 2
+997883	50000.00000	0.02000	subspecies	-Bacteroides fragilis CL07T12C05
+204669	50000.00000	0.02000	subspecies	-Candidatus Koribacter versatilis Ellin345
+435590	50000.00000	0.02000	subspecies	-Bacteroides vulgatus ATCC 8482
+435591	50000.00000	0.02000	subspecies	-Parabacteroides distasonis ATCC 8503
+488538	50000.00000	0.02000	subspecies	-Candidatus Puniceispirillum marinum IMCC1322
+867900	50000.00000	0.02000	subspecies	-Cellulophaga lytica DSM 7489
+485917	50000.00000	0.02000	subspecies	-Pedobacter heparinus DSM 2366
+682795	50000.00000	0.02000	subspecies	-Granulicella mallensis MP5ACTX8
+1198114	50000.00000	0.02000	subspecies	-Granulicella tundricola MP5ACTX9
+991905	50000.00000	0.02000	subspecies	-Polymorphum gilvum SL003B-26A1
+246196	50000.00000	0.02000	subspecies	-Mycobacterium smegmatis str. MC2 155

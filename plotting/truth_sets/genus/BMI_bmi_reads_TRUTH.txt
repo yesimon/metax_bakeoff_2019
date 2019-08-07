@@ -1,0 +1,8 @@
+1257	2.00000	0.20000	genus	Peptostreptococcus
+1301	2.00000	0.20000	genus	Streptococcus
+836	1.00000	0.10000	genus	Porphyromonas
+2093	1.00000	0.10000	genus	Mycoplasma
+29465	1.00000	0.10000	genus	Veillonella
+32207	1.00000	0.10000	genus	Rothia
+848	1.00000	0.10000	genus	Fusobacterium
+838	1.00000	0.10000	genus	Prevotella

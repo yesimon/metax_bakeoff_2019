@@ -1,0 +1,25 @@
+813	1.00000	0.04000	species	Chlamydia trachomatis
+959	1.00000	0.04000	species	Bdellovibrio bacteriovorus
+1076	1.00000	0.04000	species	Rhodopseudomonas palustris
+562	1.00000	0.04000	species	Escherichia coli
+235	1.00000	0.04000	species	Brucella abortus
+621	1.00000	0.04000	species	Shigella boydii
+1280	1.00000	0.04000	species	Staphylococcus aureus
+1282	1.00000	0.04000	species	Staphylococcus epidermidis
+1313	1.00000	0.04000	species	Streptococcus pneumoniae
+382	1.00000	0.04000	species	Sinorhizobium meliloti
+13373	1.00000	0.04000	species	Burkholderia mallei
+666	1.00000	0.04000	species	Vibrio cholerae
+28229	1.00000	0.04000	species	Colwellia psychrerythraea
+670	1.00000	0.04000	species	Vibrio parahaemolyticus
+36809	1.00000	0.04000	species	Mycobacterium abscessus
+40269	1.00000	0.04000	species	Aliivibrio salmonicida
+210	1.00000	0.04000	species	Helicobacter pylori
+43989	1.00000	0.04000	species	Cyanothece sp. ATCC 51142
+287	1.00000	0.04000	species	Pseudomonas aeruginosa
+66219	1.00000	0.04000	species	Lachnoclostridium phytofermentans
+87883	1.00000	0.04000	species	Burkholderia multivorans
+738	1.00000	0.04000	species	[Haemophilus] parasuis
+110662	1.00000	0.04000	species	Synechococcus sp. CC9605
+784	1.00000	0.04000	species	Orientia tsutsugamushi
+387093	1.00000	0.04000	species	Sulfurovum sp. NBC37-1

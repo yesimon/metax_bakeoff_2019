@@ -1,0 +1,17 @@
+1310161	25000.00000	0.05000	subspecies	-Corynebacterium glutamicum MB001
+1074485	25000.00000	0.05000	subspecies	-Corynebacterium pseudotuberculosis 316
+858619	25000.00000	0.05000	subspecies	-Corynebacterium variabile DSM 44702
+765099	25000.00000	0.05000	subspecies	-Propionibacterium acnes HL005PA4
+504474	25000.00000	0.05000	subspecies	-Corynebacterium urealyticum DSM 7109
+1200352	25000.00000	0.05000	subspecies	-Corynebacterium terpenotabidum Y-11
+645127	25000.00000	0.05000	subspecies	-Corynebacterium kroppenstedtii DSM 44385
+710094	25000.00000	0.05000	subspecies	-Acinetobacter baumannii AB056
+662755	25000.00000	0.05000	subspecies	-Corynebacterium resistens DSM 45100
+1224163	25000.00000	0.05000	subspecies	-Corynebacterium maris DSM 45190
+273036	25000.00000	0.05000	subspecies	-Staphylococcus aureus RF122
+525376	25000.00000	0.05000	subspecies	-Staphylococcus epidermidis W23144
+1074120	25000.00000	0.05000	subspecies	-Streptococcus mutans TCI-125
+1154870	25000.00000	0.05000	subspecies	-Streptococcus agalactiae MRI Z1-039
+170187	25000.00000	0.05000	subspecies	-Streptococcus pneumoniae TIGR4
+436717	25000.00000	0.05000	subspecies	-Acinetobacter oleivorans DR1
+698965	25000.00000	0.05000	subspecies	-Corynebacterium diphtheriae CDCE 8392

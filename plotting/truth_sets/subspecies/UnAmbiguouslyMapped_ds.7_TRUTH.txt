@@ -1,0 +1,494 @@
+471856	5933.00000	0.00104	subspecies	-Jonesia denitrificans DSM 20603
+399549	5809.00000	0.00101	subspecies	-Metallosphaera sedula DSM 5348
+525370	5268.00000	0.00092	subspecies	-Rhodococcus equi ATCC 33707
+595494	5647.00000	0.00099	subspecies	-Tolumonas auensis DSM 9187
+351627	2005.00000	0.00035	subspecies	-Caldicellulosiruptor saccharolyticus DSM 8903
+412418	7265.00000	0.00127	subspecies	-Borrelia recurrentis A1
+485915	11476.00000	0.00200	subspecies	-Desulfohalobium retbaense DSM 5692
+697303	1313.00000	0.00023	subspecies	-Thermoanaerobacter wiegelii Rt8.B1
+889378	5939.00000	0.00104	subspecies	-Spirochaeta africana DSM 8902
+391009	4067.00000	0.00071	subspecies	-Thermosipho melanesiensis BI429
+644283	769.00000	0.00013	subspecies	-Micromonospora aurantiaca ATCC 27029
+743720	2649.00000	0.00046	subspecies	-Pseudomonas fulva 12-X
+138119	5727.00000	0.00100	subspecies	-Desulfitobacterium hafniense Y51
+512564	3107.00000	0.00054	subspecies	-Mycoplasma crocodyli MP145
+645991	5684.00000	0.00099	subspecies	-Syntrophobotulus glycolicus DSM 8271
+945021	4997.00000	0.00087	subspecies	-Tetragenococcus halophilus NBRC 12172
+632516	899.00000	0.00016	subspecies	-Caldicellulosiruptor lactoaceticus 6A
+1072576	100000.00000	0.01746	subspecies	-Enterococcus mundtii crl1656
+545776	2109.00000	0.00037	subspecies	-Treponema paraluiscuniculi Cuniculi A
+479431	5138.00000	0.00090	subspecies	-Nakamurella multipartita DSM 44233
+391616	17682.00000	0.00309	subspecies	-Octadecabacter arcticus 238
+679926	5331.00000	0.00093	subspecies	-Methanolacinia petrolearia DSM 11571
+218493	5051.00000	0.00088	subspecies	-Salmonella bongori NCTC 12419
+693977	28676.00000	0.00501	subspecies	-Deinococcus proteolyticus MRP
+573413	5262.00000	0.00092	subspecies	-Spirochaeta smaragdinae DSM 11293
+42323	0.00000	0.00000	subspecies	-Listonella anguillarum serovar O1
+882102	2031.00000	0.00035	subspecies	--Vibrio anguillarum 775
+391623	10442.00000	0.00182	subspecies	-Thermococcus barophilus MP
+44275	0.00000	0.00000	subspecies	-Leptospira interrogans serovar Copenhageni
+267671	8237.00000	0.00144	subspecies	--Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130
+207559	5721.00000	0.00100	subspecies	-Desulfovibrio alaskensis G20
+688270	4792.00000	0.00084	subspecies	-Cellulophaga algicola DSM 14237
+637905	5655.00000	0.00099	subspecies	-Shewanella violacea DSS12
+326297	5836.00000	0.00102	subspecies	-Shewanella amazonensis SB2B
+338217	0.00000	0.00000	subspecies	-Leptospira borgpetersenii serovar Hardjo-bovis
+355276	5393.00000	0.00094	subspecies	--Leptospira borgpetersenii serovar Hardjo-bovis str. L550
+269482	28309.00000	0.00494	subspecies	-Burkholderia vietnamiensis G4
+880072	5928.00000	0.00103	subspecies	-Desulfobacca acetoxidans DSM 11109
+392500	5661.00000	0.00099	subspecies	-Shewanella woodyi ATCC 51908
+255470	5760.00000	0.00101	subspecies	-Dehalococcoides mccartyi CBDB1
+926570	37663.00000	0.00658	subspecies	-Acidiphilium multivorum AIU301
+137722	32888.00000	0.00574	subspecies	-Azospirillum sp. B510
+343509	22742.00000	0.00397	subspecies	-Sodalis glossinidius str. 'morsitans'
+32019	0.00000	0.00000	subspecies	-Campylobacter fetus subsp. fetus
+360106	4999.00000	0.00087	subspecies	--Campylobacter fetus subsp. fetus 82-40
+521010	34477.00000	0.00602	subspecies	-Borreliella bissettii DN127
+945711	5816.00000	0.00102	subspecies	-Corynebacterium ulcerans 809
+360104	11945.00000	0.00209	subspecies	-Campylobacter concisus 13826
+357809	5179.00000	0.00090	subspecies	-Lachnoclostridium phytofermentans ISDg
+797303	12835.00000	0.00224	subspecies	-Natrinema pellirubrum DSM 15624
+458233	37445.00000	0.00654	subspecies	-Macrococcus caseolyticus JCSC5402
+398579	5651.00000	0.00099	subspecies	-Shewanella pealeana ATCC 700345
+716544	10960.00000	0.00191	subspecies	-Waddlia chondrophila WSU 86-1044
+243275	5099.00000	0.00089	subspecies	-Treponema denticola ATCC 35405
+314280	53658.00000	0.00937	subspecies	-Photobacterium profundum 3TCK
+633149	5326.00000	0.00093	subspecies	-Brevundimonas subvibrioides ATCC 15264
+360105	2677.00000	0.00047	subspecies	-Campylobacter curvus 525.92
+1048245	1191.00000	0.00021	subspecies	-Mycobacterium canettii CIPT 140010059
+573065	23716.00000	0.00414	subspecies	-Asticcacaulis excentricus CB 48
+768704	5147.00000	0.00090	subspecies	-Desulfosporosinus meridiei DSM 13257
+398511	12343.00000	0.00215	subspecies	-Bacillus pseudofirmus OF4
+644651	20083.00000	0.00351	subspecies	-Erwinia pyrifoliae DSM 12163
+502025	5356.00000	0.00094	subspecies	-Haliangium ochraceum DSM 14365
+292805	4694.00000	0.00082	subspecies	-Wolbachia endosymbiont strain TRS of Brugia malayi
+397945	3935.00000	0.00069	subspecies	-Acidovorax citrulli AAC00-1
+906968	5856.00000	0.00102	subspecies	-Treponema brennaborense DSM 12168
+525903	5827.00000	0.00102	subspecies	-Thermanaerovibrio acidaminovorans DSM 6589
+572547	5750.00000	0.00100	subspecies	-Aminobacterium colombiense DSM 12261
+682634	9983.00000	0.00174	subspecies	-Serratia plymuthica 4Rx13
+573064	7392.00000	0.00129	subspecies	-Methanocaldococcus fervens AG86
+306263	4003.00000	0.00070	subspecies	-Campylobacter lari RM2100
+218497	4708.00000	0.00082	subspecies	-Chlamydia abortus S26/3
+264202	10456.00000	0.00183	subspecies	-Chlamydia felis Fe/C-56
+182082	5633.00000	0.00098	subspecies	-Chlamydophila pneumoniae TW-183
+243161	10918.00000	0.00191	subspecies	-Chlamydia muridarum str. Nigg
+410358	5786.00000	0.00101	subspecies	-Methanocorpusculum labreanum Z
+471855	5891.00000	0.00103	subspecies	-Slackia heliotrinireducens DSM 20476
+572546	11431.00000	0.00200	subspecies	-Archaeoglobus profundus DSM 5631
+1045858	2219.00000	0.00039	subspecies	-Brachyspira intermedia PWS/A
+526224	2563.00000	0.00045	subspecies	-Brachyspira murdochii DSM 12563
+760142	5134.00000	0.00090	subspecies	-Hippea maritima DSM 10411
+1008459	5377.00000	0.00094	subspecies	-Taylorella asinigenitalis MCE3
+1077976	100000.00000	0.01746	subspecies	-Gordonia polyisoprenivorans NBRC 16320 = JCM 10675
+591019	5349.00000	0.00093	subspecies	-Staphylothermus hellenicus DSM 12710
+537971	95896.00000	0.01674	subspecies	-Helicobacter cinaedi CCUG 18818 = ATCC BAA-847
+643648	5926.00000	0.00103	subspecies	-Syntrophothermus lipocalidus DSM 12680
+203122	5903.00000	0.00103	subspecies	-Saccharophagus degradans 2-40
+272558	1967.00000	0.00034	subspecies	-Bacillus halodurans C-125
+545694	5823.00000	0.00102	subspecies	-Treponema primitia ZAS-2
+246200	11209.00000	0.00196	subspecies	-Ruegeria pomeroyi DSS-3
+771875	5328.00000	0.00093	subspecies	-Fervidobacterium pennivorans DSM 9078
+590168	663.00000	0.00012	subspecies	-Thermotoga naphthophila RKU-10
+679897	5350.00000	0.00093	subspecies	-Helicobacter mustelae 12198
+862908	10905.00000	0.00190	subspecies	-Halobacteriovorax marinus SJ
+333146	5126.00000	0.00089	subspecies	-Ferroplasma acidarmanus fer1
+262768	350.00000	0.00006	subspecies	-Onion yellows phytoplasma OY-M
+517418	5848.00000	0.00102	subspecies	-Chloroherpeton thalassium ATCC 35110
+381666	7472.00000	0.00130	subspecies	-Ralstonia eutropha H16
+580331	1098.00000	0.00019	subspecies	-Thermoanaerobacter italicus Ab9
+350058	1649.00000	0.00029	subspecies	-Mycobacterium vanbaalenii PYR-1
+886377	5661.00000	0.00099	subspecies	-Muricauda ruestringensis DSM 13258
+460265	46160.00000	0.00806	subspecies	-Methylobacterium nodulans ORS 2060
+317655	9417.00000	0.00164	subspecies	-Sphingopyxis alaskensis RB2256
+35802	0.00000	0.00000	subspecies	-Brucella abortus bv. 1
+262698	49.00000	0.00001	subspecies	--Brucella abortus bv. 1 str. 9-941
+522772	5683.00000	0.00099	subspecies	-Denitrovibrio acetiphilus DSM 12809
+634502	100000.00000	0.01746	subspecies	-Arthrospira platensis str. Paraca
+266264	10641.00000	0.00186	subspecies	-Cupriavidus metallidurans CH34
+688269	5625.00000	0.00098	subspecies	-Pseudothermotoga thermarum DSM 5069
+335543	5911.00000	0.00103	subspecies	-Syntrophobacter fumaroxidans MPOB
+717774	5851.00000	0.00102	subspecies	-Marinomonas mediterranea MMB-1
+520463	3528.00000	0.00062	subspecies	-Brucella pinnipedialis M163/99/10
+246194	3092.00000	0.00054	subspecies	-Carboxydothermus hydrogenoformans Z-2901
+472759	11824.00000	0.00206	subspecies	-Nitrosococcus halophilus Nc 4
+283942	3652.00000	0.00064	subspecies	-Idiomarina loihiensis L2TR
+762051	11667.00000	0.00204	subspecies	-Leuconostoc kimchii IMSNU 11154
+318586	12896.00000	0.00225	subspecies	-Paracoccus denitrificans PD1222
+572265	10997.00000	0.00192	subspecies	-Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)
+546269	4706.00000	0.00082	subspecies	-Filifactor alocis ATCC 35896
+197221	5600.00000	0.00098	subspecies	-Thermosynechococcus elongatus BP-1
+519442	5830.00000	0.00102	subspecies	-Halorhabdus utahensis DSM 12940
+640081	5105.00000	0.00089	subspecies	-Dechlorosoma suillum PS
+443254	6834.00000	0.00119	subspecies	-Marinitoga piezophila KA3
+262724	7635.00000	0.00133	subspecies	-Thermus thermophilus HB27
+326427	5953.00000	0.00104	subspecies	-Chloroflexus aggregans DSM 9485
+498211	5868.00000	0.00102	subspecies	-Cellvibrio japonicus Ueda107
+647113	7305.00000	0.00128	subspecies	-Methanothermococcus okinawensis IH1
+190650	5196.00000	0.00091	subspecies	-Caulobacter crescentus CB15
+504728	5240.00000	0.00091	subspecies	-Meiothermus ruber DSM 1279
+543891	0.00000	0.00000	subspecies	-Comamonas testosteroni CNB-1
+688245	3357.00000	0.00059	subspecies	--Comamonas testosteroni CNB-2
+1005048	5620.00000	0.00098	subspecies	-Collimonas fungivorans Ter331
+985665	5083.00000	0.00089	subspecies	-Paenibacillus terrae HPL-003
+453591	5955.00000	0.00104	subspecies	-Ignicoccus hospitalis KIN4/I
+743299	5741.00000	0.00100	subspecies	-Acidithiobacillus ferrivorans SS3
+572478	5718.00000	0.00100	subspecies	-Vulcanisaeta distributa DSM 14429
+1075399	4814.00000	0.00084	subspecies	-Blattabacterium sp. (Cryptocercus punctulatus) str. Cpu
+267608	9941.00000	0.00174	subspecies	-Ralstonia solanacearum GMI1000
+557598	5605.00000	0.00098	subspecies	-Laribacter hongkongensis HLHK9
+369723	884.00000	0.00015	subspecies	-Salinispora tropica CNB-440
+667014	5598.00000	0.00098	subspecies	-Thermodesulfatator indicus DSM 15286
+604354	5232.00000	0.00091	subspecies	-Thermococcus sibiricus MM 739
+402626	9439.00000	0.00165	subspecies	-Ralstonia pickettii 12J
+643562	5691.00000	0.00099	subspecies	-Desulfovibrio aespoeensis Aspo-2
+634500	13737.00000	0.00240	subspecies	-Erwinia billingiae Eb661
+221109	4994.00000	0.00087	subspecies	-Oceanobacillus iheyensis HTE831
+999630	5921.00000	0.00103	subspecies	-Thermoproteus uzoniensis 768-20
+869210	5768.00000	0.00101	subspecies	-Marinithermus hydrothermalis DSM 14884
+374463	5140.00000	0.00090	subspecies	-Baumannia cicadellinicola str. Hc (Homalodisca coagulata)
+670487	11148.00000	0.00195	subspecies	-Oceanithermus profundus DSM 14977
+340	0.00000	0.00000	subspecies	-Xanthomonas campestris pv. campestris
+190485	4828.00000	0.00084	subspecies	--Xanthomonas campestris pv. campestris str. ATCC 33913
+568816	551.00000	0.00010	subspecies	-Acidaminococcus intestini RyC-MR95
+434928	0.00000	0.00000	subspecies	-Xanthomonas citri pv. citri
+190486	256.00000	0.00004	subspecies	--Xanthomonas axonopodis pv. citri str. 306
+469383	4838.00000	0.00084	subspecies	-Conexibacter woesei DSM 14684
+318161	5738.00000	0.00100	subspecies	-Shewanella denitrificans OS217
+311403	13407.00000	0.00234	subspecies	-Agrobacterium radiobacter K84
+311402	39635.00000	0.00692	subspecies	-Agrobacterium vitis S4
+639282	6436.00000	0.00112	subspecies	-Deferribacter desulfuricans SSM1
+395965	5821.00000	0.00102	subspecies	-Methylocella silvestris BL2
+243233	4259.00000	0.00074	subspecies	-Methylococcus capsulatus str. Bath
+857087	5915.00000	0.00103	subspecies	-Methylomonas methanica MC09
+481145	0.00000	0.00000	subspecies	-Acetobacter pasteurianus subsp. pasteurianus
+634452	29269.00000	0.00511	subspecies	--Acetobacter pasteurianus IFO 3283-01
+661367	9258.00000	0.00162	subspecies	-Legionella longbeachae NSW150
+314260	5878.00000	0.00103	subspecies	-Parvularcula bermudensis HTCC2503
+293826	5100.00000	0.00089	subspecies	-Alkaliphilus metalliredigens QYMF
+1236608	5527.00000	0.00096	subspecies	-Moraxella catarrhalis BBH18
+744872	5764.00000	0.00101	subspecies	-Treponema caldarium DSM 7334
+365044	51171.00000	0.00893	subspecies	-Polaromonas naphthalenivorans CJ2
+1679	0.00000	0.00000	subspecies	-Bifidobacterium longum subsp. longum
+548480	100000.00000	0.01746	subspecies	--Bifidobacterium longum subsp. longum ATCC 55813
+242231	3102.00000	0.00054	subspecies	-Neisseria gonorrhoeae FA 1090
+546265	100000.00000	0.01746	subspecies	-Neisseria lactamica ATCC 23970
+309801	11899.00000	0.00208	subspecies	-Thermomicrobium roseum DSM 5159
+391619	13843.00000	0.00242	subspecies	-Phaeobacter inhibens DSM 17395
+404380	4461.00000	0.00078	subspecies	-Geobacter bemidjiensis Bem
+257310	739.00000	0.00013	subspecies	-Bordetella bronchiseptica RB50
+257311	447.00000	0.00008	subspecies	-Bordetella parapertussis 12822
+768672	4783.00000	0.00084	subspecies	-Desulfurococcus fermentans DSM 16532
+743273	100000.00000	0.01746	subspecies	-Bordetella pertussis B0558
+696127	5382.00000	0.00094	subspecies	-Candidatus Midichloria mitochondrii IricVA
+349741	5902.00000	0.00103	subspecies	-Akkermansia muciniphila ATCC BAA-835
+31994	0.00000	0.00000	subspecies	-Beijerinckia indica subsp. indica
+395963	17773.00000	0.00310	subspecies	--Beijerinckia indica subsp. indica ATCC 9039
+666510	5939.00000	0.00104	subspecies	-Acidilobus saccharovorans 345-15
+120045	0.00000	0.00000	subspecies	-Zymomonas mobilis subsp. mobilis
+264203	5785.00000	0.00101	subspecies	--Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821
+716540	16882.00000	0.00295	subspecies	-Erwinia amylovora ATCC 49946
+706191	5582.00000	0.00097	subspecies	-Pantoea ananatis LMG 20103
+598659	4976.00000	0.00087	subspecies	-Nautilia profundicola AmH
+555	0.00000	0.00000	subspecies	-Pectobacterium carotovorum subsp. carotovorum
+561230	5364.00000	0.00094	subspecies	--Pectobacterium carotovorum subsp. carotovorum PC1
+665571	5893.00000	0.00103	subspecies	-Spirochaeta thermophila DSM 6192
+323	0.00000	0.00000	subspecies	-Pseudomonas syringae pv. tomato
+223283	2314.00000	0.00040	subspecies	--[Pseudomonas syringae] pv. tomato str. DC3000
+697281	5785.00000	0.00101	subspecies	-Mahella australiensis 50-1 BON
+585054	3436.00000	0.00060	subspecies	-Escherichia fergusonii ATCC 35469
+529507	3800.00000	0.00066	subspecies	-Proteus mirabilis HI4320
+1054460	583.00000	0.00010	subspecies	-Streptococcus pseudopneumoniae IS7493
+471874	100000.00000	0.01746	subspecies	-Providencia stuartii ATCC 25827
+523791	5730.00000	0.00100	subspecies	-Kangiella koreensis DSM 16069
+300268	93.00000	0.00002	subspecies	-Shigella boydii Sb227
+42897	0.00000	0.00000	subspecies	-Shigella flexneri 2a
+198214	1187.00000	0.00021	subspecies	--Shigella flexneri 2a str. 301
+300269	945.00000	0.00016	subspecies	-Shigella sonnei Ss046
+150052	0.00000	0.00000	subspecies	-Yersinia enterocolitica subsp. enterocolitica
+393305	8349.00000	0.00146	subspecies	--Yersinia enterocolitica subsp. enterocolitica 8081
+582744	15781.00000	0.00276	subspecies	-Methylovorus glucosetrophus SIP3-4
+349747	11557.00000	0.00202	subspecies	-Yersinia pseudotuberculosis IP 31758
+498217	4842.00000	0.00085	subspecies	-Edwardsiella tarda EIB202
+749222	5844.00000	0.00102	subspecies	-Nitratifractor salsuginis DSM 16511
+998088	2491.00000	0.00043	subspecies	-Aeromonas veronii B565
+1091494	9696.00000	0.00169	subspecies	-Methylomicrobium alcaliphilum 20Z
+425104	5750.00000	0.00100	subspecies	-Shewanella sediminis HAW-EB3
+458817	5686.00000	0.00099	subspecies	-Shewanella halifaxensis HAW-EB4
+314288	12588.00000	0.00220	subspecies	-Vibrio alginolyticus 12G01
+338187	9382.00000	0.00164	subspecies	-Vibrio campbellii ATCC BAA-1116
+205914	10291.00000	0.00180	subspecies	-Haemophilus somnus 129PT
+44283	0.00000	0.00000	subspecies	-Pasteurella multocida subsp. multocida
+272843	5486.00000	0.00096	subspecies	--Pasteurella multocida subsp. multocida str. Pm70
+1005058	8660.00000	0.00151	subspecies	-Gallibacterium anatis UMN179
+234826	4795.00000	0.00084	subspecies	-Anaplasma marginale str. St. Maries
+517417	5849.00000	0.00102	subspecies	-Chlorobaculum parvum NCIB 8327
+254945	3443.00000	0.00060	subspecies	-Ehrlichia ruminantium str. Welgevonden
+452471	5131.00000	0.00090	subspecies	-Candidatus Amoebophilus asiaticus 5a2
+449216	3427.00000	0.00060	subspecies	-Rickettsia prowazekii str. Rp22
+937773	4611.00000	0.00081	subspecies	-Staphylococcus pseudintermedius HKU10-03
+452659	539.00000	0.00009	subspecies	-Rickettsia rickettsii str. Iowa
+640132	5813.00000	0.00101	subspecies	-Segniliparus rotundus DSM 44985
+334380	4270.00000	0.00075	subspecies	-Orientia tsutsugamushi str. Ikeda
+693979	5574.00000	0.00097	subspecies	-Bacteroides helcogenes P 36-108
+283165	4975.00000	0.00087	subspecies	-Bartonella quintana str. Toulouse
+555079	5821.00000	0.00102	subspecies	-Thermosediminibacter oceani DSM 16646
+526218	12044.00000	0.00210	subspecies	-Sebaldella termitidis ATCC 33386
+242619	4664.00000	0.00081	subspecies	-Porphyromonas gingivalis W83
+1085623	5829.00000	0.00102	subspecies	-Glaciecola nitratireducens FR1064
+273121	5848.00000	0.00102	subspecies	-Wolinella succinogenes DSM 1740
+76856	0.00000	0.00000	subspecies	-Fusobacterium nucleatum subsp. nucleatum
+190304	1211.00000	0.00021	subspecies	--Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+370885	0.00000	0.00000	subspecies	-Syntrophomonas wolfei subsp. wolfei
+335541	5759.00000	0.00101	subspecies	--Syntrophomonas wolfei subsp. wolfei str. Goettingen G311
+123214	8711.00000	0.00152	subspecies	-Persephonella marina EX-H1
+204536	4000.00000	0.00070	subspecies	-Sulfurihydrogenibium azorense Az-Fu1
+709986	5480.00000	0.00096	subspecies	-Deinococcus maricopensis DSM 21211
+546414	23543.00000	0.00411	subspecies	-Deinococcus deserti VCD115
+246195	5848.00000	0.00102	subspecies	-Dichelobacter nodosus VCS1703A
+384676	4426.00000	0.00077	subspecies	-Pseudomonas entomophila L48
+690850	5860.00000	0.00102	subspecies	-Desulfovibrio africanus str. Walvis Bay
+115117	0.00000	0.00000	subspecies	-Desulfovibrio desulfuricans subsp. desulfuricans
+525146	5903.00000	0.00103	subspecies	--Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774
+391774	11753.00000	0.00205	subspecies	-Desulfovibrio vulgaris DP4
+577650	5851.00000	0.00102	subspecies	-Desulfobulbus propionicus DSM 2032
+743721	4110.00000	0.00072	subspecies	-Pseudoxanthomonas suwonensis 11-1
+53354	0.00000	0.00000	subspecies	-Streptococcus gallolyticus subsp. gallolyticus
+637909	2364.00000	0.00041	subspecies	--Streptococcus gallolyticus UCN34
+591001	5732.00000	0.00100	subspecies	-Acidaminococcus fermentans DSM 20731
+56780	5906.00000	0.00103	subspecies	-Syntrophus aciditrophicus SB
+1064535	5398.00000	0.00094	subspecies	-Megasphaera elsdenii DSM 20460
+323097	22945.00000	0.00401	subspecies	-Nitrobacter hamburgensis X14
+228410	5800.00000	0.00101	subspecies	-Nitrosomonas europaea ATCC 19718
+380394	451.00000	0.00008	subspecies	-Acidithiobacillus ferrooxidans ATCC 53993
+639283	5049.00000	0.00088	subspecies	-Starkeya novella DSM 506
+205920	3852.00000	0.00067	subspecies	-Ehrlichia chaffeensis str. Arkansas
+434131	5454.00000	0.00095	subspecies	-Neorickettsia risticii str. Illinois
+717959	4608.00000	0.00080	subspecies	-Alistipes shahii WAL 8301
+757424	4761.00000	0.00083	subspecies	-Herbaspirillum seropedicae SmR1
+452662	6771.00000	0.00118	subspecies	-Sphingobium japonicum UT26S
+649638	5841.00000	0.00102	subspecies	-Truepera radiovictrix DSM 17093
+262543	16386.00000	0.00286	subspecies	-Exiguobacterium sibiricum 255-15
+929556	5465.00000	0.00095	subspecies	-Solitalea canadensis DSM 3403
+269796	11546.00000	0.00202	subspecies	-Rhodospirillum rubrum ATCC 11170
+465817	33696.00000	0.00588	subspecies	-Erwinia tasmaniensis Et1/99
+290315	5868.00000	0.00102	subspecies	-Chlorobium limicola DSM 245
+290317	5780.00000	0.00101	subspecies	-Chlorobium phaeobacteroides DSM 266
+319225	5858.00000	0.00102	subspecies	-Chlorobium luteolum DSM 273
+324602	28.00000	0.00000	subspecies	-Chloroflexus aurantiacus J-10-fl
+856793	5953.00000	0.00104	subspecies	-Micavibrio aeruginosavorus ARL-13
+187272	5505.00000	0.00096	subspecies	-Alkalilimnicola ehrlichii MLHE-1
+357804	5584.00000	0.00097	subspecies	-Psychromonas ingrahamii 37
+203124	4673.00000	0.00082	subspecies	-Trichodesmium erythraeum IMS101
+323850	5535.00000	0.00097	subspecies	-Shewanella loihica PV-4
+583345	5794.00000	0.00101	subspecies	-Methylotenera mobilis JLW8
+142554	0.00000	0.00000	subspecies	-Prochlorococcus marinus subsp. marinus
+167539	8.00000	0.00000	subspecies	--Prochlorococcus marinus subsp. marinus str. CCMP1375
+930171	14349.00000	0.00251	subspecies	-Pseudarthrobacter phenanthrenivorans Sphe3
+323261	9437.00000	0.00165	subspecies	-Nitrosococcus oceani ATCC 19707
+391735	11363.00000	0.00198	subspecies	-Verminephrobacter eiseniae EF01-2
+1867252	43322.00000	0.00756	subspecies	-Borrelia hermsii HS1
+76802	0.00000	0.00000	subspecies	-Xanthomonas fuscans subsp. aurantifolii
+427081	100000.00000	0.01746	subspecies	--Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122
+1607839	0.00000	0.00000	subspecies	-Leuconostoc gelidum subsp. gelidum
+927691	100000.00000	0.01746	subspecies	--Leuconostoc gelidum subsp. gelidum KCTC 3527
+33967	0.00000	0.00000	subspecies	-Leuconostoc mesenteroides subsp. mesenteroides
+203120	2501.00000	0.00044	subspecies	--Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293
+203123	5454.00000	0.00095	subspecies	-Oenococcus oeni PSU-1
+439481	5280.00000	0.00092	subspecies	-Aciduliprofundum boonei T469
+1229758	10047.00000	0.00175	subspecies	-Leuconostoc carnosum JB16
+278197	5240.00000	0.00091	subspecies	-Pediococcus pentosaceus ATCC 25745
+334413	8704.00000	0.00152	subspecies	-Finegoldia magna ATCC 29328
+246199	100000.00000	0.01746	subspecies	-Ruminococcus albus 8
+797210	22989.00000	0.00401	subspecies	-Halopiger xanaduensis SH-6
+465515	2321.00000	0.00041	subspecies	-Micrococcus luteus NCTC 2665
+478801	5033.00000	0.00088	subspecies	-Kytococcus sedentarius DSM 20547
+279808	2114.00000	0.00037	subspecies	-Staphylococcus haemolyticus JCSC1435
+706437	8308.00000	0.00145	subspecies	-Streptococcus anginosus F0211
+873447	4566.00000	0.00080	subspecies	-Streptococcus parauberis NCFD 2020
+218495	4850.00000	0.00085	subspecies	-Streptococcus uberis 0140J
+1360	0.00000	0.00000	subspecies	-Lactococcus lactis subsp. lactis
+272623	4336.00000	0.00076	subspecies	--Lactococcus lactis subsp. lactis Il1403
+521095	5532.00000	0.00097	subspecies	-Atopobium parvulum DSM 20469
+592022	1559.00000	0.00027	subspecies	-Bacillus megaterium DSM 319
+649639	5415.00000	0.00095	subspecies	-Bacillus cellulosilyticus DSM 2522
+515618	9041.00000	0.00158	subspecies	-Candidatus Riesia pediculicola USDA
+180856	0.00000	0.00000	subspecies	-[Bacillus thuringiensis] serovar konkukian
+281309	3592.00000	0.00063	subspecies	--[Bacillus thuringiensis] serovar konkukian str. 97-27
+225849	5741.00000	0.00100	subspecies	-Shewanella piezotolerans WP3
+720555	8.00000	0.00000	subspecies	-Bacillus atrophaeus 1942
+1388	0.00000	0.00000	subspecies	-Alicyclobacillus acidocaldarius subsp. acidocaldarius
+521098	23708.00000	0.00414	subspecies	--Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446
+147375	0.00000	0.00000	subspecies	-Paenibacillus larvae subsp. larvae
+392917	100000.00000	0.01746	subspecies	--Paenibacillus larvae subsp. larvae BRL-230010
+272562	7989.00000	0.00139	subspecies	-Clostridium acetobutylicum ATCC 824
+573061	3998.00000	0.00070	subspecies	-Clostridium cellulovorans 743B
+882378	17731.00000	0.00310	subspecies	-Paraburkholderia rhizoxinica HKI 454
+693216	11143.00000	0.00195	subspecies	-Cronobacter turicensis z3032
+795797	41519.00000	0.00725	subspecies	-Halalkalicoccus jeotgali B3
+1045855	4934.00000	0.00086	subspecies	-Pseudoxanthomonas spadix BD-a59
+195102	4950.00000	0.00086	subspecies	-Clostridium perfringens str. 13
+212717	5444.00000	0.00095	subspecies	-Clostridium tetani E88
+203119	4866.00000	0.00085	subspecies	-Ruminiclostridium thermocellum ATCC 27405
+748727	840.00000	0.00015	subspecies	-Clostridium ljungdahlii DSM 13528
+386415	382.00000	0.00007	subspecies	-Clostridium novyi NT
+59736	0.00000	0.00000	subspecies	-Leifsonia xyli subsp. xyli
+281090	5577.00000	0.00097	subspecies	--Leifsonia xyli subsp. xyli str. CTCB07
+362948	13322.00000	0.00233	subspecies	-Lactobacillus salivarius UCC118
+202751	0.00000	0.00000	subspecies	-Listeria ivanovii subsp. ivanovii
+881621	4970.00000	0.00087	subspecies	--Listeria ivanovii subsp. ivanovii PAM 55
+683837	4769.00000	0.00083	subspecies	-Listeria seeligeri serovar 1/2b str. SLCC3954
+568815	349.00000	0.00006	subspecies	-Brucella microti CCM 4915
+386043	4688.00000	0.00082	subspecies	-Listeria welshimeri serovar 6b str. SLCC5334
+367928	2230.00000	0.00039	subspecies	-Bifidobacterium adolescentis ATCC 15703
+398513	30385.00000	0.00530	subspecies	-Bifidobacterium bifidum NCIMB 41171
+518634	100000.00000	0.01746	subspecies	-Bifidobacterium breve DSM 20213 = JCM 1192
+446466	4489.00000	0.00078	subspecies	-Cellulomonas flavigena DSM 20109
+316273	8701.00000	0.00152	subspecies	-Xanthomonas campestris pv. vesicatoria str. 85-10
+981222	10959.00000	0.00191	subspecies	-Chloracidobacterium thermophilum B
+350688	5119.00000	0.00089	subspecies	-Alkaliphilus oremlandii OhILAs
+903814	5704.00000	0.00100	subspecies	-Eubacterium limosum KIST612
+1752	0.00000	0.00000	subspecies	-Propionibacterium freudenreichii subsp. shermanii
+754252	5477.00000	0.00096	subspecies	--Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1
+477974	5922.00000	0.00103	subspecies	-Candidatus Desulforudis audaxviator MP104C
+761193	34421.00000	0.00601	subspecies	-Runella slithyformis DSM 19594
+521011	5936.00000	0.00104	subspecies	-Methanosphaerula palustris E1-9c
+490899	1867.00000	0.00033	subspecies	-Desulfurococcus kamchatkensis 1221n
+487521	100000.00000	0.01746	subspecies	-Mycobacterium intracellulare ATCC 13950
+561304	5856.00000	0.00102	subspecies	-Mycobacterium leprae Br4923
+83331	102.00000	0.00002	subspecies	-Mycobacterium tuberculosis CDC1551
+471857	5668.00000	0.00099	subspecies	-Saccharomonospora viridis DSM 43017
+326423	6.00000	0.00000	subspecies	-Bacillus velezensis FZB42
+340099	6.00000	0.00000	subspecies	-Thermoanaerobacter pseudethanolicus ATCC 33223
+100226	11099.00000	0.00194	subspecies	-Streptomyces coelicolor A3(2)
+680198	3569.00000	0.00062	subspecies	-Streptomyces scabiei 87.22
+269800	5701.00000	0.00100	subspecies	-Thermobifida fusca YX
+374847	5927.00000	0.00103	subspecies	-Candidatus Korarchaeum cryptofilum OPF8
+1209989	5276.00000	0.00092	subspecies	-Tepidanaerobacter acetatoxydans Re1
+563032	29143.00000	0.00509	subspecies	-Rothia dentocariosa M567
+511995	26176.00000	0.00457	subspecies	-Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2
+526226	11239.00000	0.00196	subspecies	-Gordonia bronchialis DSM 43247
+521096	11158.00000	0.00195	subspecies	-Tsukamurella paurometabola DSM 20162
+452652	3251.00000	0.00057	subspecies	-Kitasatospora setae KM-6054
+233150	0.00000	0.00000	subspecies	-Mycoplasma gallisepticum str. R
+710128	4477.00000	0.00078	subspecies	--Mycoplasma gallisepticum str. R(high)
+347256	3184.00000	0.00056	subspecies	-Mycoplasma hominis ATCC 23114
+262719	1884.00000	0.00033	subspecies	-Mycoplasma hyopneumoniae J
+872331	1206.00000	0.00021	subspecies	-Mycoplasma hyorhinis HUB-1
+272634	5529.00000	0.00097	subspecies	-Mycoplasma pneumoniae M129
+272635	2159.00000	0.00038	subspecies	-Mycoplasma pulmonis UAB CTIP
+347257	3483.00000	0.00061	subspecies	-Mycoplasma agalactiae PG2
+243272	4518.00000	0.00079	subspecies	-Mycoplasma arthritidis 158L3-1
+95664	0.00000	0.00000	subspecies	-Ureaplasma urealyticum serovar 10
+565575	2678.00000	0.00047	subspecies	--Ureaplasma urealyticum serovar 10 str. ATCC 33699
+441768	4645.00000	0.00081	subspecies	-Acholeplasma laidlawii PG-8A
+1082931	11861.00000	0.00207	subspecies	-Pelagibacterium halotolerans B2
+754035	3587.00000	0.00063	subspecies	-Mesorhizobium australicum WSM2073
+547558	5576.00000	0.00097	subspecies	-Methanohalophilus mahii DSM 5219
+406327	4564.00000	0.00080	subspecies	-Methanococcus vannielii SB
+76114	14114.00000	0.00246	subspecies	-Aromatoleum aromaticum EbN1
+552811	5770.00000	0.00101	subspecies	-Dehalogenimonas lykanthroporepellens BL-DC-9
+990316	11561.00000	0.00202	subspecies	-Methanosaeta concilii GP6
+933801	5061.00000	0.00088	subspecies	-Acidianus hospitalis W1
+224325	5811.00000	0.00101	subspecies	-Archaeoglobus fulgidus DSM 4304
+272569	26487.00000	0.00462	subspecies	-Haloarcula marismortui ATCC 43049
+64091	15382.00000	0.00269	subspecies	-Halobacterium salinarum NRC-1
+186497	5215.00000	0.00091	subspecies	-Pyrococcus furiosus DSM 3638
+576611	0.00000	0.00000	subspecies	-Polynucleobacter necessarius subsp. asymbioticus
+312153	5821.00000	0.00102	subspecies	--Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1
+57481	0.00000	0.00000	subspecies	-Thermoanaerobacter mathranii subsp. mathranii
+583358	808.00000	0.00014	subspecies	--Thermoanaerobacter mathranii subsp. mathranii str. A3
+765177	1149.00000	0.00020	subspecies	-Desulfurococcus mucosus DSM 2162
+384616	5896.00000	0.00103	subspecies	-Pyrobaculum islandicum DSM 4184
+399550	5214.00000	0.00091	subspecies	-Staphylothermus marinus F1
+330779	5393.00000	0.00094	subspecies	-Sulfolobus acidocaldarius DSM 639
+177437	11355.00000	0.00198	subspecies	-Desulfobacterium autotrophicum HRM2
+339860	2781.00000	0.00049	subspecies	-Methanosphaera stadtmanae DSM 3091
+644295	9882.00000	0.00173	subspecies	-Methanohalobium evestigatum Z-7303
+338963	5933.00000	0.00104	subspecies	-Pelobacter carbinolicus DSM 2380
+484019	3733.00000	0.00065	subspecies	-Thermosipho africanus TCF52B
+381764	5011.00000	0.00087	subspecies	-Fervidobacterium nodosum Rt17-B1
+582402	11736.00000	0.00205	subspecies	-Hirschia baltica ATCC 49814
+1087479	100000.00000	0.01746	subspecies	-Carnobacterium maltaromaticum ATCC 35586
+547559	17090.00000	0.00298	subspecies	-Natrialba magadii ATCC 43099
+302911	0.00000	0.00000	subspecies	-Bifidobacterium animalis subsp. lactis
+442563	5653.00000	0.00099	subspecies	--Bifidobacterium animalis subsp. lactis AD011
+365659	1786.00000	0.00031	subspecies	-Streptococcus mitis B6
+351607	5875.00000	0.00103	subspecies	-Acidothermus cellulolyticus 11B
+484022	7359.00000	0.00128	subspecies	-Francisella philomiragia subsp. philomiragia ATCC 25017
+910312	100000.00000	0.01746	subspecies	-Porphyromonas asaccharolytica PR426713P-I
+1051649	100000.00000	0.01746	subspecies	-Vibrio nigripulchritudo ATCC 27043
+521045	5736.00000	0.00100	subspecies	-Kosmotoga olearia TBF 19.5.1
+290434	2930.00000	0.00051	subspecies	-Borreliella bavariensis PBi
+272633	1859.00000	0.00032	subspecies	-Mycoplasma penetrans HF-2
+644284	5847.00000	0.00102	subspecies	-Arcanobacterium haemolyticum DSM 20595
+289397	3327.00000	0.00058	subspecies	-Mycoplasma bovis PG45
+259564	5482.00000	0.00096	subspecies	-Methanococcoides burtonii DSM 6242
+272844	11631.00000	0.00203	subspecies	-Pyrococcus abyssi GE5
+1003195	9008.00000	0.00157	subspecies	-Streptomyces cattleya NRRL 8057 = DSM 46488
+147452	0.00000	0.00000	subspecies	-Staphylococcus saprophyticus subsp. saprophyticus
+342451	2532.00000	0.00044	subspecies	--Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1032480	5762.00000	0.00101	subspecies	-Microlunatus phosphovorus NM-1
+204722	5.00000	0.00000	subspecies	-Brucella suis 1330
+141679	0.00000	0.00000	subspecies	-Photorhabdus luminescens subsp. laumondii
+243265	5087.00000	0.00089	subspecies	--Photorhabdus luminescens subsp. laumondii TTO1
+675811	100000.00000	0.01746	subspecies	-Vibrio furnissii CIP 102972
+859194	5397.00000	0.00094	subspecies	-Mycoplasma haemofelis Ohio2
+498743	30370.00000	0.00530	subspecies	-Borrelia garinii PBr
+363253	16928.00000	0.00296	subspecies	-Lawsonia intracellularis PHE/MN1-00
+518766	11420.00000	0.00199	subspecies	-Rhodothermus marinus DSM 4252
+608506	2785.00000	0.00049	subspecies	-Caldicellulosiruptor obsidiansis OB47
+373903	5058.00000	0.00088	subspecies	-Halothermothrix orenii H 168
+309799	4192.00000	0.00073	subspecies	-Dictyoglomus thermophilum H-6-12
+426355	39630.00000	0.00692	subspecies	-Methylobacterium radiotolerans JCM 2831
+269084	246.00000	0.00004	subspecies	-Synechococcus elongatus PCC 6301
+565034	3883.00000	0.00068	subspecies	-Brachyspira hyodysenteriae WA1
+634504	8092.00000	0.00141	subspecies	-Bartonella grahamii as4aup
+637389	23580.00000	0.00412	subspecies	-Acidithiobacillus caldus ATCC 51756
+635013	3051.00000	0.00053	subspecies	-Thermincola potens JR
+240015	5912.00000	0.00103	subspecies	-Acidobacterium capsulatum ATCC 51196
+401053	5966.00000	0.00104	subspecies	-Terriglobus saanensis SP1PR4
+537021	5237.00000	0.00091	subspecies	-Candidatus Liberibacter asiaticus str. psy62
+699246	5597.00000	0.00098	subspecies	-Mageeibacillus indolicus UPII9-5
+395495	4721.00000	0.00082	subspecies	-Leptothrix cholodnii SP-6
+693978	4907.00000	0.00086	subspecies	-Riemerella anatipestifer ATCC 11845 = DSM 15868
+324925	5845.00000	0.00102	subspecies	-Pelodictyon phaeoclathratiforme BU-1
+119072	0.00000	0.00000	subspecies	-Caldanaerobacter subterraneus subsp. tengcongensis
+273068	4496.00000	0.00078	subspecies	--Caldanaerobacter subterraneus subsp. tengcongensis MB4
+519441	3974.00000	0.00069	subspecies	-Streptobacillus moniliformis DSM 12112
+593907	4511.00000	0.00079	subspecies	-Cellulomonas gilvus ATCC 13127
+243231	5417.00000	0.00095	subspecies	-Geobacter sulfurreducens PCA
+309798	5773.00000	0.00101	subspecies	-Coprothermobacter proteolyticus DSM 5265
+347255	4437.00000	0.00077	subspecies	-Rickettsia africae ESF-5
+491952	5759.00000	0.00101	subspecies	-Marinomonas posidonica IVIA-Po-181
+652620	514.00000	0.00009	subspecies	-Rickettsia japonica YH
+743525	2735.00000	0.00048	subspecies	-Thermus scotoductus SA-01
+161	0.00000	0.00000	subspecies	-Treponema pallidum subsp. pallidum
+243276	2324.00000	0.00041	subspecies	--Treponema pallidum subsp. pallidum str. Nichols
+515620	15173.00000	0.00265	subspecies	-[Eubacterium] eligens ATCC 27750
+278148	0.00000	0.00000	subspecies	-Mesorhizobium ciceri biovar biserrulae
+765698	4207.00000	0.00073	subspecies	--Mesorhizobium ciceri biovar biserrulae WSM1271
+263358	10453.00000	0.00183	subspecies	-Verrucosispora maris AB-18-032
+504832	5488.00000	0.00096	subspecies	-Oligotropha carboxidovorans OM5
+1006006	5793.00000	0.00101	subspecies	-Metallosphaera cuprina Ar-4
+523794	2482.00000	0.00043	subspecies	-Leptotrichia buccalis C-1013-b
+446462	4237.00000	0.00074	subspecies	-Actinosynnema mirum DSM 43827
+529709	5829.00000	0.00102	subspecies	-Pyrococcus yayanosii CH1
+406818	5322.00000	0.00093	subspecies	-Xenorhabdus bovienii SS-2004
+903503	5780.00000	0.00101	subspecies	-Candidatus Moranella endobia PCIT
+98794	0.00000	0.00000	subspecies	-Buchnera aphidicola (Schizaphis graminum)
+198804	3314.00000	0.00058	subspecies	--Buchnera aphidicola str. Sg (Schizaphis graminum)
+438753	5364.00000	0.00094	subspecies	-Azorhizobium caulinodans ORS 571
+429009	11851.00000	0.00207	subspecies	-Ammonifex degensii KC4
+315456	11448.00000	0.00200	subspecies	-Rickettsia felis URRWXCal2
+419665	4058.00000	0.00071	subspecies	-Methanococcus aeolicus Nankai-3
+515622	20462.00000	0.00357	subspecies	-Butyrivibrio proteoclasticus B316
+156889	5912.00000	0.00103	subspecies	-Magnetococcus marinus MC-1
+158189	5862.00000	0.00102	subspecies	-Sphaerochaeta globosa str. Buddy
+158190	5787.00000	0.00101	subspecies	-Sphaerochaeta pleomorpha str. Grapes
+213810	5709.00000	0.00100	subspecies	-Ruminococcus champanellensis 18P13 = JCM 17042
+591167	8580.00000	0.00150	subspecies	-Streptomyces pratensis ATCC 33331
+634177	25389.00000	0.00443	subspecies	-Komagataeibacter medellinensis NBRC 3288
+660470	11793.00000	0.00206	subspecies	-Mesotoga prima MesG1.Ag.4.2
+290340	12398.00000	0.00216	subspecies	-Paenarthrobacter aurescens TC1
+446465	4651.00000	0.00081	subspecies	-Brachybacterium faecium DSM 4810

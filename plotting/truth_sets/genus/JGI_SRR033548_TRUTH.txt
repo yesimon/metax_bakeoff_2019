@@ -1,0 +1,8 @@
+1357	2.00000	0.20000	genus	Lactococcus
+1578	2.00000	0.20000	genus	Lactobacillus
+4930	1.00000	0.10000	genus	Saccharomyces
+1253	1.00000	0.10000	genus	Pediococcus
+2239	1.00000	0.10000	genus	Halobacterium
+32	1.00000	0.10000	genus	Myxococcus
+28048	1.00000	0.10000	genus	Acidothermus
+22	1.00000	0.10000	genus	Shewanella

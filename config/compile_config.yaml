@@ -1,0 +1,89 @@
+samples:
+  mini:
+    sample: mini
+    paired: True
+  SRR1106548:
+    sample: SRR1106548
+    sequencer: miseq
+    lc: truseq
+    paired: True
+  hg38:
+    sample: hg38
+    paired: True
+  hg38_rna:
+    sample: hg38_rna
+    paired: True
+  atcc_even.art:
+    sample: 'atcc_even'
+    simulator: art
+    paired: True
+  atcc_staggered.art:
+    sample: 'atcc_staggered'
+    simulator: art
+    paired: True
+  UnAmbiguouslyMapped_ds.7:
+    sample: UnAmbiguouslyMapped_ds.7
+    simulator: art
+  UnAmbiguouslyMapped_ds.buccal:
+    sample: UnAmbiguouslyMapped_ds.buccal
+    simulator: art
+  UnAmbiguouslyMapped_ds.cityparks:
+    sample: UnAmbiguouslyMapped_ds.cityparks
+    simulator: art
+  UnAmbiguouslyMapped_ds.frankengenome:
+    sample: UnAmbiguouslyMapped_ds.frankengenome
+    simulator: art
+  UnAmbiguouslyMapped_ds.frankengenome.mix:
+    sample: UnAmbiguouslyMapped_ds.frankengenome.mix
+    simulator: art
+  UnAmbiguouslyMapped_ds.gut:
+    sample: UnAmbiguouslyMapped_ds.gut
+    simulator: art
+  UnAmbiguouslyMapped_ds.hous1:
+    sample: UnAmbiguouslyMapped_ds.hous1
+    simulator: art
+  UnAmbiguouslyMapped_ds.hous2:
+    sample: UnAmbiguouslyMapped_ds.hous2
+    simulator: art
+  UnAmbiguouslyMapped_ds.nycsm:
+    sample: UnAmbiguouslyMapped_ds.nycsm
+    simulator: art
+  UnAmbiguouslyMapped_ds.soil:
+    sample: UnAmbiguouslyMapped_ds.soil
+    simulator: art
+  DNA1:
+    sample: DNA1
+    sequencer: miseq
+    lc: nextera_xt
+    paired: True
+  DNA2:
+    sample: DNA2
+    sequencer: miseq
+    lc: nextera_xt
+    paired: True
+  RNA1:
+    sample: RNA1
+    sequencer: miseq
+    lc: nextera_xt
+    paired: True
+  RNA2:
+    sample: RNA2
+    sequencer: miseq
+    lc: nextera_xt
+    paired: True
+  NTC:
+    sample: NTC
+    sequencer: miseq
+    lc: nextera_xt
+    paired: True
+  viral_genomes.art:
+    sample: viral_genomes
+    simulator: art
+    paired: True
+  viral_refseqc:
+    sample: viral_refseqc
+    simulator: art
+    paired: True
+  hg38_rna_mini:
+    sample: hg38_rna_mini
+    simulator: fluxsimulator

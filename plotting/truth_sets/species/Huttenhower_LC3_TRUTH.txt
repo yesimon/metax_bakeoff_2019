@@ -1,0 +1,25 @@
+863	1.00000	0.04000	species	Syntrophomonas wolfei
+769	1.00000	0.04000	species	Anaplasma centrale
+1423	1.00000	0.04000	species	Bacillus subtilis
+1452	1.00000	0.04000	species	Bacillus atrophaeus
+1587	1.00000	0.04000	species	Lactobacillus helveticus
+1764	1.00000	0.04000	species	Mycobacterium avium
+2746	1.00000	0.04000	species	Halomonas elongata
+28151	1.00000	0.04000	species	Serratia proteamaculans
+212	1.00000	0.04000	species	Helicobacter acinonychis
+727	1.00000	0.04000	species	Haemophilus influenzae
+33959	1.00000	0.04000	species	Lactobacillus johnsonii
+50052	1.00000	0.04000	species	Mycoplasma crocodyli
+986	1.00000	0.04000	species	Flavobacterium johnsoniae
+55206	1.00000	0.04000	species	Spirochaeta smaragdinae
+55802	1.00000	0.04000	species	Thermococcus barophilus
+68909	1.00000	0.04000	species	Deinococcus geothermalis
+69966	1.00000	0.04000	species	Macrococcus caseolyticus
+672	1.00000	0.04000	species	Vibrio vulnificus
+354	1.00000	0.04000	species	Azotobacter vinelandii
+152480	1.00000	0.04000	species	Burkholderia ambifaria
+160791	1.00000	0.04000	species	Sphingomonas wittichii
+186490	1.00000	0.04000	species	Candidatus Baumannia cicadellinicola
+217	1.00000	0.04000	species	Helicobacter mustelae
+470934	1.00000	0.04000	species	Pantoea vagans
+28450	1.00000	0.04000	species	Burkholderia pseudomallei

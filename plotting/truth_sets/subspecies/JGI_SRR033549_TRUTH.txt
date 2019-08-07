@@ -1,0 +1,12 @@
+278197	1.00000	0.10000	subspecies	-Pediococcus pentosaceus ATCC 25745
+1360	0.00000	0.00000	subspecies	-Lactococcus lactis subsp. lactis
+272623	1.00000	0.10000	subspecies	--Lactococcus lactis subsp. lactis Il1403
+1359	0.00000	0.00000	subspecies	-Lactococcus lactis subsp. cremoris
+272622	1.00000	0.10000	subspecies	--Lactococcus lactis subsp. cremoris SK11
+387344	1.00000	0.10000	subspecies	-Lactobacillus brevis ATCC 367
+321967	1.00000	0.10000	subspecies	-Lactobacillus paracasei ATCC 334
+64091	1.00000	0.10000	subspecies	-Halobacterium salinarum NRC-1
+559292	1.00000	0.10000	subspecies	-Saccharomyces cerevisiae S288c
+351607	1.00000	0.10000	subspecies	-Acidothermus cellulolyticus 11B
+326297	1.00000	0.10000	subspecies	-Shewanella amazonensis SB2B
+246197	1.00000	0.10000	subspecies	-Myxococcus xanthus DK 1622

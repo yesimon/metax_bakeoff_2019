@@ -1,0 +1,12 @@
+286	100000.00000	0.20000	genus	Pseudomonas
+547	75000.00000	0.15000	genus	Enterobacter
+22	50000.00000	0.10000	genus	Shewanella
+1350	50000.00000	0.10000	genus	Enterococcus
+1386	50000.00000	0.10000	genus	Bacillus
+1301	25000.00000	0.05000	genus	Streptococcus
+497	25000.00000	0.05000	genus	Psychrobacter
+40323	25000.00000	0.05000	genus	Stenotrophomonas
+53246	25000.00000	0.05000	genus	Pseudoalteromonas
+561	25000.00000	0.05000	genus	Escherichia
+629	25000.00000	0.05000	genus	Yersinia
+1279	25000.00000	0.05000	genus	Staphylococcus

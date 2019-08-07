@@ -1,0 +1,10 @@
+2104	1.00000	0.10000	species	Mycoplasma pneumoniae
+28037	1.00000	0.10000	species	Streptococcus mitis
+28132	1.00000	0.10000	species	Prevotella melaninogenica
+29466	1.00000	0.10000	species	Veillonella parvula
+837	1.00000	0.10000	species	Porphyromonas gingivalis
+1261	1.00000	0.10000	species	Peptostreptococcus anaerobius
+851	1.00000	0.10000	species	Fusobacterium nucleatum
+1303	1.00000	0.10000	species	Streptococcus oralis
+2047	1.00000	0.10000	species	Rothia dentocariosa
+341694	1.00000	0.10000	species	Peptostreptococcus stomatis

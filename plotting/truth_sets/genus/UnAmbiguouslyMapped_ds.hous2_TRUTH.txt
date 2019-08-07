@@ -1,0 +1,5 @@
+1716	275000.00000	0.55000	genus	Corynebacterium
+1301	100000.00000	0.20000	genus	Streptococcus
+469	50000.00000	0.10000	genus	Acinetobacter
+1279	50000.00000	0.10000	genus	Staphylococcus
+1743	25000.00000	0.05000	genus	Propionibacterium

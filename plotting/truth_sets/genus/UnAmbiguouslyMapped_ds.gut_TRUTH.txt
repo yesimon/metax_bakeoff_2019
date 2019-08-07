@@ -1,0 +1,17 @@
+1301	75000.00000	0.15000	genus	Streptococcus
+1279	50000.00000	0.10000	genus	Staphylococcus
+1060	25000.00000	0.05000	genus	Rhodobacter
+286	25000.00000	0.05000	genus	Pseudomonas
+469	25000.00000	0.05000	genus	Acinetobacter
+1298	25000.00000	0.05000	genus	Deinococcus
+482	25000.00000	0.05000	genus	Neisseria
+1350	25000.00000	0.05000	genus	Enterococcus
+1386	25000.00000	0.05000	genus	Bacillus
+1485	25000.00000	0.05000	genus	Clostridium
+1578	25000.00000	0.05000	genus	Lactobacillus
+1637	25000.00000	0.05000	genus	Listeria
+1654	25000.00000	0.05000	genus	Actinomyces
+1743	25000.00000	0.05000	genus	Propionibacterium
+561	25000.00000	0.05000	genus	Escherichia
+209	25000.00000	0.05000	genus	Helicobacter
+816	25000.00000	0.05000	genus	Bacteroides

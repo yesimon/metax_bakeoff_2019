@@ -1,0 +1,25 @@
+46170	0.00000	0.00000	subspecies	-Staphylococcus aureus subsp. aureus
+93062	25000.00000	0.05000	subspecies	--Staphylococcus aureus subsp. aureus COL
+525376	25000.00000	0.05000	subspecies	-Staphylococcus epidermidis W23144
+243230	25000.00000	0.05000	subspecies	-Deinococcus radiodurans R1
+1074120	25000.00000	0.05000	subspecies	-Streptococcus mutans TCI-125
+1154870	25000.00000	0.05000	subspecies	-Streptococcus agalactiae MRI Z1-039
+516950	25000.00000	0.05000	subspecies	-Streptococcus pneumoniae CGSP14
+749498	25000.00000	0.05000	subspecies	-Enterococcus faecalis TX0027
+526973	25000.00000	0.05000	subspecies	-Bacillus cereus m1293
+290402	25000.00000	0.05000	subspecies	-Clostridium beijerinckii NCIMB 8052
+1403312	25000.00000	0.05000	subspecies	-Lactobacillus gasseri 130918
+393123	25000.00000	0.05000	subspecies	-Listeria monocytogenes FSL N1-017
+411466	25000.00000	0.05000	subspecies	-Actinomyces odontolyticus ATCC 17982
+765115	14455.00000	0.02891	subspecies	-Propionibacterium acnes HL002PA1
+765105	10545.00000	0.02109	subspecies	-Propionibacterium acnes HL001PA1
+637913	25000.00000	0.05000	subspecies	-Helicobacter pylori v225d
+983918	18223.00000	0.03645	subspecies	-Pseudomonas aeruginosa HB13
+208964	6777.00000	0.01355	subspecies	-Pseudomonas aeruginosa PAO1
+710094	25000.00000	0.05000	subspecies	-Acinetobacter baumannii AB056
+491	0.00000	0.00000	subspecies	-Neisseria meningitidis serogroup B
+630588	25000.00000	0.05000	subspecies	--Neisseria meningitidis alpha710
+168927	0.00000	0.00000	subspecies	-Escherichia coli O111:H-
+585396	25000.00000	0.05000	subspecies	--Escherichia coli O111:H- str. 11128
+435590	25000.00000	0.05000	subspecies	-Bacteroides vulgatus ATCC 8482
+272943	25000.00000	0.05000	subspecies	-Rhodobacter sphaeroides 2.4.1

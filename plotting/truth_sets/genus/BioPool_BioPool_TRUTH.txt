@@ -1,0 +1,10 @@
+1350	12.00000	0.12000	genus	Enterococcus
+1386	12.00000	0.12000	genus	Bacillus
+1578	12.00000	0.12000	genus	Lactobacillus
+1637	12.00000	0.12000	genus	Listeria
+561	12.00000	0.12000	genus	Escherichia
+1279	12.00000	0.12000	genus	Staphylococcus
+590	12.00000	0.12000	genus	Salmonella
+286	12.00000	0.12000	genus	Pseudomonas
+5206	2.00000	0.02000	genus	Filobasidiella
+4930	2.00000	0.02000	genus	Saccharomyces

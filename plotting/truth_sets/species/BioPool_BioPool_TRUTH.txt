@@ -1,0 +1,10 @@
+1351	12.00000	0.12000	species	Enterococcus faecalis
+562	12.00000	0.12000	species	Escherichia coli
+1423	12.00000	0.12000	species	Bacillus subtilis
+1613	12.00000	0.12000	species	Lactobacillus fermentum
+1639	12.00000	0.12000	species	Listeria monocytogenes
+28901	12.00000	0.12000	species	Salmonella enterica
+287	12.00000	0.12000	species	Pseudomonas aeruginosa
+1280	12.00000	0.12000	species	Staphylococcus aureus
+4932	2.00000	0.02000	species	Saccharomyces cerevisiae
+5207	2.00000	0.02000	species	Cryptococcus neoformans

@@ -1,0 +1,4 @@
+1301	400000.00000	0.66667	genus	Streptococcus
+724	100000.00000	0.16667	genus	Haemophilus
+482	50000.00000	0.08333	genus	Neisseria
+29465	50000.00000	0.08333	genus	Veillonella

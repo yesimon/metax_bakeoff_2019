@@ -1,0 +1,45 @@
+286	150000.00000	0.06000	genus	Pseudomonas
+816	100000.00000	0.04000	genus	Bacteroides
+940557	100000.00000	0.04000	genus	Granulicella
+1883	100000.00000	0.04000	genus	Streptomyces
+1817	50000.00000	0.02000	genus	Nocardia
+1827	50000.00000	0.02000	genus	Rhodococcus
+1854	50000.00000	0.02000	genus	Frankia
+237	50000.00000	0.02000	genus	Flavobacterium
+2000	50000.00000	0.02000	genus	Streptosporangium
+2349	50000.00000	0.02000	genus	Haliscomenobacter
+32008	50000.00000	0.02000	genus	Burkholderia
+34072	50000.00000	0.02000	genus	Variovorax
+39643	50000.00000	0.02000	genus	Sorangium
+40323	50000.00000	0.02000	genus	Stenotrophomonas
+379	50000.00000	0.02000	genus	Rhizobium
+68288	50000.00000	0.02000	genus	Cyclobacterium
+561	50000.00000	0.02000	genus	Escherichia
+84567	50000.00000	0.02000	genus	Pedobacter
+590	50000.00000	0.02000	genus	Salmonella
+768	50000.00000	0.02000	genus	Anaplasma
+104264	50000.00000	0.02000	genus	Cellulophaga
+75	50000.00000	0.02000	genus	Caulobacter
+120831	50000.00000	0.02000	genus	Dyadobacter
+32	50000.00000	0.02000	genus	Myxococcus
+146918	50000.00000	0.02000	genus	Salinibacter
+178440	50000.00000	0.02000	genus	Opitutus
+838	50000.00000	0.02000	genus	Prevotella
+1073	50000.00000	0.02000	genus	Rhodopseudomonas
+332162	50000.00000	0.02000	genus	Candidatus Solibacter
+375288	50000.00000	0.02000	genus	Parabacteroides
+390846	50000.00000	0.02000	genus	Echinicola
+392733	50000.00000	0.02000	genus	Terriglobus
+414878	50000.00000	0.02000	genus	Catenulispora
+209	50000.00000	0.02000	genus	Helicobacter
+417127	50000.00000	0.02000	genus	Zunongwangia
+442430	50000.00000	0.02000	genus	Coraliomargarita
+511745	50000.00000	0.02000	genus	Methylacidiphilum
+658061	50000.00000	0.02000	genus	Candidatus Koribacter
+767891	50000.00000	0.02000	genus	Candidatus Puniceispirillum
+1573	50000.00000	0.02000	genus	Clavibacter
+226	50000.00000	0.02000	genus	Alteromonas
+861914	50000.00000	0.02000	genus	Fibrella
+991903	50000.00000	0.02000	genus	Polymorphum
+1649482	50000.00000	0.02000	genus	Pseudopedobacter
+1763	50000.00000	0.02000	genus	Mycobacterium
