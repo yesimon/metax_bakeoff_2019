@@ -49,7 +49,7 @@ rule karp_nofilter_collapse_benchmark:
     benchmark: repeat('benchmark/{seq}/karp.log', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(KARP_SHELL, bench_record=bench_record)
 
 # rule karp:

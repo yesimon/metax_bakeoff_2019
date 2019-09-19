@@ -1,5 +1,5 @@
-KRAKENHLL = config.get('KRAKENHLL', 'krakenhll')
-KRAKENHLL_BUILD = config.get('KRAKENHLL_BUILD', 'krakenhll-build')
+KRAKENHLL = config.get('KRAKENHLL', 'krakenuniq')
+KRAKENHLL_BUILD = config.get('KRAKENHLL_BUILD', 'krakenuniq-build')
 
 
 krakenhll_all_base = expand('reports/{sample}.krakenhll.{{db}}.txt', sample=samples_all)
@@ -70,7 +70,7 @@ rule krakenhll_benchmark:
     benchmark: repeat('benchmark/{seq}.krakenhll.{db}.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(KRAKENHLL_SHELL, bench_record=bench_record)
         shell('truncate -s 0 {output.reads}')
 
@@ -90,7 +90,7 @@ rule krakenhll_refseqc_db:
         ln -s {TAXONOMY_DB}/names.dmp {TAXONOMY_DB}/nodes.dmp {params.dir}/taxonomy
         {PIGZ} -dc {TAXONOMY_DB}/accession2taxid/nucl_gb.accession2taxid.gz > {params.dir}/taxonomy/nucl_gb.accession2taxid
         cp {input.seqmap} {params.dir}/library/
-        dropcache
+        {DROPCACHE}
         ''')
 
         shell('''\

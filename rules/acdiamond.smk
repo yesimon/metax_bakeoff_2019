@@ -86,7 +86,7 @@ rule ac_diamond_benchmark:
     threads: ALL_CORES
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(AC_DIAMOND_SHELL, bench_record=bench_record)
         shell('truncate -s 0 {output}')
 

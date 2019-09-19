@@ -33,7 +33,9 @@ def taxmaps_tax(wildcards):
         raise Exception
 
 taxmaps_rule = '''\
+set +eu
 source activate metax_py2
+set -eu
 rm -rf tmp/taxmaps_{wildcards.seq}
 /usr/bin/time -v -o {log.time} \
   env PATH={GEMPATH}:$PATH \
@@ -78,7 +80,7 @@ rule taxmaps_benchmark:
     benchmark: repeat('benchmark/{seq}/taxmaps.{db}.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(taxmaps_rule, bench_record=bench_record)
 
 TAXMAPS_TBL = config.get('TAXMAPS_TBL', 'taxMaps-taxtbl')
@@ -92,7 +94,7 @@ rule taxmaps_refseqc_db:
          time='time/db/taxmaps/refseqc.log'
     benchmark: 'benchmark/db/taxmaps/refseqc.tsv'
     run:
-        shell('dropcache')
+        shell('{DROPCACHE}')
         shell('''\
         /usr/bin/time -v -o {log.time}  \
         env PATH={GEMPATH}:$PATH \

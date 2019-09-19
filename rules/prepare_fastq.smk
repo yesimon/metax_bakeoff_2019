@@ -131,13 +131,14 @@ rule cd_hit_dup:
     output: 'fastq/cdhit/{seq}.1.fastq.clstr'
     params: ofastq1='fastq/cdhit/{seq}.1.fastq',
             ofastq2='fastq/cdhit/{seq}.2.fastq',
-            args=cd_hit_dup_args
+            args=cd_hit_dup_args,
+            exe=config.get('CD_HIT_DUP', 'cd-hit-dup')
     log: log='log/cdhit/{seq}.log',
          time='time/cdhit/{seq}.log'
     threads: 1
     shell:
         '''
         /usr/bin/time -v -o {log.time} \
-        cd-hit-dup {params.args} 2>&1 | tee {log}
+        {params.exe} {params.args} 2>&1 | tee {log}
         rm -f {params.ofastq1} {params.ofastq2}
         '''

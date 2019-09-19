@@ -22,39 +22,13 @@ rule total_reads:
 
 rule compile_total_reads:
     input: expand('info/{seq}.total_reads.txt', seq=samples_all)
-    output: 'summary/read_counts.tsv'
+    output: 'plotting/read_counts.tsv'
     shell:
         '''
         for i in {input}; do
             NAME="$(echo $(basename $i) | sed 's/.total_reads.txt//' )"
             echo -e "$NAME\t$(cat $i)" >> {output}
         done
-        '''
-
-rule simulated_accessions_all:
-    input: expand('fastq/accessions/{seq}.tsv', seq=[x for x in samples_se if x.startswith('UnAmbiguouslyMapped_ds')] + [x for x in samples_pe if x.startswith('atcc_') or x.startswith('viral_')])
-
-
-def fastq1_input(wildcards):
-    if wildcards.seq in samples_se:
-        return 'fastq/{}.fastq.bz2'.format(wildcards.seq)
-    elif wildcards.seq in samples_pe:
-        return 'fastq/{}_1.fastq.bz2'.format(wildcards.seq)
-
-rule simulated_accessions:
-    input: fq=fastq1_input,
-           a2t='/mnt/metax/nucl.accession2taxid'
-    output: 'fastq/accessions/{seq}.tsv'
-    shell:
-        '''
-        export LC_ALL=C
-        join -t$'\t' -a 1 <(lbzcat {input.fq} | paste - - - - | cut -f1 | sed 's/@//' | cut -d- -f1 | cut -d. -f1 | uniq | sort ) {input.a2t} > {output}
-        '''
-
-rule readclass:
-    shell:
-        '''
-        metax readclass --files {input}
         '''
 
 rule compile_benchmark_all:
@@ -166,9 +140,9 @@ rule compile_database_sizes:
         '''
 
 rule compile_classified_counts:
-    input: expand('classified_count/{sample}.metaphlan2.txt', sample=samples_all),
-           expand('classified_count/{sample}.pathseq.txt', sample=samples_all),
-           expand('classified_count/{sample}.kslam.{db}.txt', sample=samples_all, db=['default', 'refseqc'])
+    input: expand('info/{sample}.metaphlan2.classified_count.txt', sample=samples_all),
+           expand('info/{sample}.pathseq.classified_count.txt', sample=samples_all),
+           expand('info/{sample}.kslam.{db}.classified_count.txt', sample=samples_all, db=['default', 'refseqc'])
     output: 'summary/classified_counts.tsv'
     shell:
         '''
@@ -180,13 +154,11 @@ rule compile_classified_counts:
 
 rule compile_reports:
     input: classified_counts='summary/classified_counts.tsv',
-           total_reads='summary/read_counts.tsv'
-    output: reports='compiled_reports.tsv',
-            ranksum='rank_abundances.tsv'
+           total_reads='plotting/read_counts.tsv',
+           classifer_outs=ALL_CLASSIFIERS_ALL
+    output: reports='plotting/compiled_reports.tsv',
+            ranksum='plotting/rank_abundances.tsv'
     shell:
         '''
-        metax compile --tax-dir {config[TAXONOMY_DB]} --classified-counts {input.classified_counts} --read-counts {input.total_reads} --dir reports --config compile_config.yaml --rank-abundances {output.ranksum} {output.reports}
-
-        cp {output.reports} ~/efs/src/metax/plotting/
-        cp {output.ranksum} ~/efs/src/metax/plotting/
+        metax compile --tax-dir {config[TAXONOMY_DB]} --classified-counts {input.classified_counts} --read-counts {input.total_reads} --dir reports --config config/compile_config.yaml --rank-abundances {output.ranksum} {output.reports}
         '''

@@ -62,10 +62,10 @@ MMSEQS2_NEW_SHELL = '''
 # MMseqs doesn't automatically delete tmp workdir to cache run progress
 rm -r $(readlink -f {TMPDIR}/latest) {TMPDIR}/latest
 '''
+
 rule mmseqs2:
     input: fastx_both_input
-    output: reads='data/{seq}.mmseqs2.{db}.tsv.gz',
-            report='data/{seq}.mmseqs2.{db}.report'
+    output: reads='data/{seq}.mmseqs2.{db}.tsv.gz'
     log: log='log/mmseqs2/{seq}.{db}.log',
          time='time/mmseqs2/{seq}.{db}.log'
     params: db=mmseqs2_db,
@@ -80,7 +80,7 @@ rule mmseqs2:
         MMSEQS2_SHELL
 
 rule mmseqs2_benchmark:
-    input: fastq_both_input
+    input: fastx_both_input
     output: reads='benchmark/data/{seq}.mmseqs2.{db}.tsv.gz'
     log: log='benchmark/log/mmseqs2/{seq}.{db}.log',
          time='benchmark/time/mmseqs2/{seq}.{db}.log'
@@ -95,7 +95,7 @@ rule mmseqs2_benchmark:
     benchmark: repeat('benchmark/{seq}/mmseqs2.{db}.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         else:
             shell('rm {params.query_lca_db} {params.query_db}')
         shell(MMSEQS2_SHELL, bench_record=bench_record)

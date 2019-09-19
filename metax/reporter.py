@@ -105,11 +105,6 @@ class ReportProcessor:
             log.debug('sample not found in config %s', fn_prefix)
         return info
 
-        # if info:
-        #     return info
-        # else:
-        #     log.error('sample not found in config %s', fn_prefix)
-
     def process_file(self, filename, in_f):
         filename = Path(filename)
         self.filename = filename
@@ -125,9 +120,6 @@ class ReportProcessor:
 
         fn_prefix = mo.group('fn_prefix')
         info = self.fn_prefix_info(fn_prefix)
-
-        # if info is None:
-        #     return
 
         dbase = {'sample': info.get('sample', fn_prefix),
                  'paired': info.get('paired', False)}
@@ -461,12 +453,6 @@ class BrackenParser(ReportParser):
             classified_reads += new_reads
             fraction = float(row[6])
 
-            # rank = None
-            # if rank_code == 'S' and fix_species_group:
-            #     db_rank = self.db.ranks.get(taxid)
-            #     if rank and rank == 'species group':
-            #         rank = 'species group'
-
             d = dbase.copy()
             total_reads = self.processor.total_reads[d['sample']]
             d.update({
@@ -509,12 +495,6 @@ class KrakenhllParser(ReportParser):
 
         for row in csv.reader(in_f, delimiter='\t'):
             taxid = int(row[6])
-            # rank = None
-            # if row[7] == 'species' and fix_species_group:
-            #     rank = self.db.ranks.get(taxid)
-            #     if rank and rank == 'species group':
-            #         rank = 'species group'
-            # rank = rank or KRAKEN_CODE_BACK.get(row[7])
             rank = row[7]
             kmers = int(row[3])
             uniq_reads = int(row[2])

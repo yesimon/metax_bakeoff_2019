@@ -1,26 +1,27 @@
 shell.executable('/bin/bash')
 
-from pathlib import Path
 import collections
+import csv
+import itertools
 import os
+from pathlib import Path
 import re
 import subprocess
-import csv
 import textwrap
+from pandas.core.common import flatten
 import psutil
 ALL_MEMORY = int((psutil.virtual_memory().total / 1024 ** 3) - 1)
 MEM_TMPDIR = config.get('MEM_TMPDIR', '/dev/shm')
 
-configfile: 'config.yaml'
+configfile: 'config/config.yaml'
 include: 'rules/config.smk'
-
-PROJECT_NAME = config.get('PROJECT_NAME', os.path.basename(os.getcwd()))
 
 TMPDIR = config.get('TMPDIR', '/tmp')
 PIGZ = config.get('PIGZ', 'pigz')
 SORT = config.get('SORT', 'sort')
 PICARD = config.get('PICARD', 'picard')
 SAMTOOLS = config.get('SAMTOOLS', 'samtools')
+DROPCACHE = config.get('DROPCACHE', 'dropcache')
 
 samples_se = [str(x) for x in set(config.get('samples_se', [])) - set(config.get('exclude_samples_pe', []))]
 samples_pe = [str(x) for x in set(config.get('samples_pe', [])) - set(config.get('exclude_samples', []))]
@@ -98,6 +99,7 @@ def fastx_input(wildcards):
     else:
         raise Exception
 
+include: 'rules/download.smk'
 include: 'rules/bam_to_fastq.smk'
 include: 'rules/prepare_fastq.smk'
 include: 'rules/refseqc.smk'
@@ -130,6 +132,10 @@ include: 'rules/motus.smk'
 include: 'rules/pathseq.smk'
 include: 'rules/prophyle.smk'
 include: 'rules/taxmaps.smk'
+
+ALL_CLASSIFIERS_ALL = list(flatten([
+    MEGABLAST_ALL, CENTRIFUGE_ALL, CLARK_ALL, DIAMOND_ALL, GOTTCHA_ALL, KAIJU_ALL, KSLAM_ALL, KRAKEN_ALL, KRAKEN2_ALL, KRAKENHLL_ALL, METAOTHELLO_ALL, MMSEQS2_ALL, MOTUS_ALL, PATHSEQ_ALL, PROPHYLE_ALL, TAXMAPS_ALL]))
+print(ALL_CLASSIFIERS_ALL)
 
 include: 'rules/reports.smk'
 

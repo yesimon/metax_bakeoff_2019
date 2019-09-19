@@ -2,7 +2,7 @@ from os.path import join
 GATK = config.get('GATK')
 PATHSEQ_DB = config.get('PATHSEQ_DB')
 
-PATHSEQ_ALL = expand('reports/{seq}.pathseq.txt', seq=samples_all), expand('classified_count/{seq}.pathseq.txt', seq=samples_all)
+PATHSEQ_ALL = expand('reports/{seq}.pathseq.txt', seq=samples_all), expand('info/{seq}.pathseq.classified_count.txt', seq=samples_all)
 rule pathseq_all:
     input: PATHSEQ_ALL
 
@@ -42,7 +42,7 @@ rule pathseq_benchmark:
     benchmark: repeat('benchmark/{seq}/pathseq.log', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(PATHSEQ_SHELL, bench_record=bench_record)
 
 def is_paired(wildcards):
@@ -53,7 +53,7 @@ def is_paired(wildcards):
 
 rule pathseq_classified_count:
     input: 'data/{seq}.pathseq.bam'
-    output: 'classified_count/{seq}.pathseq.txt'
+    output: 'info/{seq}.pathseq.classified_count.txt'
     params: is_paired=is_paired
     run:
         if params.is_paired:

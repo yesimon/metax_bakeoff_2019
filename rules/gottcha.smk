@@ -73,6 +73,6 @@ rule gottcha_benchmark:
     benchmark: repeat('benchmark/{seq}/gottcha.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(GOTTCHA_SHELL, bench_record=bench_record)
         shell('truncate -s 0 {output}')

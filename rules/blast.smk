@@ -84,7 +84,7 @@ rule makeblastdb_refseqc_nucl:
     benchmark: 'benchmark/db/megablast/refseqc.tsv'
     shadow: 'shallow'
     run:
-        shell('dropcache')
+        shell('{DROPCACHE}')
         shell('makeblastdb -in {input.fna} -dbtype nucl -out {params.out} -taxid_map <(cut -f1-2 {input.taxid_map}) -parse_seqids',
               bench_record=bench_record)
 
@@ -128,8 +128,7 @@ def blast_db(wildcards):
         raise Exception
 
 rule megablast:
-    input: fasta=fasta_both_input,
-           db=ancient('/dev/shm/{db}/{db}.done')
+    input: fasta=fasta_both_input
     output: 'data/{seq}.megablast.{db,nt|refseqc}.tsv.gz'
     params: blast='blastn',
             db=blast_db,
@@ -147,27 +146,6 @@ rule megablast:
     shell:
         blast_rule
 
-# rule megablast_nt_benchmark:
-#     input: fasta=fasta_both_input,
-#             db=ancient('/dev/shm/nt/nt.done')
-#     output: 'benchmark/data/{seq}.megablast.tsv.gz'
-#     params: blast='blastn',
-#             db=BLAST_NT_SHM_DB,
-#             db_prefix='nt',
-#             tmpout='tmp/{seq}.megablast.tmp',
-#             pipe='tmp/{seq}.megablast.pipe',
-#             task='megablast',
-#             max_hsps='-max_hsps 10'
-#     priority: 77
-#     resources: mem=4
-#     threads: ALL_CORES
-#     log: log='benchmark/log/megablast/{seq}.log',
-#          time='benchmark/time/megablast/{seq}.log'
-#     benchmark: repeat('benchmark/{seq}/megablast.{db}.log', 2)
-#     run:
-#         if benchmark_i == 0:
-#             shell('dropcache')
-#         shell(blast_rule)
 
 rule megablast_report:
     input: data='data/{seq}.megablast.{db}.tsv.gz',

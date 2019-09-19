@@ -20,6 +20,13 @@ setup(
         'metax.db': ['*.sh']
     },
     packages=find_packages(exclude=('tests', 'docs')),
+    install_requires=[
+        'cigar',
+        'ncbitax',
+   ],
+    dependency_links=[
+        'http://github.com/yesimon/ncbitax/tarball/master#egg=ncbitax-1.0'
+    ],
     entry_points = {
         'console_scripts': [
             'metax = metax.__main__:main'

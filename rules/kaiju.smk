@@ -1,7 +1,5 @@
-import os
-
 KAIJU = config.get('KAIJU', 'kaiju')
-KAIJU_REPORT = config.get('KAIJU_REPORT', 'kaijuReport')
+KAIJU_TABLE = config.get('KAIJU_TABLE', 'kaiju2table')
 
 KAIJU_ALL = expand('reports/{sample}.{k}.{db}.tsv', sample=samples_all, k=['kaiju', 'kaiju_genus'], db=['nr', 'refseqc'])
 rule kaiju_all:
@@ -70,8 +68,8 @@ rule kaiju:
 rule kaiju_table:
     input: 'data/{seq}.kaiju.{db}.tsv.gz'
     output: 'reports/{seq}.kaiju.{db}.tsv'
-    params: kaiju_table=config.get('KAIJU_TABLE', 'kaiju2table'),
-            db_dir=config['KAIJU_NR_DB']
+    params: kaiju_table=KAIJU_TABLE,
+            db_dir=kaiju_db
     shell:
         '''
         {params.kaiju_table} -r species -e -p -v -t {params.db_dir}/nodes.dmp -n {params.db_dir}/names.dmp -o {output} <(pigz -dc {input})
@@ -80,39 +78,21 @@ rule kaiju_table:
 rule kaiju_table_genus:
     input: 'data/{seq}.kaiju.{db}.tsv.gz'
     output: 'reports/{seq}.kaiju_genus.{db}.tsv'
-    params: kaiju_table=config.get('KAIJU_TABLE', 'kaiju2table'),
-            db_dir=config['KAIJU_NR_DB']
+    params: kaiju_table=KAIJU_TABLE,
+            db_dir=kaiju_db
     shell:
         '''
         {params.kaiju_table} -r genus -e -p -v -t {params.db_dir}/nodes.dmp -n {params.db_dir}/names.dmp -o {output} <(pigz -dc {input})
         '''
 
-# rule kaiju_report:
-#     input: 'data/{seq}.kaiju.{db}.tsv.gz'
-#     output: 'reports/{seq}.kaiju.{db}.tsv'
-#     params: db=kaiju_db
-#     shell:
-#         '''
-#         {KAIJU_REPORT} -r species -p -v -t {params.db}/nodes.dmp -n {config[KAIJU_NR_DB]}/names.dmp -i <(pigz -dc {input}) -o {output}
-#         '''
-
-# rule kaiju_genus_report:
-#     input: 'data/{seq}.kaiju.{db}.tsv.gz'
-#     output: 'reports/{seq}.kaiju_genus.{db}.tsv'
-#     params: db=kaiju_db
-#     shell:
-#         '''
-#         {KAIJU_REPORT} -r genus -p -v -t {params.db}/nodes.dmp -n {config[KAIJU_NR_DB]}/names.dmp -i <(pigz -dc {input}) -o {output}
-#         '''
-
 KAIJU_REPORT_SHELL = '''\
-{KAIJU_REPORT} -r species -p -v -t {params.db}/nodes.dmp -n {config[KAIJU_NR_DB]}/names.dmp -i <(pigz -dc {output.data}) -o {output.report}
+{params.kaiju_table} -r species -e -p -v -t {params.db_dir}/nodes.dmp -n {params.db_dir}/names.dmp -o {output} <(pigz -dc {input})
 '''
 rule kaiju_benchmark:
     input: fastq_input
     output: data='benchmark/data/{seq}.kaiju.{db}.tsv.gz',
             report='benchmark/reports/{seq}.kaiju.{db}.tsv'
-    params: db=kaiju_db,
+    params: db_dir=kaiju_db,
             db_args=kaiju_db_args,
             inf=kaiju_input_args,
             data='benchmark/data/{seq}.kaiju.{db}.tsv',
@@ -123,7 +103,7 @@ rule kaiju_benchmark:
     benchmark: repeat('benchmark/{seq}/kaiju.{db}.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(KAIJU_SHELL + KAIJU_REPORT_SHELL, bench_record=bench_record)
         shell('truncate -s 0 {output}')
 

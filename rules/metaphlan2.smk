@@ -1,7 +1,7 @@
 METAPHLAN2 = config.get('METAPHLAN2', 'metaphlan2.py')
 MPA_DIR = config.get('MPA_DIR')
 
-METAPHLAN2_ALL = expand('reports/{sample}.metaphlan2.tsv', sample=samples_all) + expand('classified_count/{sample}.metaphlan2.txt', sample=samples_all)
+METAPHLAN2_ALL = expand('reports/{sample}.metaphlan2.tsv', sample=samples_all) + expand('info/{sample}.metaphlan2.classified_count.txt', sample=samples_all)
 rule metaphlan2_all:
     input: METAPHLAN2_ALL
 
@@ -13,7 +13,10 @@ METAPHLAN2_SHELL = '''\
 # Don't use bowtie caching functionality because it's so fast anyways
 rm -f {output.bowtie2out}
 
+# Use set/source activate because of https://github.com/conda/conda/issues/8186
+set +eu
 source activate metax_py2
+set -eu
 /usr/bin/time -v -o {log.time} \
 {METAPHLAN2} --input_type fastq --nproc {threads} \
 --bowtie2out {output.bowtie2out} \
@@ -45,13 +48,13 @@ rule metaphlan2_benchmark:
     benchmark: repeat('benchmark/{seq}/metaphlan2.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(METAPHLAN2_SHELL, bench_record=bench_record)
 
 
 rule metaphlan2_classified_count:
     input: 'data/{seq}.bowtie2out.txt'
-    output: 'classified_count/{seq}.metaphlan2.txt'
+    output: 'info/{seq}.metaphlan2.classified_count.txt'
     shell:
         '''
         cut -f1 {input} | uniq | wc -l > {output}

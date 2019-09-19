@@ -1,4 +1,5 @@
 CENTRIFUGE = config.get('CENTRIFUGE', 'centrifuge')
+CENTRIFUGE_KREPORT = config.get('CENTRIFUGE_KREPORT', 'centrifuge-kreport')
 
 
 CENTRIFUGE_ALL = expand('reports/{sample}.centkraken.{db}.tsv', sample=samples_pe + samples_se, db=['refseqc', 'p_compressed+h+v'])
@@ -30,6 +31,8 @@ def centrifuge_db(wildcards):
         raise Exception
 
 CENTRIFUGE_SHELL = '''\
+export PS1=
+source activate metax_py2
 /usr/bin/time -v -o {log.time} \
 {CENTRIFUGE} -x {params.db}{params.inf} --report-file {output.report} --threads {threads} | pigz -9 -f > {output.data} 2> {log.log}
 '''
@@ -48,15 +51,18 @@ rule centrifuge:
 
 rule centrifuge_kraken_report:
     input: 'data/{seq}.centrifuge.{db}.tsv.gz'
-    output: report='reports/{seq}.centkraken.{db}.tsv'
-    params: db=centrifuge_db
+    output: kreport='reports/{seq}.centkraken.{db}.tsv'
+    params: db=centrifuge_db,
+            exe=CENTRIFUGE_KREPORT
     shell:
         '''
-        /mnt/metax/src/centrifuge/centrifuge-kreport -x {params.db} <(pigz -dc {input}) > {output}
+        export PS1=
+        source activate metax_py2
+        {params.exe} -x {params.db} <(pigz -dc {input}) > {output.kreport}
         '''
 
 CENTRIFUGE_REPORT_SHELL = '''\
-/mnt/metax/src/centrifuge/centrifuge-kreport -x {params.db} <(pigz -dc {output.data}) > {output.kreport}
+{CENTRIFUGE_KREPORT} -x {params.db} <(pigz -dc {output.data}) > {output.kreport}
 '''
 rule centrifuge_bench:
     input: fastx_bz2_input
@@ -72,7 +78,7 @@ rule centrifuge_bench:
     resources: mem=100
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(CENTRIFUGE_SHELL + CENTRIFUGE_REPORT_SHELL, bench_record=bench_record)
 
 rule centrifuge_refseqc_db:
@@ -92,7 +98,7 @@ rule centrifuge_refseqc_db:
         # cat all-*.map > all.map
         # ''')
         shell('''\
-        dropcache
+        {DROPCACHE}
         ''')
         shell('''\
         export TMPDIR={TMPDIR}

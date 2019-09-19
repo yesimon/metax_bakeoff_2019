@@ -61,7 +61,7 @@ rule prophyle_benchmark:
     resources: mem=30
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(PROPHYLE_SHELL)
 
 rule prophyle_lca:
@@ -89,7 +89,7 @@ rule prophyle_refseqc_db:
         mkdir -p db/refseqc/build_prophyle
 
         python -c "from ete3 import ncbi_taxonomy; ncbi_taxonomy.NCBITaxa(taxdump_file='{params.tax_db}/taxdump.tar.gz')"
-        dropcache
+        {DROPCACHE}
         ''')
 
         shell('''\

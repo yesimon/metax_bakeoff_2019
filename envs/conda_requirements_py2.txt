@@ -1,0 +1,7 @@
+bracken=1.0.0
+bzip2
+python>=2.7.10,<3
+metaphlan2=2.2.0
+k-slam=1.0
+pigz
+zstd

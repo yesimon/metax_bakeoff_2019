@@ -1,7 +1,7 @@
 KSLAM = config.get('KSLAM', 'SLAM')
 
-KSLAM_DEFAULT_ALL = expand('reports/{sample}.kslam.default.tsv', sample=samples_all), expand('classified_count/{seq}.kslam.default.txt', seq=samples_all)
-KSLAM_REFSEQC_ALL = expand('reports/{sample}.kslam.refseqc.tsv', sample=samples_all), expand('classified_count/{seq}.kslam.refseqc.txt', seq=samples_all)
+KSLAM_DEFAULT_ALL = expand('reports/{sample}.kslam.default.tsv', sample=samples_all), expand('info/{seq}.kslam.default.classified_count.txt', seq=samples_all)
+KSLAM_REFSEQC_ALL = expand('reports/{sample}.kslam.refseqc.tsv', sample=samples_all), expand('info/{seq}.kslam.refseqc.classified_count.txt', seq=samples_all)
 KSLAM_ALL = KSLAM_DEFAULT_ALL + KSLAM_REFSEQC_ALL
 rule kslam_all:
     input: KSLAM_ALL
@@ -25,6 +25,9 @@ def kslam_db(wildcards):
         raise Exception
 
 KSLAM_SHELL = '''\
+set +eu
+source activate metax_py2
+set -eu
 /usr/bin/time -v -o {log.time} \
 {KSLAM} --db {params.db}{params.opts} --output-file {params.out} {input} 2>&1 | tee {log.log}
 cat {params.out}_PerRead | pigz -9 > {output.data}
@@ -60,7 +63,7 @@ rule kslam_benchmark:
     benchmark: repeat('benchmark/{seq}/kslam.{db}.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(KSLAM_SHELL, bench_record=bench_record)
 
 def paired_n(wildcards):
@@ -73,7 +76,7 @@ def paired_n(wildcards):
 
 rule kslam_classified_count:
     input: 'data/{seq}.kslam.{db}.tsv.gz'
-    output: 'classified_count/{seq}.kslam.{db}.txt'
+    output: 'info/{seq}.kslam.{db}.classified_count.txt'
     params: paired=paired_n
     shell:
         '''
@@ -92,7 +95,7 @@ rule kslam_refseqc_db:
     run:
         shell('''\
         mkdir -p db/refseqc/kslam
-        dropcache
+        {DROPCACHE}
         ''')
         shell('''\
         /usr/bin/time -v -o {log.time} \

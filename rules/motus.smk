@@ -48,6 +48,6 @@ rule motus2_benchmark:
     benchmark: repeat('benchmark/{seq}/motus2.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(MOTUS_SHELL, bench_record=bench_record)
         shell('truncate -s 0 {output}')

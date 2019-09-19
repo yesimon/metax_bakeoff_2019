@@ -49,9 +49,9 @@ def clark_input_args(wildcards, input):
         raise Exception
 
 def clark_db_args(wildcards, input, output):
-    if output[0].endswith('default_bv.csv'):
+    if output[0].endswith('default_bv.csv.gz'):
         db = config.get('CLARK_BV_DB')
-    elif output[0].endswith('refseqc.csv'):
+    elif output[0].endswith('refseqc.csv.gz'):
         db = config.get('CLARK_REFSEQC_DB')
     else:
         raise Exception
@@ -66,9 +66,9 @@ def clark_db_args(wildcards, input, output):
 
 def clark_exe(wildcards, input, output):
     if wildcards.exe == 'clark':
-        return config.get('CLARK')
+        return config.get('CLARK', 'CLARK')
     elif wildcards.exe == 'clark_s':
-        return config.get('CLARK_S')
+        return config.get('CLARK_S', 'CLARK-S')
 
 def clark_mem(wildcards):
     if wildcards.db == 'refseqc':
@@ -140,7 +140,7 @@ def abundance_clark_exe(wildcards, input, output):
     return os.path.join(os.path.dirname(dirname), 'getAbundance')
 
 rule clark_abundance:
-    input: 'data/{seq}.{exe}{rank,(_genus)?}.{db}.csv'
+    input: 'data/{seq}.{exe}{rank,(_genus)?}.{db}.csv.gz'
     output: 'reports/{seq}.{exe}{rank,(_genus)?}.{db}.csv'
     params: exe=abundance_clark_exe,
             db=clark_abundance_db_args
@@ -148,7 +148,7 @@ rule clark_abundance:
         exe="(clark)|(clark_s)"
     shell:
         '''
-        {params.exe} -F {input} {params.db} > {output}
+        {params.exe} -F <(zcat {input}) {params.db} > {output}
         '''
 
 CLARK_BENCHMARK_ABUNDANCE_SHELL = '{params.abundance_exe} -F {output.data} {params.abundance_db} > {output.report}'
@@ -172,7 +172,7 @@ rule clark_benchmark:
     benchmark: repeat('benchmark/{seq}/{exe}.{db}.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(CLARK_SHELL + CLARK_BENCHMARK_ABUNDANCE_SHELL, bench_record=bench_record)
         shell('truncate -s 0 {output}')
 
@@ -184,7 +184,7 @@ rule clark_refseqc_db:
          time='time/db/clark/refseqc.log'
     benchmark: 'benchmark/db/clark/refseqc.tsv'
     run:
-        shell('dropcache')
+        shell('{DROPCACHE}')
         shell('''\
         /usr/bin/time -v -o {log.time}  \
         {config[CLARK_OPT]}/set_targets.sh /mnt/metax/workflow/db/refseqc/clark custom
@@ -199,7 +199,7 @@ rule clark_s_refseqc_db:
          time='time/db/clark_s/refseqc.log'
     benchmark: 'benchmark/db/clark_s/refseqc.tsv'
     run:
-        shell('dropcache')
+        shell('{DROPCACHE}')
         shell('''\
         echo "$(readlink -f {params.dir}/custom_0)" > {config[CLARK_OPT]}/.dbAddress
         # Must be in the CLARK install directory

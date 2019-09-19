@@ -1,0 +1,89 @@
+samples_pe:
+  - NTC
+
+samples_se: []
+
+benchmark_samples_pe:
+  - DNA1
+
+benchmark_samples_se:
+  - UnAmbiguouslyMapped_ds.7
+  - UnAmbiguouslyMapped_ds.nycsm
+
+samples_fasta: []
+
+TMPDIR: tmp
+TAXONOMY_DB: db/taxonomy
+DROPCACHE: src/local/bin/dropcache
+
+BRACKEN: est_abundance.py
+BRACKEN_DEFAULT_DB: db/bracken/default/kmer_distr.150.txt
+BRACKEN_REFSEQC_DB: db/bracken/refseqc/kmer_distr.150.txt
+
+BLAST_NT_DB: db/blast/nt
+BLAST_REFSEQC_DB: db/blast/refseqc
+
+CENTRIFUGE_COMPRESSED_DB: db/centrifuge/p_compressed+h+v
+CENTRIFUGE_REFSEQC_DB: db/centrifuge/refseqc
+
+CD_HIT_DUP: src/local/stow/cd-hit-dup-yesimon
+
+CLARK_OPT: src/CLARKSCV1.2.5
+CLARK_BV_DB: db/clark/bacteria_viruses
+CLARK_REFSEQC_DB: db/clark/refseqc/custom
+
+AC_DIAMOND_NR_DB: db/acdiamond/nr
+AC_DIAMOND_REFSEQC_DB: db/ac-diamond/refseqc/refseqc.dmnd
+AC_DIAMOND_BLOCKSIZE: 80
+
+DIAMOND_NR_DB: db/diamond/nr/nr.dmnd
+DIAMOND_REFSEQC_DB: db/diamond/refseqc/refseqc.dmnd
+DIAMOND_TMPDIR: /mnt/metax/workflow/tmp
+DIAMOND_CHUNKS: 1
+DIAMOND_BLOCKSIZE: 51
+
+GOTTCHA: src/GOTTCHA/bin/gottcha.pl
+GOTTCHA_BACTERIA_DB: db/gottcha/default/GOTTCHA_BACTERIA_c4937_k24_u30_xHUMAN3x.species
+GOTTCHA_VIRUS_DB: db/gottcha/default/GOTTCHA_VIRUSES_c5900_k24_u30_xHUMAN3x.species
+
+KAIJU_NR_DB: db/kaiju/nr
+KAIJU_REFSEQC_DB: db/kaiju/refseqc
+
+KARP: src/local/stow/karp-88c5b1/bin/karp
+KARP_SILVA_PREFIX: db/karp/silva/SILVA
+
+KRAKEN_DEFAULT_DB: db/kraken/default
+KRAKEN_REFSEQC_DB: db/kraken/refseqc
+
+KRAKEN2_DEFAULT_DB: db/kraken2/default
+KRAKEN2_REFSEQC_DB: db/kraken2/refseqc
+
+KRAKENHLL_BUILD: krakenuniq-build
+KRAKENHLL_DEFAULT_DB: db/krakenhll/default
+KRAKENHLL_REFSEQC_DB: db/refseqc/krakenhll
+
+KSLAM_DB: db/kslam/default
+KSLAM_REFSEQC_DB: db/kslam/refseqc
+
+METAOTHELLO: src/local/stow/metaothello-15ded5/bin/classifier
+METAOTHELLO_DB: db/metaothello/default
+METAOTHELLO_REFSEQC_DB: db/metaothello/refseqc
+
+MPA_DIR: db/metaphlan2/default
+
+MMSEQS2_NR_DB: db/mmseqs2/nr/nr.db
+MMSEQS2_REFSEQC_DB: db/mmseqs2/refseqc/refseqc.db
+
+PATHSEQ_DB: db/pathseq/default
+
+PROPHYLE_BVP_DB: db/prophyle/default/bvp
+PROPHYLE_REFSEQC_DB: db/prophyle/refseqc/abv
+
+TAXMAPS: python2 src/taxmaps/taxMaps
+TAXMAPS_TBL: python2 src/taxmaps/taxMaps-taxtbl
+TAXMAPS_INDEX: python2 src/taxmaps/taxMaps-index
+GEMPATH: src/gemtools/python/gem/gembinaries
+TAXMAPS_DB: db/taxmaps/default/refseq_complete_bacarchvir.lcak150.gem
+TAXMAPS_TAX: db/taxmaps/default/taxonomy.tbl
+TAXMAPS_REFSEQC_DB: db/taxmaps/refseqc/refseqc.gem
+TAXMAPS_REFSEQC_TAX: db/taxmaps/refseqc/taxonomy.tbl

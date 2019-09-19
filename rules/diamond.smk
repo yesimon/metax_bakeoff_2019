@@ -102,7 +102,7 @@ rule diamond_benchmark:
     threads: ALL_CORES
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell('''\
         {params.input_args} | \
         /usr/bin/time --verbose --append -o {log.time} \
@@ -127,7 +127,7 @@ rule diamond_refseqc_db:
     output: 'db/refseqc/diamond/refseqc.dmnd'
     benchmark: 'benchmark/db/diamond/refseqc.tsv'
     run:
-        shell('dropcache')
+        shell('{DROPCACHE}')
         shell('''\
         {DIAMOND} makedb --in {input.faa} -d db/refseqc/diamond/refseqc
         ''', bench_record=bench_record)

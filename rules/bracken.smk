@@ -2,15 +2,18 @@ BRACKEN = config.get('BRACKEN', 'est_abundance.py')
 
 def bracken_db(wildcards):
     if wildcards.db == 'default':
-        return '/mnt/metax/db/kraken/kraken.default.20180513/KMER_DISTR.150.txt'
+        return config.get('BRACKEN_DEFAULT_DB')
     elif wildcards.db == 'refseqc':
-        return '/mnt/metax/db/refseqc/bracken/KMER_DISTR.150.TXT'
+        return config.get('BRACKEN_REFSEQC_DB')
     else:
         raise Exception
 
 BRACKEN_SHELL = '''\
+set +eu
+source activate metax_py2
+set -eu
 /usr/bin/time -v -o {log.time} \
-python {BRACKEN} -i {input} -k {params.db} -o {output} 2>&1 | tee {log.log}
+{BRACKEN} -i {input} -k {params.db} -o {output} 2>&1 | tee {log.log}
 '''
 
 rule bracken:
@@ -25,16 +28,18 @@ rule bracken:
 rule bracken_genus:
     input: 'reports/{seq}.kraken.{db}.txt'
     output: 'reports/{seq}.bracken_genus.{db}.txt'
-    params: db=bracken_db,
+    params: exe=BRACKEN,
+            db=bracken_db,
             new_report='reports/{seq}.kraken.{db}_bracken.txt'
     log: log='log/bracken/genus/{seq}.{db}.txt',
-            time='time/bracken/genus/{seq}.{db}.txt'
+         time='time/bracken/genus/{seq}.{db}.txt'
     shell:
         '''
+        export PS1=
+        source activate metax_py2
         echo {input}
         /usr/bin/time -v -o {log.time} \
-          python {BRACKEN} -i {input} -k {params.db} -o {output} -l G 2>&1 | tee {log.log}
-        # rm {params.new_report}
+        {params.exe} -i {input} -k {params.db} -o {output} -l G 2>&1 | tee {log.log}
         '''
 
 BRACKEN_ALL = expand('reports/{sample}.bracken{rank}.{db}.txt', sample=samples_all, db=['default', 'refseqc'], rank=['', '_genus'])
@@ -56,7 +61,7 @@ rule bracken_benchmark:
     threads: ALL_CORES
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(BRACKEN_SHELL, bench_record=bench_record)
 
 rule bracken_refseqc_db:
@@ -71,9 +76,11 @@ rule bracken_refseqc_db:
     threads: ALL_CORES
     run:
         shell('''\
-        dropcache
+        {DROPCACHE}
         ''')
         shell(r'''\
+        export PS1=
+        source activate metax_py2
         /usr/bin/time -v -o {log.time} \
         kraken --db {params.kraken_dir} --fasta-input --threads 32 <( find -L {params.kraken_dir}/library \( -name "*.fna" -o -name "*.fa" -o -name "*.fasta" \) -exec cat {{}} + )  > {params.dir}/database.kraken
         /usr/bin/time -v -a -o {log.time} \

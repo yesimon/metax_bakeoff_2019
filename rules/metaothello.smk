@@ -76,7 +76,7 @@ rule metaothello_benchmark:
     benchmark: repeat('benchmark/{seq}/metaothello.{db}.tsv', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(METAOTHELLO_SHELL, bench_record=bench_record)
 
 rule metaothello_report:

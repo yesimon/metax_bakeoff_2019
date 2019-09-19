@@ -93,7 +93,7 @@ rule kraken2_benchmark:
     benchmark: repeat('benchmark/{seq}/kraken2.{db}.log', 2)
     run:
         if benchmark_i == 0:
-            shell('dropcache')
+            shell('{DROPCACHE}')
         shell(KRAKEN2_SHELL, bench_record=bench_record)
         shell('truncate -s 0 {output.reads}')
 
@@ -112,7 +112,7 @@ rule kraken2_refseqc_db:
         mkdir {params.dir}/taxonomy {params.dir}/library
         ln -sf {params.tax_db}/names.dmp {params.tax_db}/nodes.dmp {params.dir}/taxonomy
         {PIGZ} -fdc {params.tax_db}/accession2taxid/nucl_gb.accession2taxid.gz > {params.dir}/taxonomy/nucl_gb.accession2taxid
-        dropcache
+        {DROPCACHE}
         ''')
 
         shell('''\

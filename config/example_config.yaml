@@ -7,18 +7,6 @@ samples_pe:
   - atcc_even
   - atcc_staggered
   - hg38
-  # Optional
-  # - SRR1106548
-  # - viral_refseqc
-  # - ABRF_MGRG_10ng
-  # - ABRF_MGRG_1ng
-  # - ABRF_MGRG_5ng
-  # - ABRF_MGRG_Half
-  # - ABRF_MGRG_Normal
-  # - BioPool
-  # Long inserts not being focused right now
-  # - RM1_S001__insert_5000
-  # - RM1_S002__insert_5000
   - RM2_S001__insert_270
   - RM2_S002__insert_270
   - RL_S001__insert_270
@@ -39,16 +27,6 @@ samples_se:
   - UnAmbiguouslyMapped_ds.hous2
   - UnAmbiguouslyMapped_ds.nycsm
   - UnAmbiguouslyMapped_ds.soil
-  # - HMP_even_illum_SRR172902
-  # - JGI_SRR033547
-  # - JGI_SRR033548
-  # - JGI_SRR033549
-  #  - HMP_even_454_SRR072233
-  #  - SRR072232
-  #  - SRR072233
-  #  - SRR1106548
-  #  - SRR172902
-  #  - SRR172903
 
 benchmark_samples_pe:
   - DNA1
@@ -90,8 +68,8 @@ BLAST_NT_S3_DB: s3://example_bucket/metax/blast/nt/nt.20180405.tar.bz2
 BLAST_REFSEQC_S3_DB: s3://example_bucket/metax/blast/refseqc/refseqc.tar.bz2
 
 CENTRIFUGE: /src/centrifuge/centrifuge
-CENTRIFUGE_COMPRESSED_DB: /db/centrifuge/p_compressed+h+v
-CENTRIFUGE_REFSEQC_DB: /db/refseqc/centrifuge/refseqc
+CENTRIFUGE_COMPRESSED_DB: db/centrifuge/p_compressed+h+v
+CENTRIFUGE_REFSEQC_DB: db/refseqc/centrifuge/refseqc
 
 CLARK_OPT: /src/CLARKSCV1.2.5
 CLARK: /src/CLARKSCV1.2.5/exe/CLARK
@@ -100,69 +78,69 @@ CLARK_BV_DB: /db/clark/bacteria_viruses
 CLARK_REFSEQC_DB: /db/refseqc/clark/custom
 
 AC_DIAMOND: /usr/local/stow/AC-DIAMOND-e9abf6/bin/ac-diamond
-AC_DIAMOND_NR_DB: /db/acdiamond/nr
-AC_DIAMOND_REFSEQC_DB: /db/refseqc/ac-diamond/refseqc.dmnd
+AC_DIAMOND_NR_DB: db/acdiamond/nr
+AC_DIAMOND_REFSEQC_DB: db/refseqc/ac-diamond/refseqc.dmnd
 AC_DIAMOND_BLOCKSIZE: 80
 
 DIAMOND: /usr/local/stow/diamond-0.9.21/bin/diamond
-DIAMOND_NR_DB: /db/diamond/v2/nr.20180420/nr.dmnd
-DIAMOND_REFSEQC_DB: /db/refseqc/diamond/refseqc.tax.dmnd
+DIAMOND_NR_DB: db/diamond/v2/nr.20180420/nr.dmnd
+DIAMOND_REFSEQC_DB: db/refseqc/diamond/refseqc.tax.dmnd
 DIAMOND_TMPDIR: /mnt/metax/workflow/tmp
 DIAMOND_CHUNKS: 1
 DIAMOND_BLOCKSIZE: 51
 
 GOTTCHA: /src/GOTTCHA/bin/gottcha.pl
-GOTTCHA_BACTERIA_DB: /db/gottcha/GOTTCHA_BACTERIA_c4937_k24_u30_xHUMAN3x.species
-GOTTCHA_VIRUS_DB: /db/gottcha/GOTTCHA_VIRUSES_c5900_k24_u30_xHUMAN3x.species
+GOTTCHA_BACTERIA_DB: db/gottcha/GOTTCHA_BACTERIA_c4937_k24_u30_xHUMAN3x.species
+GOTTCHA_VIRUS_DB: db/gottcha/GOTTCHA_VIRUSES_c5900_k24_u30_xHUMAN3x.species
 
 KAIJU: /src/kaiju/bin/kaiju
 KAIJU_TABLE: /usr/local/stow/kaiju-1.7.0/bin/kaiju2table
-KAIJU_NR_DB: /db/kaiju/nr.20180420
-KAIJU_REFSEQC_DB: /db/refseqc/kaiju
+KAIJU_NR_DB: db/kaiju/nr.20180420
+KAIJU_REFSEQC_DB: db/refseqc/kaiju
 
 KARP: /src/Karp/build/src/karp
-KARP_SILVA_PREFIX: /db/karp/silva/SILVA
+KARP_SILVA_PREFIX: db/karp/silva/SILVA
 
 KRAKEN: /usr/local/stow/kraken-352e78/kraken
 KRAKEN_REPORT: /usr/local/stow/kraken-352e78/kraken-report
 KRAKEN_FILTER: /usr/local/stow/kraken-352e78/kraken-filter
-KRAKEN_DEFAULT_DB: /db/kraken/kraken.default.20180513
-KRAKEN_REFSEQC_DB: /db/refseqc/kraken
+KRAKEN_DEFAULT_DB: db/kraken/kraken.default.20180513
+KRAKEN_REFSEQC_DB: db/refseqc/kraken
 
 KRAKEN2: /usr/local/stow/kraken2-fb4522/kraken2
-KRAKEN2_DEFAULT_DB: /db/kraken2
-KRAKEN2_REFSEQC_DB: /db/refseqc/kraken2
+KRAKEN2_DEFAULT_DB: db/kraken2
+KRAKEN2_REFSEQC_DB: db/refseqc/kraken2
 
 KRAKENHLL: /src/krakenhll/installed/krakenhll
 KRAKENHLL_BUILD: /src/krakenhll/installed/krakenhll-build
-KRAKENHLL_DEFAULT_DB: /db/krakenhll/krakenhll.default.20180425
-KRAKENHLL_REFSEQC_DB: /db/refseqc/krakenhll
+KRAKENHLL_DEFAULT_DB: db/krakenhll/krakenhll.default.20180425
+KRAKENHLL_REFSEQC_DB: db/refseqc/krakenhll
 
 KSLAM: /src/k-SLAM/SLAM
-KSLAM_DB: /db/kslam/default.20180423
-KSLAM_REFSEQC_DB: /db/refseqc/kslam
+KSLAM_DB: db/kslam/default.20180423
+KSLAM_REFSEQC_DB: db/refseqc/kslam
 
 METAOTHELLO: /src/metaOthello/classifier/classifier
-METAOTHELLO_DB: /db/metaothello/20161108
-METAOTHELLO_REFSEQC_DB: /db/refseqc/metaothello
+METAOTHELLO_DB: db/metaothello/20161108
+METAOTHELLO_REFSEQC_DB: db/refseqc/metaothello
 
 METAPHLAN2: /src/metaphlan2/metaphlan2.py
-MPA_DIR: /db/metaphlan2/db_v20
+MPA_DIR: db/metaphlan2/db_v20
 
 MMSEQS2: /usr/local/stow/mmseqs2-2949b7/bin/mmseqs
-MMSEQS2_NR_DB: /db/mmseqs2/nr.20180424/nr.db
-MMSEQS2_REFSEQC_DB: /db/refseqc/mmseqs2/refseqc.db
+MMSEQS2_NR_DB: db/mmseqs2/nr.20180424/nr.db
+MMSEQS2_REFSEQC_DB: db/refseqc/mmseqs2/refseqc.db
 
-PATHSEQ_DB: /db/pathseq
+PATHSEQ_DB: db/pathseq
 
-PROPHYLE_BVP_DB: /db/prophyle/default.20171114/bvp
-PROPHYLE_REFSEQC_DB: /db/refseqc/prophyle/abv
+PROPHYLE_BVP_DB: db/prophyle/default.20171114/bvp
+PROPHYLE_REFSEQC_DB: db/refseqc/prophyle/abv
 
 TAXMAPS: python2 /src/taxmaps/taxMaps
 TAXMAPS_TBL: python2 /src/taxmaps/taxMaps-taxtbl
 TAXMAPS_INDEX: python2 /src/taxmaps/taxMaps-index
 GEMPATH: /src/gemtools/python/gem/gembinaries
-TAXMAPS_DB: /db/taxmaps/refseq_complete_bacarchvir/refseq_complete_bacarchvir.lcak150.gem
-TAXMAPS_TAX: /db/taxmaps/taxonomy.tbl
-TAXMAPS_REFSEQC_DB: /db/refseqc/taxmaps/refseqc.gem
-TAXMAPS_REFSEQC_TAX: /db/refseqc/taxmaps/taxonomy.tbl
+TAXMAPS_DB: db/taxmaps/refseq_complete_bacarchvir/refseq_complete_bacarchvir.lcak150.gem
+TAXMAPS_TAX: db/taxmaps/taxonomy.tbl
+TAXMAPS_REFSEQC_DB: db/refseqc/taxmaps/refseqc.gem
+TAXMAPS_REFSEQC_TAX: db/refseqc/taxmaps/taxonomy.tbl
